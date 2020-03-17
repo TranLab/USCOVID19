@@ -328,23 +328,23 @@
 "DE","Sussex","Delaware","US","Sussex, DE","2020-03-16",0,0,0
 "District of Columbia","Aaall","District of Columbia","US","District of Columbia","2020-03-16",22,0,0
 "DC","District of Columbia","District of Columbia","US","District of Columbia, DC","2020-03-16",22,0,0
-"Florida","Aaall","Florida","US","Florida","2020-03-16",142,4,0
-"FL","Alachua","Florida","US","Alachua, FL","2020-03-16",0,0,0
+"Florida","Aaall","Florida","US","Florida","2020-03-16",142,5,0
+"FL","Alachua","Florida","US","Alachua, FL","2020-03-16",2,0,0
 "FL","Baker","Florida","US","Baker, FL","2020-03-16",0,0,0
 "FL","Bay","Florida","US","Bay, FL","2020-03-16",0,0,0
 "FL","Bradford","Florida","US","Bradford, FL","2020-03-16",0,0,0
 "FL","Brevard","Florida","US","Brevard, FL","2020-03-16",0,0,0
-"FL","Broward","Florida","US","Broward, FL","2020-03-16",0,0,0
+"FL","Broward","Florida","US","Broward, FL","2020-03-16",39,0,0
 "FL","Calhoun","Florida","US","Calhoun, FL","2020-03-16",0,0,0
-"FL","Charlotte","Florida","US","Charlotte, FL","2020-03-16",0,0,0
-"FL","Citrus","Florida","US","Citrus, FL","2020-03-16",0,0,0
-"FL","Clay","Florida","US","Clay, FL","2020-03-16",0,0,0
-"FL","Collier","Florida","US","Collier, FL","2020-03-16",0,0,0
+"FL","Charlotte","Florida","US","Charlotte, FL","2020-03-16",1,0,0
+"FL","Citrus","Florida","US","Citrus, FL","2020-03-16",1,0,0
+"FL","Clay","Florida","US","Clay, FL","2020-03-16",3,0,0
+"FL","Collier","Florida","US","Collier, FL","2020-03-16",6,0,0
 "FL","Columbia","Florida","US","Columbia, FL","2020-03-16",0,0,0
 "FL","DeSoto","Florida","US","DeSoto, FL","2020-03-16",0,0,0
 "FL","Dixie","Florida","US","Dixie, FL","2020-03-16",0,0,0
-"FL","Duval","Florida","US","Duval, FL","2020-03-16",0,0,0
-"FL","Escambia","Florida","US","Escambia, FL","2020-03-16",0,0,0
+"FL","Duval","Florida","US","Duval, FL","2020-03-16",5,0,0
+"FL","Escambia","Florida","US","Escambia, FL","2020-03-16",1,0,0
 "FL","Flagler","Florida","US","Flagler, FL","2020-03-16",0,0,0
 "FL","Franklin","Florida","US","Franklin, FL","2020-03-16",0,0,0
 "FL","Gadsden","Florida","US","Gadsden, FL","2020-03-16",0,0,0
@@ -356,43 +356,43 @@
 "FL","Hendry","Florida","US","Hendry, FL","2020-03-16",0,0,0
 "FL","Hernando","Florida","US","Hernando, FL","2020-03-16",0,0,0
 "FL","Highlands","Florida","US","Highlands, FL","2020-03-16",0,0,0
-"FL","Hillsborough","Florida","US","Hillsborough, FL","2020-03-16",0,0,0
+"FL","Hillsborough","Florida","US","Hillsborough, FL","2020-03-16",5,0,0
 "FL","Holmes","Florida","US","Holmes, FL","2020-03-16",0,0,0
 "FL","Indian River","Florida","US","Indian River, FL","2020-03-16",0,0,0
 "FL","Jackson","Florida","US","Jackson, FL","2020-03-16",0,0,0
 "FL","Jefferson","Florida","US","Jefferson, FL","2020-03-16",0,0,0
 "FL","Lafayette","Florida","US","Lafayette, FL","2020-03-16",0,0,0
-"FL","Lake","Florida","US","Lake, FL","2020-03-16",0,0,0
-"FL","Lee","Florida","US","Lee, FL","2020-03-16",0,0,0
+"FL","Lake","Florida","US","Lake, FL","2020-03-16",1,0,0
+"FL","Lee","Florida","US","Lee, FL","2020-03-16",4,0,0
 "FL","Leon","Florida","US","Leon, FL","2020-03-16",0,0,0
 "FL","Levy","Florida","US","Levy, FL","2020-03-16",0,0,0
 "FL","Liberty","Florida","US","Liberty, FL","2020-03-16",0,0,0
 "FL","Madison","Florida","US","Madison, FL","2020-03-16",0,0,0
-"FL","Manatee","Florida","US","Manatee, FL","2020-03-16",0,0,0
+"FL","Manatee","Florida","US","Manatee, FL","2020-03-16",5,0,0
 "FL","Marion","Florida","US","Marion, FL","2020-03-16",0,0,0
 "FL","Martin","Florida","US","Martin, FL","2020-03-16",0,0,0
-"FL","Miami-Dade","Florida","US","Miami-Dade, FL","2020-03-16",0,0,0
+"FL","Miami-Dade","Florida","US","Miami-Dade, FL","2020-03-16",23,0,0
 "FL","Monroe","Florida","US","Monroe, FL","2020-03-16",0,0,0
-"FL","Nassau","Florida","US","Nassau, FL","2020-03-16",0,0,0
-"FL","Okaloosa","Florida","US","Okaloosa, FL","2020-03-16",0,0,0
+"FL","Nassau","Florida","US","Nassau, FL","2020-03-16",1,0,0
+"FL","Okaloosa","Florida","US","Okaloosa, FL","2020-03-16",1,0,0
 "FL","Okeechobee","Florida","US","Okeechobee, FL","2020-03-16",0,0,0
-"FL","Orange","Florida","US","Orange, FL","2020-03-16",0,0,0
-"FL","Osceola","Florida","US","Osceola, FL","2020-03-16",0,0,0
-"FL","Palm Beach","Florida","US","Palm Beach, FL","2020-03-16",0,0,0
-"FL","Pasco","Florida","US","Pasco, FL","2020-03-16",0,0,0
-"FL","Pinellas","Florida","US","Pinellas, FL","2020-03-16",0,0,0
+"FL","Orange","Florida","US","Orange, FL","2020-03-16",3,1,0
+"FL","Osceola","Florida","US","Osceola, FL","2020-03-16",4,0,0
+"FL","Palm Beach","Florida","US","Palm Beach, FL","2020-03-16",8,0,0
+"FL","Pasco","Florida","US","Pasco, FL","2020-03-16",2,0,0
+"FL","Pinellas","Florida","US","Pinellas, FL","2020-03-16",4,0,0
 "FL","Polk","Florida","US","Polk, FL","2020-03-16",0,0,0
 "FL","Putnam","Florida","US","Putnam, FL","2020-03-16",0,0,0
-"FL","Santa Rosa","Florida","US","Santa Rosa, FL","2020-03-16",0,0,0
-"FL","Sarasota","Florida","US","Sarasota, FL","2020-03-16",0,0,0
-"FL","Seminole","Florida","US","Seminole, FL","2020-03-16",0,0,0
-"FL","St. Johns","Florida","US","St. Johns, FL","2020-03-16",0,0,0
+"FL","Santa Rosa","Florida","US","Santa Rosa, FL","2020-03-16",1,0,0
+"FL","Sarasota","Florida","US","Sarasota, FL","2020-03-16",3,0,0
+"FL","Seminole","Florida","US","Seminole, FL","2020-03-16",4,0,0
+"FL","St. Johns","Florida","US","St. Johns, FL","2020-03-16",2,0,0
 "FL","St. Lucie","Florida","US","St. Lucie, FL","2020-03-16",0,0,0
 "FL","Sumter","Florida","US","Sumter, FL","2020-03-16",0,0,0
 "FL","Suwannee","Florida","US","Suwannee, FL","2020-03-16",0,0,0
 "FL","Taylor","Florida","US","Taylor, FL","2020-03-16",0,0,0
 "FL","Union","Florida","US","Union, FL","2020-03-16",0,0,0
-"FL","Volusia","Florida","US","Volusia, FL","2020-03-16",0,0,0
+"FL","Volusia","Florida","US","Volusia, FL","2020-03-16",7,0,0
 "FL","Wakulla","Florida","US","Wakulla, FL","2020-03-16",0,0,0
 "FL","Walton","Florida","US","Walton, FL","2020-03-16",0,0,0
 "FL","Washington","Florida","US","Washington, FL","2020-03-16",0,0,0
