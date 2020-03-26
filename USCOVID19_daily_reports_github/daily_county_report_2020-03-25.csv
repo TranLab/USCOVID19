@@ -67,7 +67,7 @@
 "AL","Washington","Alabama","US","Washington, AL",2020-03-25,1,0,0
 "AL","Wilcox","Alabama","US","Wilcox, AL",2020-03-25,0,0,0
 "AL","Winston","Alabama","US","Winston, AL",2020-03-25,0,0,0
-"Alaska","Aaall","Alaska","US","Alaska",2020-03-25,36,0,0
+"Alaska","Aaall","Alaska","US","Alaska",2020-03-25,42,0,0
 "AK","Aleutians East Borough","Alaska","US","Aleutians East Borough, AK",2020-03-25,0,0,0
 "AK","Aleutians West Census Area","Alaska","US","Aleutians West Census Area, AK",2020-03-25,0,0,0
 "AK","Anchorage Municipality","Alaska","US","Anchorage Municipality, AK",2020-03-25,17,0,0
@@ -75,13 +75,13 @@
 "AK","Bristol Bay Borough","Alaska","US","Bristol Bay Borough, AK",2020-03-25,0,0,0
 "AK","Denali Borough","Alaska","US","Denali Borough, AK",2020-03-25,0,0,0
 "AK","Dillingham Census Area","Alaska","US","Dillingham Census Area, AK",2020-03-25,0,0,0
-"AK","Fairbanks North Star Borough","Alaska","US","Fairbanks North Star Borough, AK",2020-03-25,7,0,0
+"AK","Fairbanks North Star Borough","Alaska","US","Fairbanks North Star Borough, AK",2020-03-25,9,0,0
 "AK","Haines Borough","Alaska","US","Haines Borough, AK",2020-03-25,0,0,0
 "AK","Hoonah-Angoon Census Area","Alaska","US","Hoonah-Angoon Census Area, AK",2020-03-25,0,0,0
-"AK","Juneau City and Borough","Alaska","US","Juneau City and Borough, AK",2020-03-25,0,0,0
-"AK","Kenai Peninsula Borough","Alaska","US","Kenai Peninsula Borough, AK",2020-03-25,3,0,0
-"AK","Ketchikan Gateway Borough","Alaska","US","Ketchikan Gateway Borough, AK",2020-03-25,6,0,0
-"AK","Kodiak Island Borough","Alaska","US","Kodiak Island Borough, AK",2020-03-25,7,0,0
+"AK","Juneau City and Borough","Alaska","US","Juneau City and Borough, AK",2020-03-25,2,0,0
+"AK","Kenai Peninsula Borough","Alaska","US","Kenai Peninsula Borough, AK",2020-03-25,4,0,0
+"AK","Ketchikan Gateway Borough","Alaska","US","Ketchikan Gateway Borough, AK",2020-03-25,8,0,0
+"AK","Kodiak Island Borough","Alaska","US","Kodiak Island Borough, AK",2020-03-25,0,0,0
 "AK","Kusilvak Census Area","Alaska","US","Kusilvak Census Area, AK",2020-03-25,0,0,0
 "AK","Lake and Peninsula Borough","Alaska","US","Lake and Peninsula Borough, AK",2020-03-25,0,0,0
 "AK","Matanuska-Susitna Borough","Alaska","US","Matanuska-Susitna Borough, AK",2020-03-25,2,0,0
@@ -125,7 +125,7 @@
 "AR","Chicot","Arkansas","US","Chicot, AR",2020-03-25,0,0,0
 "AR","Clark","Arkansas","US","Clark, AR",2020-03-25,12,0,0
 "AR","Clay","Arkansas","US","Clay, AR",2020-03-25,0,0,0
-"AR","Cleburne","Arkansas","US","Cleburne, AR",2020-03-25,42,0,0
+"AR","Cleburne","Arkansas","US","Cleburne, AR",2020-03-25,40,1,0
 "AR","Cleveland","Arkansas","US","Cleveland, AR",2020-03-25,1,0,0
 "AR","Columbia","Arkansas","US","Columbia, AR",2020-03-25,1,0,0
 "AR","Conway","Arkansas","US","Conway, AR",2020-03-25,1,0,0
@@ -136,7 +136,7 @@
 "AR","Dallas","Arkansas","US","Dallas, AR",2020-03-25,0,0,0
 "AR","Desha","Arkansas","US","Desha, AR",2020-03-25,4,0,0
 "AR","Drew","Arkansas","US","Drew, AR",2020-03-25,1,0,0
-"AR","Faulkner","Arkansas","US","Faulkner, AR",2020-03-25,23,0,0
+"AR","Faulkner","Arkansas","US","Faulkner, AR",2020-03-25,23,1,0
 "AR","Franklin","Arkansas","US","Franklin, AR",2020-03-25,0,0,0
 "AR","Fulton","Arkansas","US","Fulton, AR",2020-03-25,0,0,0
 "AR","Garland","Arkansas","US","Garland, AR",2020-03-25,16,0,0
@@ -182,81 +182,81 @@
 "AR","Sevier","Arkansas","US","Sevier, AR",2020-03-25,3,0,0
 "AR","Sharp","Arkansas","US","Sharp, AR",2020-03-25,0,0,0
 "AR","St. Francis","Arkansas","US","St. Francis, AR",2020-03-25,0,0,0
-"AR","Stone","Arkansas","US","Stone, AR",2020-03-25,3,0,0
-"AR","Union","Arkansas","US","Union, AR",2020-03-25,2,0,0
+"AR","Stone","Arkansas","US","Stone, AR",2020-03-25,1,0,0
+"AR","Union","Arkansas","US","Union, AR",2020-03-25,1,0,0
 "AR","Van Buren","Arkansas","US","Van Buren, AR",2020-03-25,8,0,0
 "AR","Washington","Arkansas","US","Washington, AR",2020-03-25,6,0,0
 "AR","White","Arkansas","US","White, AR",2020-03-25,3,0,0
 "AR","Woodruff","Arkansas","US","Woodruff, AR",2020-03-25,2,0,0
 "AR","Yell","Arkansas","US","Yell, AR",2020-03-25,0,0,0
-"California","Aaall","California","US","California",2020-03-25,2102,40,3
+"California","Aaall","California","US","California",2020-03-25,2588,53,3
 "CA","Alameda","California","US","Alameda, CA",2020-03-25,124,2,0
 "CA","Alpine","California","US","Alpine, CA",2020-03-25,0,0,0
 "CA","Amador","California","US","Amador, CA",2020-03-25,2,0,0
 "CA","Butte","California","US","Butte, CA",2020-03-25,4,0,0
 "CA","Calaveras","California","US","Calaveras, CA",2020-03-25,2,0,0
 "CA","Colusa","California","US","Colusa, CA",2020-03-25,0,0,0
-"CA","Contra Costa","California","US","Contra Costa, CA",2020-03-25,86,1,0
+"CA","Contra Costa","California","US","Contra Costa, CA",2020-03-25,108,1,0
 "CA","Del Norte","California","US","Del Norte, CA",2020-03-25,0,0,0
 "CA","El Dorado","California","US","El Dorado, CA",2020-03-25,3,0,0
-"CA","Fresno","California","US","Fresno, CA",2020-03-25,18,0,0
+"CA","Fresno","California","US","Fresno, CA",2020-03-25,19,0,0
 "CA","Glenn","California","US","Glenn, CA",2020-03-25,0,0,0
-"CA","Humboldt","California","US","Humboldt, CA",2020-03-25,4,0,0
-"CA","Imperial","California","US","Imperial, CA",2020-03-25,6,0,0
+"CA","Humboldt","California","US","Humboldt, CA",2020-03-25,5,0,0
+"CA","Imperial","California","US","Imperial, CA",2020-03-25,9,0,0
 "CA","Inyo","California","US","Inyo, CA",2020-03-25,0,0,0
-"CA","Kern","California","US","Kern, CA",2020-03-25,14,0,0
+"CA","Kern","California","US","Kern, CA",2020-03-25,23,0,0
 "CA","Kings","California","US","Kings, CA",2020-03-25,0,0,0
 "CA","Lake","California","US","Lake, CA",2020-03-25,0,0,0
 "CA","Lassen","California","US","Lassen, CA",2020-03-25,0,0,0
-"CA","Los Angeles","California","US","Los Angeles, CA",2020-03-25,662,11,0
-"CA","Madera","California","US","Madera, CA",2020-03-25,5,0,1
-"CA","Marin","California","US","Marin, CA",2020-03-25,47,0,0
+"CA","Los Angeles","California","US","Los Angeles, CA",2020-03-25,799,13,0
+"CA","Madera","California","US","Madera, CA",2020-03-25,7,0,1
+"CA","Marin","California","US","Marin, CA",2020-03-25,53,0,0
 "CA","Mariposa","California","US","Mariposa, CA",2020-03-25,0,0,0
 "CA","Mendocino","California","US","Mendocino, CA",2020-03-25,1,0,0
 "CA","Merced","California","US","Merced, CA",2020-03-25,1,0,0
 "CA","Modoc","California","US","Modoc, CA",2020-03-25,0,0,0
-"CA","Mono","California","US","Mono, CA",2020-03-25,2,0,0
+"CA","Mono","California","US","Mono, CA",2020-03-25,4,0,0
 "CA","Monterey","California","US","Monterey, CA",2020-03-25,2,0,0
-"CA","Napa","California","US","Napa, CA",2020-03-25,2,0,0
-"CA","Nevada","California","US","Nevada, CA",2020-03-25,3,0,0
-"CA","Orange","California","US","Orange, CA",2020-03-25,152,0,0
-"CA","Placer","California","US","Placer, CA",2020-03-25,26,1,0
+"CA","Napa","California","US","Napa, CA",2020-03-25,3,0,0
+"CA","Nevada","California","US","Nevada, CA",2020-03-25,4,0,0
+"CA","Orange","California","US","Orange, CA",2020-03-25,187,1,0
+"CA","Placer","California","US","Placer, CA",2020-03-25,30,1,0
 "CA","Plumas","California","US","Plumas, CA",2020-03-25,0,0,0
-"CA","Riverside","California","US","Riverside, CA",2020-03-25,59,6,0
-"CA","Sacramento","California","US","Sacramento, CA",2020-03-25,88,4,0
-"CA","San Benito","California","US","San Benito, CA",2020-03-25,7,1,2
-"CA","San Bernardino","California","US","San Bernardino, CA",2020-03-25,31,0,0
+"CA","Riverside","California","US","Riverside, CA",2020-03-25,70,7,0
+"CA","Sacramento","California","US","Sacramento, CA",2020-03-25,113,5,0
+"CA","San Benito","California","US","San Benito, CA",2020-03-25,9,1,2
+"CA","San Bernardino","California","US","San Bernardino, CA",2020-03-25,38,1,0
 "CA","San Diego","California","US","San Diego, CA",2020-03-25,226,1,0
-"CA","San Francisco","California","US","San Francisco, CA",2020-03-25,152,0,0
-"CA","San Joaquin","California","US","San Joaquin, CA",2020-03-25,60,2,0
+"CA","San Francisco","California","US","San Francisco, CA",2020-03-25,178,1,0
+"CA","San Joaquin","California","US","San Joaquin, CA",2020-03-25,71,3,0
 "CA","San Luis Obispo","California","US","San Luis Obispo, CA",2020-03-25,42,0,0
-"CA","San Mateo","California","US","San Mateo, CA",2020-03-25,161,1,0
+"CA","San Mateo","California","US","San Mateo, CA",2020-03-25,165,5,0
 "CA","Santa Barbara","California","US","Santa Barbara, CA",2020-03-25,24,0,0
-"CA","Santa Clara","California","US","Santa Clara, CA",2020-03-25,375,16,0
-"CA","Santa Cruz","California","US","Santa Cruz, CA",2020-03-25,24,0,0
+"CA","Santa Clara","California","US","Santa Clara, CA",2020-03-25,459,17,0
+"CA","Santa Cruz","California","US","Santa Cruz, CA",2020-03-25,25,0,0
 "CA","Shasta","California","US","Shasta, CA",2020-03-25,2,0,0
 "CA","Sierra","California","US","Sierra, CA",2020-03-25,0,0,0
 "CA","Siskiyou","California","US","Siskiyou, CA",2020-03-25,3,0,0
-"CA","Solano","California","US","Solano, CA",2020-03-25,21,0,0
-"CA","Sonoma","California","US","Sonoma, CA",2020-03-25,31,1,2
-"CA","Stanislaus","California","US","Stanislaus, CA",2020-03-25,11,0,0
-"CA","Sutter","California","US","Sutter, CA",2020-03-25,3,0,0
+"CA","Solano","California","US","Solano, CA",2020-03-25,24,0,0
+"CA","Sonoma","California","US","Sonoma, CA",2020-03-25,34,1,2
+"CA","Stanislaus","California","US","Stanislaus, CA",2020-03-25,12,0,0
+"CA","Sutter","California","US","Sutter, CA",2020-03-25,5,0,0
 "CA","Tehama","California","US","Tehama, CA",2020-03-25,0,0,0
 "CA","Trinity","California","US","Trinity, CA",2020-03-25,0,0,0
 "CA","Tulare","California","US","Tulare, CA",2020-03-25,16,0,0
 "CA","Tuolumne","California","US","Tuolumne, CA",2020-03-25,0,0,0
-"CA","Ventura","California","US","Ventura, CA",2020-03-25,35,1,0
+"CA","Ventura","California","US","Ventura, CA",2020-03-25,39,1,0
 "CA","Yolo","California","US","Yolo, CA",2020-03-25,10,1,0
 "CA","Yuba","California","US","Yuba, CA",2020-03-25,3,0,0
-"Colorado","Aaall","Colorado","US","Colorado",2020-03-25,912,11,0
-"CO","Adams","Colorado","US","Adams, CO",2020-03-25,27,0,0
+"Colorado","Aaall","Colorado","US","Colorado",2020-03-25,1086,19,0
+"CO","Adams","Colorado","US","Adams, CO",2020-03-25,38,0,0
 "CO","Alamosa","Colorado","US","Alamosa, CO",2020-03-25,0,0,0
-"CO","Arapahoe","Colorado","US","Arapahoe, CO",2020-03-25,69,0,0
+"CO","Arapahoe","Colorado","US","Arapahoe, CO",2020-03-25,88,0,0
 "CO","Archuleta","Colorado","US","Archuleta, CO",2020-03-25,0,0,0
 "CO","Baca","Colorado","US","Baca, CO",2020-03-25,0,0,0
 "CO","Bent","Colorado","US","Bent, CO",2020-03-25,0,0,0
-"CO","Boulder","Colorado","US","Boulder, CO",2020-03-25,49,0,0
-"CO","Broomfield","Colorado","US","Broomfield, CO",2020-03-25,5,0,0
+"CO","Boulder","Colorado","US","Boulder, CO",2020-03-25,51,0,0
+"CO","Broomfield","Colorado","US","Broomfield, CO",2020-03-25,8,0,0
 "CO","Chaffee","Colorado","US","Chaffee, CO",2020-03-25,3,0,0
 "CO","Cheyenne","Colorado","US","Cheyenne, CO",2020-03-25,0,0,0
 "CO","Clear Creek","Colorado","US","Clear Creek, CO",2020-03-25,3,0,0
@@ -265,26 +265,26 @@
 "CO","Crowley","Colorado","US","Crowley, CO",2020-03-25,1,1,0
 "CO","Custer","Colorado","US","Custer, CO",2020-03-25,0,0,0
 "CO","Delta","Colorado","US","Delta, CO",2020-03-25,1,0,0
-"CO","Denver","Colorado","US","Denver, CO",2020-03-25,176,0,0
+"CO","Denver","Colorado","US","Denver, CO",2020-03-25,214,0,0
 "CO","Dolores","Colorado","US","Dolores, CO",2020-03-25,0,0,0
-"CO","Douglas","Colorado","US","Douglas, CO",2020-03-25,53,0,0
-"CO","Eagle","Colorado","US","Eagle, CO",2020-03-25,96,0,0
-"CO","El Paso","Colorado","US","El Paso, CO",2020-03-25,106,3,0
+"CO","Douglas","Colorado","US","Douglas, CO",2020-03-25,58,0,0
+"CO","Eagle","Colorado","US","Eagle, CO",2020-03-25,120,0,0
+"CO","El Paso","Colorado","US","El Paso, CO",2020-03-25,122,3,0
 "CO","Elbert","Colorado","US","Elbert, CO",2020-03-25,3,0,0
 "CO","Fremont","Colorado","US","Fremont, CO",2020-03-25,1,0,0
-"CO","Garfield","Colorado","US","Garfield, CO",2020-03-25,10,0,0
+"CO","Garfield","Colorado","US","Garfield, CO",2020-03-25,13,0,0
 "CO","Gilpin","Colorado","US","Gilpin, CO",2020-03-25,0,0,0
 "CO","Grand","Colorado","US","Grand, CO",2020-03-25,2,0,0
-"CO","Gunnison","Colorado","US","Gunnison, CO",2020-03-25,40,0,0
+"CO","Gunnison","Colorado","US","Gunnison, CO",2020-03-25,52,0,0
 "CO","Hinsdale","Colorado","US","Hinsdale, CO",2020-03-25,1,0,0
 "CO","Huerfano","Colorado","US","Huerfano, CO",2020-03-25,1,0,0
 "CO","Jackson","Colorado","US","Jackson, CO",2020-03-25,0,0,0
-"CO","Jefferson","Colorado","US","Jefferson, CO",2020-03-25,73,0,0
+"CO","Jefferson","Colorado","US","Jefferson, CO",2020-03-25,93,0,0
 "CO","Kiowa","Colorado","US","Kiowa, CO",2020-03-25,0,0,0
 "CO","Kit Carson","Colorado","US","Kit Carson, CO",2020-03-25,0,0,0
 "CO","La Plata","Colorado","US","La Plata, CO",2020-03-25,1,0,0
 "CO","Lake","Colorado","US","Lake, CO",2020-03-25,0,0,0
-"CO","Larimer","Colorado","US","Larimer, CO",2020-03-25,43,0,0
+"CO","Larimer","Colorado","US","Larimer, CO",2020-03-25,45,0,0
 "CO","Las Animas","Colorado","US","Las Animas, CO",2020-03-25,0,0,0
 "CO","Lincoln","Colorado","US","Lincoln, CO",2020-03-25,0,0,0
 "CO","Logan","Colorado","US","Logan, CO",2020-03-25,2,0,0
@@ -292,60 +292,60 @@
 "CO","Mineral","Colorado","US","Mineral, CO",2020-03-25,0,0,0
 "CO","Moffat","Colorado","US","Moffat, CO",2020-03-25,0,0,0
 "CO","Montezuma","Colorado","US","Montezuma, CO",2020-03-25,0,0,0
-"CO","Montrose","Colorado","US","Montrose, CO",2020-03-25,3,0,0
+"CO","Montrose","Colorado","US","Montrose, CO",2020-03-25,4,0,0
 "CO","Morgan","Colorado","US","Morgan, CO",2020-03-25,3,0,0
-"CO","Otero","Colorado","US","Otero, CO",2020-03-25,0,0,0
+"CO","Otero","Colorado","US","Otero, CO",2020-03-25,1,0,0
 "CO","Ouray","Colorado","US","Ouray, CO",2020-03-25,0,0,0
 "CO","Park","Colorado","US","Park, CO",2020-03-25,1,0,0
 "CO","Phillips","Colorado","US","Phillips, CO",2020-03-25,0,0,0
-"CO","Pitkin","Colorado","US","Pitkin, CO",2020-03-25,18,0,0
+"CO","Pitkin","Colorado","US","Pitkin, CO",2020-03-25,21,0,0
 "CO","Prowers","Colorado","US","Prowers, CO",2020-03-25,0,0,0
 "CO","Pueblo","Colorado","US","Pueblo, CO",2020-03-25,3,0,0
 "CO","Rio Blanco","Colorado","US","Rio Blanco, CO",2020-03-25,0,0,0
 "CO","Rio Grande","Colorado","US","Rio Grande, CO",2020-03-25,0,0,0
-"CO","Routt","Colorado","US","Routt, CO",2020-03-25,4,0,0
+"CO","Routt","Colorado","US","Routt, CO",2020-03-25,6,0,0
 "CO","Saguache","Colorado","US","Saguache, CO",2020-03-25,0,0,0
 "CO","San Juan","Colorado","US","San Juan, CO",2020-03-25,0,0,0
 "CO","San Miguel","Colorado","US","San Miguel, CO",2020-03-25,1,0,0
 "CO","Sedgwick","Colorado","US","Sedgwick, CO",2020-03-25,0,0,0
-"CO","Summit","Colorado","US","Summit, CO",2020-03-25,10,0,0
-"CO","Teller","Colorado","US","Teller, CO",2020-03-25,3,0,0
+"CO","Summit","Colorado","US","Summit, CO",2020-03-25,9,0,0
+"CO","Teller","Colorado","US","Teller, CO",2020-03-25,5,0,0
 "CO","Washington","Colorado","US","Washington, CO",2020-03-25,0,0,0
-"CO","Weld","Colorado","US","Weld, CO",2020-03-25,76,0,0
+"CO","Weld","Colorado","US","Weld, CO",2020-03-25,87,0,0
 "CO","Yuma","Colorado","US","Yuma, CO",2020-03-25,1,0,0
-"Connecticut","Aaall","Connecticut","US","Connecticut",2020-03-25,618,12,0
-"CT","Fairfield","Connecticut","US","Fairfield, CT",2020-03-25,384,7,0
-"CT","Hartford","Connecticut","US","Hartford, CT",2020-03-25,88,2,0
-"CT","Litchfield","Connecticut","US","Litchfield, CT",2020-03-25,22,0,0
-"CT","Middlesex","Connecticut","US","Middlesex, CT",2020-03-25,8,0,0
-"CT","New Haven","Connecticut","US","New Haven, CT",2020-03-25,89,0,0
-"CT","New London","Connecticut","US","New London, CT",2020-03-25,6,0,0
-"CT","Tolland","Connecticut","US","Tolland, CT",2020-03-25,19,3,0
-"CT","Windham","Connecticut","US","Windham, CT",2020-03-25,2,1,0
-"Delaware","Aaall","Delaware","US","Delaware",2020-03-25,104,0,0
-"DE","Kent","Delaware","US","Kent, DE",2020-03-25,10,0,0
-"DE","New Castle","Delaware","US","New Castle, DE",2020-03-25,71,0,0
-"DE","Sussex","Delaware","US","Sussex, DE",2020-03-25,23,0,0
-"District of Columbia","Aaall","District of Columbia","US","District of Columbia",2020-03-25,137,2,0
-"DC","District of Columbia","District of Columbia","US","District of Columbia, DC",2020-03-25,137,2,0
-"Florida","Aaall","Florida","US","Florida",2020-03-25,1682,20,0
-"FL","Alachua","Florida","US","Alachua, FL",2020-03-25,45,0,0
+"Connecticut","Aaall","Connecticut","US","Connecticut",2020-03-25,875,19,0
+"CT","Fairfield","Connecticut","US","Fairfield, CT",2020-03-25,546,12,0
+"CT","Hartford","Connecticut","US","Hartford, CT",2020-03-25,116,2,0
+"CT","Litchfield","Connecticut","US","Litchfield, CT",2020-03-25,33,0,0
+"CT","Middlesex","Connecticut","US","Middlesex, CT",2020-03-25,15,0,0
+"CT","New Haven","Connecticut","US","New Haven, CT",2020-03-25,127,2,0
+"CT","New London","Connecticut","US","New London, CT",2020-03-25,9,0,0
+"CT","Tolland","Connecticut","US","Tolland, CT",2020-03-25,27,3,0
+"CT","Windham","Connecticut","US","Windham, CT",2020-03-25,2,0,0
+"Delaware","Aaall","Delaware","US","Delaware",2020-03-25,119,0,0
+"DE","Kent","Delaware","US","Kent, DE",2020-03-25,14,0,0
+"DE","New Castle","Delaware","US","New Castle, DE",2020-03-25,79,0,0
+"DE","Sussex","Delaware","US","Sussex, DE",2020-03-25,26,0,0
+"District of Columbia","Aaall","District of Columbia","US","District of Columbia",2020-03-25,183,2,0
+"DC","District of Columbia","District of Columbia","US","District of Columbia, DC",2020-03-25,183,2,0
+"Florida","Aaall","Florida","US","Florida",2020-03-25,1977,23,0
+"FL","Alachua","Florida","US","Alachua, FL",2020-03-25,46,0,0
 "FL","Baker","Florida","US","Baker, FL",2020-03-25,5,0,0
-"FL","Bay","Florida","US","Bay, FL",2020-03-25,1,0,0
+"FL","Bay","Florida","US","Bay, FL",2020-03-25,3,0,0
 "FL","Bradford","Florida","US","Bradford, FL",2020-03-25,1,0,0
-"FL","Brevard","Florida","US","Brevard, FL",2020-03-25,11,0,0
-"FL","Broward","Florida","US","Broward, FL",2020-03-25,355,0,0
+"FL","Brevard","Florida","US","Brevard, FL",2020-03-25,12,0,0
+"FL","Broward","Florida","US","Broward, FL",2020-03-25,412,0,0
 "FL","Calhoun","Florida","US","Calhoun, FL",2020-03-25,0,0,0
 "FL","Charlotte","Florida","US","Charlotte, FL",2020-03-25,3,0,0
 "FL","Citrus","Florida","US","Citrus, FL",2020-03-25,9,0,0
-"FL","Clay","Florida","US","Clay, FL",2020-03-25,13,0,0
-"FL","Collier","Florida","US","Collier, FL",2020-03-25,47,0,0
+"FL","Clay","Florida","US","Clay, FL",2020-03-25,16,0,0
+"FL","Collier","Florida","US","Collier, FL",2020-03-25,57,0,0
 "FL","Columbia","Florida","US","Columbia, FL",2020-03-25,3,0,0
-"FL","DeSoto","Florida","US","DeSoto, FL",2020-03-25,1,0,0
+"FL","DeSoto","Florida","US","DeSoto, FL",2020-03-25,4,0,0
 "FL","Dixie","Florida","US","Dixie, FL",2020-03-25,0,0,0
-"FL","Duval","Florida","US","Duval, FL",2020-03-25,56,0,0
-"FL","Escambia","Florida","US","Escambia, FL",2020-03-25,14,0,0
-"FL","Flagler","Florida","US","Flagler, FL",2020-03-25,5,0,0
+"FL","Duval","Florida","US","Duval, FL",2020-03-25,60,0,0
+"FL","Escambia","Florida","US","Escambia, FL",2020-03-25,17,0,0
+"FL","Flagler","Florida","US","Flagler, FL",2020-03-25,6,0,0
 "FL","Franklin","Florida","US","Franklin, FL",2020-03-25,0,0,0
 "FL","Gadsden","Florida","US","Gadsden, FL",2020-03-25,1,0,0
 "FL","Gilchrist","Florida","US","Gilchrist, FL",2020-03-25,0,0,0
@@ -355,260 +355,260 @@
 "FL","Hardee","Florida","US","Hardee, FL",2020-03-25,0,0,0
 "FL","Hendry","Florida","US","Hendry, FL",2020-03-25,0,0,0
 "FL","Hernando","Florida","US","Hernando, FL",2020-03-25,8,0,0
-"FL","Highlands","Florida","US","Highlands, FL",2020-03-25,4,0,0
-"FL","Hillsborough","Florida","US","Hillsborough, FL",2020-03-25,106,0,0
+"FL","Highlands","Florida","US","Highlands, FL",2020-03-25,5,0,0
+"FL","Hillsborough","Florida","US","Hillsborough, FL",2020-03-25,123,0,0
 "FL","Holmes","Florida","US","Holmes, FL",2020-03-25,0,0,0
 "FL","Indian River","Florida","US","Indian River, FL",2020-03-25,12,0,0
 "FL","Jackson","Florida","US","Jackson, FL",2020-03-25,1,0,0
 "FL","Jefferson","Florida","US","Jefferson, FL",2020-03-25,0,0,0
 "FL","Lafayette","Florida","US","Lafayette, FL",2020-03-25,0,0,0
-"FL","Lake","Florida","US","Lake, FL",2020-03-25,18,0,0
-"FL","Lee","Florida","US","Lee, FL",2020-03-25,42,0,0
+"FL","Lake","Florida","US","Lake, FL",2020-03-25,22,0,0
+"FL","Lee","Florida","US","Lee, FL",2020-03-25,52,0,0
 "FL","Leon","Florida","US","Leon, FL",2020-03-25,8,0,0
 "FL","Levy","Florida","US","Levy, FL",2020-03-25,0,0,0
 "FL","Liberty","Florida","US","Liberty, FL",2020-03-25,0,0,0
 "FL","Madison","Florida","US","Madison, FL",2020-03-25,0,0,0
-"FL","Manatee","Florida","US","Manatee, FL",2020-03-25,22,0,0
+"FL","Manatee","Florida","US","Manatee, FL",2020-03-25,26,0,0
 "FL","Marion","Florida","US","Marion, FL",2020-03-25,5,0,0
-"FL","Martin","Florida","US","Martin, FL",2020-03-25,4,0,0
-"FL","Miami-Dade","Florida","US","Miami-Dade, FL",2020-03-25,400,0,0
-"FL","Monroe","Florida","US","Monroe, FL",2020-03-25,8,0,0
-"FL","Nassau","Florida","US","Nassau, FL",2020-03-25,1,0,0
-"FL","Okaloosa","Florida","US","Okaloosa, FL",2020-03-25,16,0,0
+"FL","Martin","Florida","US","Martin, FL",2020-03-25,7,0,0
+"FL","Miami-Dade","Florida","US","Miami-Dade, FL",2020-03-25,491,0,0
+"FL","Monroe","Florida","US","Monroe, FL",2020-03-25,11,0,0
+"FL","Nassau","Florida","US","Nassau, FL",2020-03-25,4,0,0
+"FL","Okaloosa","Florida","US","Okaloosa, FL",2020-03-25,18,0,0
 "FL","Okeechobee","Florida","US","Okeechobee, FL",2020-03-25,0,0,0
-"FL","Orange","Florida","US","Orange, FL",2020-03-25,77,0,0
-"FL","Osceola","Florida","US","Osceola, FL",2020-03-25,35,0,0
-"FL","Palm Beach","Florida","US","Palm Beach, FL",2020-03-25,118,0,0
-"FL","Pasco","Florida","US","Pasco, FL",2020-03-25,17,0,0
-"FL","Pinellas","Florida","US","Pinellas, FL",2020-03-25,50,0,0
-"FL","Polk","Florida","US","Polk, FL",2020-03-25,14,0,0
-"FL","Putnam","Florida","US","Putnam, FL",2020-03-25,4,0,0
-"FL","Santa Rosa","Florida","US","Santa Rosa, FL",2020-03-25,7,0,0
-"FL","Sarasota","Florida","US","Sarasota, FL",2020-03-25,27,0,0
-"FL","Seminole","Florida","US","Seminole, FL",2020-03-25,29,0,0
-"FL","St. Johns","Florida","US","St. Johns, FL",2020-03-25,26,0,0
-"FL","St. Lucie","Florida","US","St. Lucie, FL",2020-03-25,8,0,0
-"FL","Sumter","Florida","US","Sumter, FL",2020-03-25,10,0,0
+"FL","Orange","Florida","US","Orange, FL",2020-03-25,89,0,0
+"FL","Osceola","Florida","US","Osceola, FL",2020-03-25,39,0,0
+"FL","Palm Beach","Florida","US","Palm Beach, FL",2020-03-25,141,0,0
+"FL","Pasco","Florida","US","Pasco, FL",2020-03-25,18,0,0
+"FL","Pinellas","Florida","US","Pinellas, FL",2020-03-25,54,0,0
+"FL","Polk","Florida","US","Polk, FL",2020-03-25,15,0,0
+"FL","Putnam","Florida","US","Putnam, FL",2020-03-25,5,0,0
+"FL","Santa Rosa","Florida","US","Santa Rosa, FL",2020-03-25,8,0,0
+"FL","Sarasota","Florida","US","Sarasota, FL",2020-03-25,32,0,0
+"FL","Seminole","Florida","US","Seminole, FL",2020-03-25,32,0,0
+"FL","St. Johns","Florida","US","St. Johns, FL",2020-03-25,28,0,0
+"FL","St. Lucie","Florida","US","St. Lucie, FL",2020-03-25,9,0,0
+"FL","Sumter","Florida","US","Sumter, FL",2020-03-25,18,0,0
 "FL","Suwannee","Florida","US","Suwannee, FL",2020-03-25,0,0,0
 "FL","Taylor","Florida","US","Taylor, FL",2020-03-25,0,0,0
 "FL","Union","Florida","US","Union, FL",2020-03-25,0,0,0
-"FL","Volusia","Florida","US","Volusia, FL",2020-03-25,19,0,0
+"FL","Volusia","Florida","US","Volusia, FL",2020-03-25,28,0,0
 "FL","Wakulla","Florida","US","Wakulla, FL",2020-03-25,0,0,0
-"FL","Walton","Florida","US","Walton, FL",2020-03-25,10,0,0
+"FL","Walton","Florida","US","Walton, FL",2020-03-25,13,0,0
 "FL","Washington","Florida","US","Washington, FL",2020-03-25,0,0,0
-"Georgia","Aaall","Georgia","US","Georgia",2020-03-25,1026,32,0
-"GA","Appling","Georgia","US","Appling, GA",2020-03-25,0,0,0
+"Georgia","Aaall","Georgia","US","Georgia",2020-03-25,1387,47,0
+"GA","Appling","Georgia","US","Appling, GA",2020-03-25,1,0,0
 "GA","Atkinson","Georgia","US","Atkinson, GA",2020-03-25,0,0,0
 "GA","Bacon","Georgia","US","Bacon, GA",2020-03-25,0,0,0
-"GA","Baker","Georgia","US","Baker, GA",2020-03-25,2,0,0
+"GA","Baker","Georgia","US","Baker, GA",2020-03-25,3,0,0
 "GA","Baldwin","Georgia","US","Baldwin, GA",2020-03-25,2,0,0
 "GA","Banks","Georgia","US","Banks, GA",2020-03-25,0,0,0
-"GA","Barrow","Georgia","US","Barrow, GA",2020-03-25,1,0,0
-"GA","Bartow","Georgia","US","Bartow, GA",2020-03-25,75,0,0
+"GA","Barrow","Georgia","US","Barrow, GA",2020-03-25,2,0,0
+"GA","Bartow","Georgia","US","Bartow, GA",2020-03-25,82,0,0
 "GA","Ben Hill","Georgia","US","Ben Hill, GA",2020-03-25,1,0,0
 "GA","Berrien","Georgia","US","Berrien, GA",2020-03-25,0,0,0
-"GA","Bibb","Georgia","US","Bibb, GA",2020-03-25,4,0,0
+"GA","Bibb","Georgia","US","Bibb, GA",2020-03-25,6,0,0
 "GA","Bleckley","Georgia","US","Bleckley, GA",2020-03-25,0,0,0
 "GA","Brantley","Georgia","US","Brantley, GA",2020-03-25,0,0,0
 "GA","Brooks","Georgia","US","Brooks, GA",2020-03-25,0,0,0
-"GA","Bryan","Georgia","US","Bryan, GA",2020-03-25,2,0,0
+"GA","Bryan","Georgia","US","Bryan, GA",2020-03-25,3,0,0
 "GA","Bulloch","Georgia","US","Bulloch, GA",2020-03-25,0,0,0
 "GA","Burke","Georgia","US","Burke, GA",2020-03-25,1,0,0
-"GA","Butts","Georgia","US","Butts, GA",2020-03-25,2,0,0
+"GA","Butts","Georgia","US","Butts, GA",2020-03-25,3,0,0
 "GA","Calhoun","Georgia","US","Calhoun, GA",2020-03-25,0,0,0
 "GA","Camden","Georgia","US","Camden, GA",2020-03-25,1,0,0
 "GA","Candler","Georgia","US","Candler, GA",2020-03-25,0,0,0
-"GA","Carroll","Georgia","US","Carroll, GA",2020-03-25,26,0,0
+"GA","Carroll","Georgia","US","Carroll, GA",2020-03-25,50,0,0
 "GA","Catoosa","Georgia","US","Catoosa, GA",2020-03-25,1,0,0
 "GA","Charlton","Georgia","US","Charlton, GA",2020-03-25,1,0,0
 "GA","Chatham","Georgia","US","Chatham, GA",2020-03-25,7,0,0
 "GA","Chattahoochee","Georgia","US","Chattahoochee, GA",2020-03-25,0,0,0
 "GA","Chattooga","Georgia","US","Chattooga, GA",2020-03-25,1,0,0
-"GA","Cherokee","Georgia","US","Cherokee, GA",2020-03-25,28,0,0
-"GA","Clarke","Georgia","US","Clarke, GA",2020-03-25,16,0,0
+"GA","Cherokee","Georgia","US","Cherokee, GA",2020-03-25,36,0,0
+"GA","Clarke","Georgia","US","Clarke, GA",2020-03-25,21,0,0
 "GA","Clay","Georgia","US","Clay, GA",2020-03-25,0,0,0
-"GA","Clayton","Georgia","US","Clayton, GA",2020-03-25,21,0,0
+"GA","Clayton","Georgia","US","Clayton, GA",2020-03-25,29,0,0
 "GA","Clinch","Georgia","US","Clinch, GA",2020-03-25,1,0,0
-"GA","Cobb","Georgia","US","Cobb, GA",2020-03-25,86,0,0
+"GA","Cobb","Georgia","US","Cobb, GA",2020-03-25,109,0,0
 "GA","Coffee","Georgia","US","Coffee, GA",2020-03-25,2,0,0
-"GA","Colquitt","Georgia","US","Colquitt, GA",2020-03-25,1,0,0
-"GA","Columbia","Georgia","US","Columbia, GA",2020-03-25,4,0,0
+"GA","Colquitt","Georgia","US","Colquitt, GA",2020-03-25,2,0,0
+"GA","Columbia","Georgia","US","Columbia, GA",2020-03-25,10,0,0
 "GA","Cook","Georgia","US","Cook, GA",2020-03-25,0,0,0
 "GA","Coweta","Georgia","US","Coweta, GA",2020-03-25,10,0,0
 "GA","Crawford","Georgia","US","Crawford, GA",2020-03-25,0,0,0
 "GA","Crisp","Georgia","US","Crisp, GA",2020-03-25,3,0,0
 "GA","Dade","Georgia","US","Dade, GA",2020-03-25,0,0,0
 "GA","Dawson","Georgia","US","Dawson, GA",2020-03-25,1,0,0
-"GA","Decatur","Georgia","US","Decatur, GA",2020-03-25,0,0,0
-"GA","DeKalb","Georgia","US","DeKalb, GA",2020-03-25,94,0,0
-"GA","Dodge","Georgia","US","Dodge, GA",2020-03-25,0,0,0
+"GA","Decatur","Georgia","US","Decatur, GA",2020-03-25,1,0,0
+"GA","DeKalb","Georgia","US","DeKalb, GA",2020-03-25,125,0,0
+"GA","Dodge","Georgia","US","Dodge, GA",2020-03-25,1,0,0
 "GA","Dooly","Georgia","US","Dooly, GA",2020-03-25,0,0,0
-"GA","Dougherty","Georgia","US","Dougherty, GA",2020-03-25,90,0,0
-"GA","Douglas","Georgia","US","Douglas, GA",2020-03-25,11,0,0
-"GA","Early","Georgia","US","Early, GA",2020-03-25,2,0,0
+"GA","Dougherty","Georgia","US","Dougherty, GA",2020-03-25,123,0,0
+"GA","Douglas","Georgia","US","Douglas, GA",2020-03-25,18,0,0
+"GA","Early","Georgia","US","Early, GA",2020-03-25,6,0,0
 "GA","Echols","Georgia","US","Echols, GA",2020-03-25,0,0,0
-"GA","Effingham","Georgia","US","Effingham, GA",2020-03-25,2,0,0
+"GA","Effingham","Georgia","US","Effingham, GA",2020-03-25,3,0,0
 "GA","Elbert","Georgia","US","Elbert, GA",2020-03-25,0,0,0
 "GA","Emanuel","Georgia","US","Emanuel, GA",2020-03-25,0,0,0
 "GA","Evans","Georgia","US","Evans, GA",2020-03-25,0,0,0
-"GA","Fannin","Georgia","US","Fannin, GA",2020-03-25,0,0,0
+"GA","Fannin","Georgia","US","Fannin, GA",2020-03-25,1,0,0
 "GA","Fayette","Georgia","US","Fayette, GA",2020-03-25,12,0,0
-"GA","Floyd","Georgia","US","Floyd, GA",2020-03-25,11,0,0
-"GA","Forsyth","Georgia","US","Forsyth, GA",2020-03-25,8,0,0
+"GA","Floyd","Georgia","US","Floyd, GA",2020-03-25,14,0,0
+"GA","Forsyth","Georgia","US","Forsyth, GA",2020-03-25,10,0,0
 "GA","Franklin","Georgia","US","Franklin, GA",2020-03-25,0,0,0
-"GA","Fulton","Georgia","US","Fulton, GA",2020-03-25,184,0,0
+"GA","Fulton","Georgia","US","Fulton, GA",2020-03-25,204,0,0
 "GA","Gilmer","Georgia","US","Gilmer, GA",2020-03-25,0,0,0
 "GA","Glascock","Georgia","US","Glascock, GA",2020-03-25,0,0,0
 "GA","Glynn","Georgia","US","Glynn, GA",2020-03-25,5,0,0
-"GA","Gordon","Georgia","US","Gordon, GA",2020-03-25,7,0,0
+"GA","Gordon","Georgia","US","Gordon, GA",2020-03-25,9,0,0
 "GA","Grady","Georgia","US","Grady, GA",2020-03-25,0,0,0
 "GA","Greene","Georgia","US","Greene, GA",2020-03-25,1,0,0
-"GA","Gwinnett","Georgia","US","Gwinnett, GA",2020-03-25,45,0,0
+"GA","Gwinnett","Georgia","US","Gwinnett, GA",2020-03-25,69,0,0
 "GA","Habersham","Georgia","US","Habersham, GA",2020-03-25,0,0,0
-"GA","Hall","Georgia","US","Hall, GA",2020-03-25,14,0,0
+"GA","Hall","Georgia","US","Hall, GA",2020-03-25,19,0,0
 "GA","Hancock","Georgia","US","Hancock, GA",2020-03-25,0,0,0
 "GA","Haralson","Georgia","US","Haralson, GA",2020-03-25,0,0,0
 "GA","Harris","Georgia","US","Harris, GA",2020-03-25,1,0,0
 "GA","Hart","Georgia","US","Hart, GA",2020-03-25,0,0,0
 "GA","Heard","Georgia","US","Heard, GA",2020-03-25,1,0,0
-"GA","Henry","Georgia","US","Henry, GA",2020-03-25,13,0,0
-"GA","Houston","Georgia","US","Houston, GA",2020-03-25,3,0,0
-"GA","Irwin","Georgia","US","Irwin, GA",2020-03-25,1,0,0
-"GA","Jackson","Georgia","US","Jackson, GA",2020-03-25,0,0,0
-"GA","Jasper","Georgia","US","Jasper, GA",2020-03-25,1,0,0
+"GA","Henry","Georgia","US","Henry, GA",2020-03-25,20,0,0
+"GA","Houston","Georgia","US","Houston, GA",2020-03-25,6,0,0
+"GA","Irwin","Georgia","US","Irwin, GA",2020-03-25,2,0,0
+"GA","Jackson","Georgia","US","Jackson, GA",2020-03-25,1,0,0
+"GA","Jasper","Georgia","US","Jasper, GA",2020-03-25,2,0,0
 "GA","Jeff Davis","Georgia","US","Jeff Davis, GA",2020-03-25,0,0,0
 "GA","Jefferson","Georgia","US","Jefferson, GA",2020-03-25,0,0,0
 "GA","Jenkins","Georgia","US","Jenkins, GA",2020-03-25,0,0,0
-"GA","Johnson","Georgia","US","Johnson, GA",2020-03-25,0,0,0
-"GA","Jones","Georgia","US","Jones, GA",2020-03-25,0,0,0
+"GA","Johnson","Georgia","US","Johnson, GA",2020-03-25,1,0,0
+"GA","Jones","Georgia","US","Jones, GA",2020-03-25,1,0,0
 "GA","Lamar","Georgia","US","Lamar, GA",2020-03-25,3,0,0
 "GA","Lanier","Georgia","US","Lanier, GA",2020-03-25,0,0,0
-"GA","Laurens","Georgia","US","Laurens, GA",2020-03-25,5,0,0
-"GA","Lee","Georgia","US","Lee, GA",2020-03-25,20,0,0
+"GA","Laurens","Georgia","US","Laurens, GA",2020-03-25,7,0,0
+"GA","Lee","Georgia","US","Lee, GA",2020-03-25,25,0,0
 "GA","Liberty","Georgia","US","Liberty, GA",2020-03-25,1,0,0
 "GA","Lincoln","Georgia","US","Lincoln, GA",2020-03-25,1,0,0
-"GA","Long","Georgia","US","Long, GA",2020-03-25,0,0,0
-"GA","Lowndes","Georgia","US","Lowndes, GA",2020-03-25,10,0,0
+"GA","Long","Georgia","US","Long, GA",2020-03-25,1,0,0
+"GA","Lowndes","Georgia","US","Lowndes, GA",2020-03-25,12,0,0
 "GA","Lumpkin","Georgia","US","Lumpkin, GA",2020-03-25,3,0,0
 "GA","Macon","Georgia","US","Macon, GA",2020-03-25,1,0,0
-"GA","Madison","Georgia","US","Madison, GA",2020-03-25,1,0,0
+"GA","Madison","Georgia","US","Madison, GA",2020-03-25,2,0,0
 "GA","Marion","Georgia","US","Marion, GA",2020-03-25,0,0,0
 "GA","McDuffie","Georgia","US","McDuffie, GA",2020-03-25,0,0,0
 "GA","McIntosh","Georgia","US","McIntosh, GA",2020-03-25,0,0,0
 "GA","Meriwether","Georgia","US","Meriwether, GA",2020-03-25,1,0,0
-"GA","Miller","Georgia","US","Miller, GA",2020-03-25,1,0,0
-"GA","Mitchell","Georgia","US","Mitchell, GA",2020-03-25,3,0,0
+"GA","Miller","Georgia","US","Miller, GA",2020-03-25,2,0,0
+"GA","Mitchell","Georgia","US","Mitchell, GA",2020-03-25,5,0,0
 "GA","Monroe","Georgia","US","Monroe, GA",2020-03-25,3,0,0
 "GA","Montgomery","Georgia","US","Montgomery, GA",2020-03-25,0,0,0
 "GA","Morgan","Georgia","US","Morgan, GA",2020-03-25,1,0,0
 "GA","Murray","Georgia","US","Murray, GA",2020-03-25,0,0,0
-"GA","Muscogee","Georgia","US","Muscogee, GA",2020-03-25,3,0,0
-"GA","Newton","Georgia","US","Newton, GA",2020-03-25,5,0,0
-"GA","Oconee","Georgia","US","Oconee, GA",2020-03-25,5,0,0
+"GA","Muscogee","Georgia","US","Muscogee, GA",2020-03-25,4,0,0
+"GA","Newton","Georgia","US","Newton, GA",2020-03-25,8,0,0
+"GA","Oconee","Georgia","US","Oconee, GA",2020-03-25,6,0,0
 "GA","Oglethorpe","Georgia","US","Oglethorpe, GA",2020-03-25,0,0,0
 "GA","Paulding","Georgia","US","Paulding, GA",2020-03-25,6,0,0
-"GA","Peach","Georgia","US","Peach, GA",2020-03-25,3,0,0
+"GA","Peach","Georgia","US","Peach, GA",2020-03-25,5,0,0
 "GA","Pickens","Georgia","US","Pickens, GA",2020-03-25,4,0,0
 "GA","Pierce","Georgia","US","Pierce, GA",2020-03-25,1,0,0
 "GA","Pike","Georgia","US","Pike, GA",2020-03-25,0,0,0
-"GA","Polk","Georgia","US","Polk, GA",2020-03-25,8,0,0
+"GA","Polk","Georgia","US","Polk, GA",2020-03-25,9,0,0
 "GA","Pulaski","Georgia","US","Pulaski, GA",2020-03-25,1,0,0
 "GA","Putnam","Georgia","US","Putnam, GA",2020-03-25,0,0,0
 "GA","Quitman","Georgia","US","Quitman, GA",2020-03-25,0,0,0
 "GA","Rabun","Georgia","US","Rabun, GA",2020-03-25,0,0,0
 "GA","Randolph","Georgia","US","Randolph, GA",2020-03-25,1,0,0
-"GA","Richmond","Georgia","US","Richmond, GA",2020-03-25,11,0,0
-"GA","Rockdale","Georgia","US","Rockdale, GA",2020-03-25,7,0,0
+"GA","Richmond","Georgia","US","Richmond, GA",2020-03-25,10,0,0
+"GA","Rockdale","Georgia","US","Rockdale, GA",2020-03-25,10,0,0
 "GA","Schley","Georgia","US","Schley, GA",2020-03-25,0,0,0
 "GA","Screven","Georgia","US","Screven, GA",2020-03-25,0,0,0
-"GA","Seminole","Georgia","US","Seminole, GA",2020-03-25,0,0,0
-"GA","Spalding","Georgia","US","Spalding, GA",2020-03-25,5,0,0
+"GA","Seminole","Georgia","US","Seminole, GA",2020-03-25,2,0,0
+"GA","Spalding","Georgia","US","Spalding, GA",2020-03-25,10,0,0
 "GA","Stephens","Georgia","US","Stephens, GA",2020-03-25,1,0,0
 "GA","Stewart","Georgia","US","Stewart, GA",2020-03-25,0,0,0
-"GA","Sumter","Georgia","US","Sumter, GA",2020-03-25,2,0,0
+"GA","Sumter","Georgia","US","Sumter, GA",2020-03-25,5,0,0
 "GA","Talbot","Georgia","US","Talbot, GA",2020-03-25,0,0,0
 "GA","Taliaferro","Georgia","US","Taliaferro, GA",2020-03-25,0,0,0
 "GA","Tattnall","Georgia","US","Tattnall, GA",2020-03-25,1,0,0
-"GA","Taylor","Georgia","US","Taylor, GA",2020-03-25,0,0,0
+"GA","Taylor","Georgia","US","Taylor, GA",2020-03-25,1,0,0
 "GA","Telfair","Georgia","US","Telfair, GA",2020-03-25,0,0,0
-"GA","Terrell","Georgia","US","Terrell, GA",2020-03-25,3,0,0
-"GA","Thomas","Georgia","US","Thomas, GA",2020-03-25,0,0,0
-"GA","Tift","Georgia","US","Tift, GA",2020-03-25,2,0,0
+"GA","Terrell","Georgia","US","Terrell, GA",2020-03-25,4,0,0
+"GA","Thomas","Georgia","US","Thomas, GA",2020-03-25,1,0,0
+"GA","Tift","Georgia","US","Tift, GA",2020-03-25,5,0,0
 "GA","Toombs","Georgia","US","Toombs, GA",2020-03-25,0,0,0
 "GA","Towns","Georgia","US","Towns, GA",2020-03-25,0,0,0
 "GA","Treutlen","Georgia","US","Treutlen, GA",2020-03-25,0,0,0
-"GA","Troup","Georgia","US","Troup, GA",2020-03-25,6,0,0
+"GA","Troup","Georgia","US","Troup, GA",2020-03-25,7,0,0
 "GA","Turner","Georgia","US","Turner, GA",2020-03-25,1,0,0
-"GA","Twiggs","Georgia","US","Twiggs, GA",2020-03-25,1,0,0
+"GA","Twiggs","Georgia","US","Twiggs, GA",2020-03-25,2,0,0
 "GA","Union","Georgia","US","Union, GA",2020-03-25,0,0,0
 "GA","Upson","Georgia","US","Upson, GA",2020-03-25,0,0,0
 "GA","Walker","Georgia","US","Walker, GA",2020-03-25,0,0,0
 "GA","Walton","Georgia","US","Walton, GA",2020-03-25,1,0,0
-"GA","Ware","Georgia","US","Ware, GA",2020-03-25,0,0,0
+"GA","Ware","Georgia","US","Ware, GA",2020-03-25,1,0,0
 "GA","Warren","Georgia","US","Warren, GA",2020-03-25,0,0,0
-"GA","Washington","Georgia","US","Washington, GA",2020-03-25,1,0,0
+"GA","Washington","Georgia","US","Washington, GA",2020-03-25,2,0,0
 "GA","Wayne","Georgia","US","Wayne, GA",2020-03-25,0,0,0
 "GA","Webster","Georgia","US","Webster, GA",2020-03-25,0,0,0
 "GA","Wheeler","Georgia","US","Wheeler, GA",2020-03-25,0,0,0
-"GA","White","Georgia","US","White, GA",2020-03-25,0,0,0
-"GA","Whitfield","Georgia","US","Whitfield, GA",2020-03-25,2,0,0
+"GA","White","Georgia","US","White, GA",2020-03-25,1,0,0
+"GA","Whitfield","Georgia","US","Whitfield, GA",2020-03-25,4,0,0
 "GA","Wilcox","Georgia","US","Wilcox, GA",2020-03-25,0,0,0
-"GA","Wilkes","Georgia","US","Wilkes, GA",2020-03-25,0,0,0
+"GA","Wilkes","Georgia","US","Wilkes, GA",2020-03-25,1,0,0
 "GA","Wilkinson","Georgia","US","Wilkinson, GA",2020-03-25,0,0,0
-"GA","Worth","Georgia","US","Worth, GA",2020-03-25,4,0,0
-"Guam","Aaall","Guam","US","Guam",2020-03-25,29,1,0
+"GA","Worth","Georgia","US","Worth, GA",2020-03-25,3,0,0
+"Guam","Aaall","Guam","US","Guam",2020-03-25,32,1,0
 "Hawaii","Aaall","Hawaii","US","Hawaii",2020-03-25,77,0,0
 "HI","Hawaii","Hawaii","US","Hawaii, HI",2020-03-25,5,0,0
 "HI","Honolulu","Hawaii","US","Honolulu, HI",2020-03-25,53,0,0
 "HI","Kalawao","Hawaii","US","Kalawao, HI",2020-03-25,0,0,0
 "HI","Kauai","Hawaii","US","Kauai, HI",2020-03-25,3,0,0
 "HI","Maui","Hawaii","US","Maui, HI",2020-03-25,11,0,0
-"Idaho","Aaall","Idaho","US","Idaho",2020-03-25,50,0,0
-"ID","Ada","Idaho","US","Ada, ID",2020-03-25,15,0,0
+"Idaho","Aaall","Idaho","US","Idaho",2020-03-25,123,0,0
+"ID","Ada","Idaho","US","Ada, ID",2020-03-25,37,0,0
 "ID","Adams","Idaho","US","Adams, ID",2020-03-25,0,0,0
-"ID","Bannock","Idaho","US","Bannock, ID",2020-03-25,0,0,0
+"ID","Bannock","Idaho","US","Bannock, ID",2020-03-25,3,0,0
 "ID","Bear Lake","Idaho","US","Bear Lake, ID",2020-03-25,0,0,0
 "ID","Benewah","Idaho","US","Benewah, ID",2020-03-25,0,0,0
 "ID","Bingham","Idaho","US","Bingham, ID",2020-03-25,1,0,0
-"ID","Blaine","Idaho","US","Blaine, ID",2020-03-25,21,0,0
+"ID","Blaine","Idaho","US","Blaine, ID",2020-03-25,52,0,0
 "ID","Boise","Idaho","US","Boise, ID",2020-03-25,0,0,0
 "ID","Bonner","Idaho","US","Bonner, ID",2020-03-25,0,0,0
 "ID","Bonneville","Idaho","US","Bonneville, ID",2020-03-25,0,0,0
 "ID","Boundary","Idaho","US","Boundary, ID",2020-03-25,0,0,0
 "ID","Butte","Idaho","US","Butte, ID",2020-03-25,0,0,0
 "ID","Camas","Idaho","US","Camas, ID",2020-03-25,0,0,0
-"ID","Canyon","Idaho","US","Canyon, ID",2020-03-25,4,0,0
+"ID","Canyon","Idaho","US","Canyon, ID",2020-03-25,8,0,0
 "ID","Caribou","Idaho","US","Caribou, ID",2020-03-25,0,0,0
-"ID","Cassia","Idaho","US","Cassia, ID",2020-03-25,0,0,0
+"ID","Cassia","Idaho","US","Cassia, ID",2020-03-25,1,0,0
 "ID","Clark","Idaho","US","Clark, ID",2020-03-25,0,0,0
 "ID","Clearwater","Idaho","US","Clearwater, ID",2020-03-25,0,0,0
 "ID","Custer","Idaho","US","Custer, ID",2020-03-25,0,0,0
 "ID","Elmore","Idaho","US","Elmore, ID",2020-03-25,0,0,0
 "ID","Franklin","Idaho","US","Franklin, ID",2020-03-25,0,0,0
-"ID","Fremont","Idaho","US","Fremont, ID",2020-03-25,0,0,0
+"ID","Fremont","Idaho","US","Fremont, ID",2020-03-25,1,0,0
 "ID","Gem","Idaho","US","Gem, ID",2020-03-25,0,0,0
 "ID","Gooding","Idaho","US","Gooding, ID",2020-03-25,0,0,0
-"ID","Idaho","Idaho","US","Idaho, ID",2020-03-25,0,0,0
-"ID","Jefferson","Idaho","US","Jefferson, ID",2020-03-25,0,0,0
+"ID","Idaho","Idaho","US","Idaho, ID",2020-03-25,1,0,0
+"ID","Jefferson","Idaho","US","Jefferson, ID",2020-03-25,2,0,0
 "ID","Jerome","Idaho","US","Jerome, ID",2020-03-25,0,0,0
-"ID","Kootenai","Idaho","US","Kootenai, ID",2020-03-25,3,0,0
+"ID","Kootenai","Idaho","US","Kootenai, ID",2020-03-25,9,0,0
 "ID","Latah","Idaho","US","Latah, ID",2020-03-25,0,0,0
 "ID","Lemhi","Idaho","US","Lemhi, ID",2020-03-25,0,0,0
 "ID","Lewis","Idaho","US","Lewis, ID",2020-03-25,0,0,0
 "ID","Lincoln","Idaho","US","Lincoln, ID",2020-03-25,0,0,0
 "ID","Madison","Idaho","US","Madison, ID",2020-03-25,2,0,0
 "ID","Minidoka","Idaho","US","Minidoka, ID",2020-03-25,0,0,0
-"ID","Nez Perce","Idaho","US","Nez Perce, ID",2020-03-25,0,0,0
+"ID","Nez Perce","Idaho","US","Nez Perce, ID",2020-03-25,1,0,0
 "ID","Oneida","Idaho","US","Oneida, ID",2020-03-25,0,0,0
 "ID","Owyhee","Idaho","US","Owyhee, ID",2020-03-25,0,0,0
-"ID","Payette","Idaho","US","Payette, ID",2020-03-25,0,0,0
+"ID","Payette","Idaho","US","Payette, ID",2020-03-25,1,0,0
 "ID","Power","Idaho","US","Power, ID",2020-03-25,0,0,0
 "ID","Shoshone","Idaho","US","Shoshone, ID",2020-03-25,0,0,0
 "ID","Teton","Idaho","US","Teton, ID",2020-03-25,2,0,0
 "ID","Twin Falls","Idaho","US","Twin Falls, ID",2020-03-25,1,0,0
 "ID","Valley","Idaho","US","Valley, ID",2020-03-25,1,0,0
 "ID","Washington","Idaho","US","Washington, ID",2020-03-25,0,0,0
-"Illinois","Aaall","Illinois","US","Illinois",2020-03-25,1535,16,2
+"Illinois","Aaall","Illinois","US","Illinois",2020-03-25,1865,19,2
 "IL","Adams","Illinois","US","Adams, IL",2020-03-25,1,0,0
 "IL","Alexander","Illinois","US","Alexander, IL",2020-03-25,0,0,0
 "IL","Bond","Illinois","US","Bond, IL",2020-03-25,0,0,0
@@ -618,19 +618,19 @@
 "IL","Calhoun","Illinois","US","Calhoun, IL",2020-03-25,0,0,0
 "IL","Carroll","Illinois","US","Carroll, IL",2020-03-25,0,0,0
 "IL","Cass","Illinois","US","Cass, IL",2020-03-25,0,0,0
-"IL","Champaign","Illinois","US","Champaign, IL",2020-03-25,2,0,0
+"IL","Champaign","Illinois","US","Champaign, IL",2020-03-25,4,0,0
 "IL","Christian","Illinois","US","Christian, IL",2020-03-25,1,0,0
 "IL","Clark","Illinois","US","Clark, IL",2020-03-25,0,0,0
 "IL","Clay","Illinois","US","Clay, IL",2020-03-25,0,0,0
-"IL","Clinton","Illinois","US","Clinton, IL",2020-03-25,3,0,0
+"IL","Clinton","Illinois","US","Clinton, IL",2020-03-25,4,0,0
 "IL","Coles","Illinois","US","Coles, IL",2020-03-25,0,0,0
-"IL","Cook","Illinois","US","Cook, IL",2020-03-25,412,7,0
+"IL","Cook","Illinois","US","Cook, IL",2020-03-25,503,8,0
 "IL","Crawford","Illinois","US","Crawford, IL",2020-03-25,0,0,0
 "IL","Cumberland","Illinois","US","Cumberland, IL",2020-03-25,1,0,0
 "IL","De Witt","Illinois","US","De Witt, IL",2020-03-25,0,0,0
 "IL","DeKalb","Illinois","US","DeKalb, IL",2020-03-25,1,0,0
-"IL","Douglas","Illinois","US","Douglas, IL",2020-03-25,0,0,0
-"IL","DuPage","Illinois","US","DuPage, IL",2020-03-25,103,1,0
+"IL","Douglas","Illinois","US","Douglas, IL",2020-03-25,1,0,0
+"IL","DuPage","Illinois","US","DuPage, IL",2020-03-25,131,1,0
 "IL","Edgar","Illinois","US","Edgar, IL",2020-03-25,0,0,0
 "IL","Edwards","Illinois","US","Edwards, IL",2020-03-25,0,0,0
 "IL","Effingham","Illinois","US","Effingham, IL",2020-03-25,0,0,0
@@ -640,7 +640,7 @@
 "IL","Fulton","Illinois","US","Fulton, IL",2020-03-25,0,0,0
 "IL","Gallatin","Illinois","US","Gallatin, IL",2020-03-25,0,0,0
 "IL","Greene","Illinois","US","Greene, IL",2020-03-25,0,0,0
-"IL","Grundy","Illinois","US","Grundy, IL",2020-03-25,0,0,0
+"IL","Grundy","Illinois","US","Grundy, IL",2020-03-25,1,0,0
 "IL","Hamilton","Illinois","US","Hamilton, IL",2020-03-25,0,0,0
 "IL","Hancock","Illinois","US","Hancock, IL",2020-03-25,0,0,0
 "IL","Hardin","Illinois","US","Hardin, IL",2020-03-25,0,0,0
@@ -653,34 +653,34 @@
 "IL","Jersey","Illinois","US","Jersey, IL",2020-03-25,0,0,0
 "IL","Jo Daviess","Illinois","US","Jo Daviess, IL",2020-03-25,1,0,0
 "IL","Johnson","Illinois","US","Johnson, IL",2020-03-25,1,0,0
-"IL","Kane","Illinois","US","Kane, IL",2020-03-25,24,0,0
-"IL","Kankakee","Illinois","US","Kankakee, IL",2020-03-25,4,0,0
-"IL","Kendall","Illinois","US","Kendall, IL",2020-03-25,4,0,0
+"IL","Kane","Illinois","US","Kane, IL",2020-03-25,38,0,0
+"IL","Kankakee","Illinois","US","Kankakee, IL",2020-03-25,6,0,0
+"IL","Kendall","Illinois","US","Kendall, IL",2020-03-25,6,0,0
 "IL","Knox","Illinois","US","Knox, IL",2020-03-25,0,0,0
-"IL","Lake","Illinois","US","Lake, IL",2020-03-25,111,0,0
+"IL","Lake","Illinois","US","Lake, IL",2020-03-25,139,0,0
 "IL","LaSalle","Illinois","US","LaSalle, IL",2020-03-25,3,0,0
 "IL","Lawrence","Illinois","US","Lawrence, IL",2020-03-25,0,0,0
 "IL","Lee","Illinois","US","Lee, IL",2020-03-25,0,0,0
 "IL","Livingston","Illinois","US","Livingston, IL",2020-03-25,1,0,0
-"IL","Logan","Illinois","US","Logan, IL",2020-03-25,0,0,0
+"IL","Logan","Illinois","US","Logan, IL",2020-03-25,1,0,0
 "IL","Macon","Illinois","US","Macon, IL",2020-03-25,0,0,0
 "IL","Macoupin","Illinois","US","Macoupin, IL",2020-03-25,0,0,0
-"IL","Madison","Illinois","US","Madison, IL",2020-03-25,2,0,0
+"IL","Madison","Illinois","US","Madison, IL",2020-03-25,3,0,0
 "IL","Marion","Illinois","US","Marion, IL",2020-03-25,0,0,0
-"IL","Marshall","Illinois","US","Marshall, IL",2020-03-25,0,0,0
+"IL","Marshall","Illinois","US","Marshall, IL",2020-03-25,1,0,0
 "IL","Mason","Illinois","US","Mason, IL",2020-03-25,0,0,0
 "IL","Massac","Illinois","US","Massac, IL",2020-03-25,0,0,0
 "IL","McDonough","Illinois","US","McDonough, IL",2020-03-25,0,0,0
-"IL","McHenry","Illinois","US","McHenry, IL",2020-03-25,12,0,0
+"IL","McHenry","Illinois","US","McHenry, IL",2020-03-25,19,0,0
 "IL","McLean","Illinois","US","McLean, IL",2020-03-25,7,1,0
 "IL","Menard","Illinois","US","Menard, IL",2020-03-25,0,0,0
 "IL","Mercer","Illinois","US","Mercer, IL",2020-03-25,0,0,0
-"IL","Monroe","Illinois","US","Monroe, IL",2020-03-25,0,0,0
+"IL","Monroe","Illinois","US","Monroe, IL",2020-03-25,2,0,0
 "IL","Montgomery","Illinois","US","Montgomery, IL",2020-03-25,0,0,0
-"IL","Morgan","Illinois","US","Morgan, IL",2020-03-25,0,0,0
+"IL","Morgan","Illinois","US","Morgan, IL",2020-03-25,1,0,0
 "IL","Moultrie","Illinois","US","Moultrie, IL",2020-03-25,0,0,0
 "IL","Ogle","Illinois","US","Ogle, IL",2020-03-25,0,0,0
-"IL","Peoria","Illinois","US","Peoria, IL",2020-03-25,3,0,0
+"IL","Peoria","Illinois","US","Peoria, IL",2020-03-25,4,0,0
 "IL","Perry","Illinois","US","Perry, IL",2020-03-25,0,0,0
 "IL","Piatt","Illinois","US","Piatt, IL",2020-03-25,0,0,0
 "IL","Pike","Illinois","US","Pike, IL",2020-03-25,0,0,0
@@ -689,7 +689,7 @@
 "IL","Putnam","Illinois","US","Putnam, IL",2020-03-25,0,0,0
 "IL","Randolph","Illinois","US","Randolph, IL",2020-03-25,0,0,0
 "IL","Richland","Illinois","US","Richland, IL",2020-03-25,0,0,0
-"IL","Rock Island","Illinois","US","Rock Island, IL",2020-03-25,1,0,0
+"IL","Rock Island","Illinois","US","Rock Island, IL",2020-03-25,3,0,0
 "IL","Saline","Illinois","US","Saline, IL",2020-03-25,0,0,0
 "IL","Sangamon","Illinois","US","Sangamon, IL",2020-03-25,5,1,0
 "IL","Schuyler","Illinois","US","Schuyler, IL",2020-03-25,0,0,0
@@ -707,10 +707,10 @@
 "IL","Wayne","Illinois","US","Wayne, IL",2020-03-25,0,0,0
 "IL","White","Illinois","US","White, IL",2020-03-25,0,0,0
 "IL","Whiteside","Illinois","US","Whiteside, IL",2020-03-25,1,0,0
-"IL","Will","Illinois","US","Will, IL",2020-03-25,28,1,0
+"IL","Will","Illinois","US","Will, IL",2020-03-25,40,2,0
 "IL","Williamson","Illinois","US","Williamson, IL",2020-03-25,1,0,0
-"IL","Winnebago","Illinois","US","Winnebago, IL",2020-03-25,5,0,0
-"IL","Woodford","Illinois","US","Woodford, IL",2020-03-25,2,0,0
+"IL","Winnebago","Illinois","US","Winnebago, IL",2020-03-25,7,0,0
+"IL","Woodford","Illinois","US","Woodford, IL",2020-03-25,3,0,0
 "Indiana","Aaall","Indiana","US","Indiana",2020-03-25,477,14,0
 "IN","Adams","Indiana","US","Adams, IN",2020-03-25,1,0,0
 "IN","Allen","Indiana","US","Allen, IN",2020-03-25,7,1,0
@@ -904,7 +904,7 @@
 "IA","Woodbury","Iowa","US","Woodbury, IA",2020-03-25,2,0,0
 "IA","Worth","Iowa","US","Worth, IA",2020-03-25,0,0,0
 "IA","Wright","Iowa","US","Wright, IA",2020-03-25,0,0,0
-"Kansas","Aaall","Kansas","US","Kansas",2020-03-25,98,2,0
+"Kansas","Aaall","Kansas","US","Kansas",2020-03-25,126,3,0
 "KS","Allen","Kansas","US","Allen, KS",2020-03-25,0,0,0
 "KS","Anderson","Kansas","US","Anderson, KS",2020-03-25,0,0,0
 "KS","Atchison","Kansas","US","Atchison, KS",2020-03-25,0,0,0
@@ -923,11 +923,11 @@
 "KS","Coffey","Kansas","US","Coffey, KS",2020-03-25,0,0,0
 "KS","Comanche","Kansas","US","Comanche, KS",2020-03-25,0,0,0
 "KS","Cowley","Kansas","US","Cowley, KS",2020-03-25,0,0,0
-"KS","Crawford","Kansas","US","Crawford, KS",2020-03-25,0,0,0
+"KS","Crawford","Kansas","US","Crawford, KS",2020-03-25,1,0,0
 "KS","Decatur","Kansas","US","Decatur, KS",2020-03-25,0,0,0
 "KS","Dickinson","Kansas","US","Dickinson, KS",2020-03-25,0,0,0
 "KS","Doniphan","Kansas","US","Doniphan, KS",2020-03-25,1,0,0
-"KS","Douglas","Kansas","US","Douglas, KS",2020-03-25,6,0,0
+"KS","Douglas","Kansas","US","Douglas, KS",2020-03-25,10,0,0
 "KS","Edwards","Kansas","US","Edwards, KS",2020-03-25,0,0,0
 "KS","Elk","Kansas","US","Elk, KS",2020-03-25,0,0,0
 "KS","Ellis","Kansas","US","Ellis, KS",2020-03-25,0,0,0
@@ -950,13 +950,13 @@
 "KS","Jackson","Kansas","US","Jackson, KS",2020-03-25,1,0,0
 "KS","Jefferson","Kansas","US","Jefferson, KS",2020-03-25,0,0,0
 "KS","Jewell","Kansas","US","Jewell, KS",2020-03-25,0,0,0
-"KS","Johnson","Kansas","US","Johnson, KS",2020-03-25,36,1,0
+"KS","Johnson","Kansas","US","Johnson, KS",2020-03-25,44,1,0
 "KS","Kearny","Kansas","US","Kearny, KS",2020-03-25,0,0,0
 "KS","Kingman","Kansas","US","Kingman, KS",2020-03-25,0,0,0
 "KS","Kiowa","Kansas","US","Kiowa, KS",2020-03-25,0,0,0
 "KS","Labette","Kansas","US","Labette, KS",2020-03-25,0,0,0
 "KS","Lane","Kansas","US","Lane, KS",2020-03-25,0,0,0
-"KS","Leavenworth","Kansas","US","Leavenworth, KS",2020-03-25,7,0,0
+"KS","Leavenworth","Kansas","US","Leavenworth, KS",2020-03-25,11,0,0
 "KS","Lincoln","Kansas","US","Lincoln, KS",2020-03-25,0,0,0
 "KS","Linn","Kansas","US","Linn, KS",2020-03-25,2,0,0
 "KS","Logan","Kansas","US","Logan, KS",2020-03-25,0,0,0
@@ -966,12 +966,12 @@
 "KS","McPherson","Kansas","US","McPherson, KS",2020-03-25,0,0,0
 "KS","Meade","Kansas","US","Meade, KS",2020-03-25,0,0,0
 "KS","Miami","Kansas","US","Miami, KS",2020-03-25,0,0,0
-"KS","Mitchell","Kansas","US","Mitchell, KS",2020-03-25,1,0,0
+"KS","Mitchell","Kansas","US","Mitchell, KS",2020-03-25,2,0,0
 "KS","Montgomery","Kansas","US","Montgomery, KS",2020-03-25,0,0,0
 "KS","Morris","Kansas","US","Morris, KS",2020-03-25,2,0,0
 "KS","Morton","Kansas","US","Morton, KS",2020-03-25,0,0,0
 "KS","Nemaha","Kansas","US","Nemaha, KS",2020-03-25,0,0,0
-"KS","Neosho","Kansas","US","Neosho, KS",2020-03-25,0,0,0
+"KS","Neosho","Kansas","US","Neosho, KS",2020-03-25,1,0,0
 "KS","Ness","Kansas","US","Ness, KS",2020-03-25,0,0,0
 "KS","Norton","Kansas","US","Norton, KS",2020-03-25,0,0,0
 "KS","Osage","Kansas","US","Osage, KS",2020-03-25,0,0,0
@@ -991,7 +991,7 @@
 "KS","Russell","Kansas","US","Russell, KS",2020-03-25,0,0,0
 "KS","Saline","Kansas","US","Saline, KS",2020-03-25,0,0,0
 "KS","Scott","Kansas","US","Scott, KS",2020-03-25,0,0,0
-"KS","Sedgwick","Kansas","US","Sedgwick, KS",2020-03-25,7,0,0
+"KS","Sedgwick","Kansas","US","Sedgwick, KS",2020-03-25,11,0,0
 "KS","Seward","Kansas","US","Seward, KS",2020-03-25,0,0,0
 "KS","Shawnee","Kansas","US","Shawnee, KS",2020-03-25,0,0,0
 "KS","Sheridan","Kansas","US","Sheridan, KS",2020-03-25,0,0,0
@@ -1008,9 +1008,9 @@
 "KS","Washington","Kansas","US","Washington, KS",2020-03-25,0,0,0
 "KS","Wichita","Kansas","US","Wichita, KS",2020-03-25,0,0,0
 "KS","Wilson","Kansas","US","Wilson, KS",2020-03-25,0,0,0
-"KS","Woodson","Kansas","US","Woodson, KS",2020-03-25,1,0,0
-"KS","Wyandotte","Kansas","US","Wyandotte, KS",2020-03-25,22,1,0
-"Kentucky","Aaall","Kentucky","US","Kentucky",2020-03-25,157,4,1
+"KS","Woodson","Kansas","US","Woodson, KS",2020-03-25,1,2,0
+"KS","Wyandotte","Kansas","US","Wyandotte, KS",2020-03-25,27,1,0
+"Kentucky","Aaall","Kentucky","US","Kentucky",2020-03-25,198,4,1
 "KY","Adair","Kentucky","US","Adair, KY",2020-03-25,0,0,0
 "KY","Allen","Kentucky","US","Allen, KY",2020-03-25,0,0,0
 "KY","Anderson","Kentucky","US","Anderson, KY",2020-03-25,3,1,0
@@ -1239,22 +1239,22 @@
 "MD","Washington","Maryland","US","Washington, MD",2020-03-25,2,0,0
 "MD","Wicomico","Maryland","US","Wicomico, MD",2020-03-25,4,0,0
 "MD","Worcester","Maryland","US","Worcester, MD",2020-03-25,2,0,0
-"Massachusetts","Aaall","Massachusetts","US","Massachusetts",2020-03-25,1159,0,0
-"MA","Barnstable","Massachusetts","US","Barnstable, MA",2020-03-25,40,0,0
-"MA","Berkshire","Massachusetts","US","Berkshire, MA",2020-03-25,37,0,0
-"MA","Bristol","Massachusetts","US","Bristol, MA",2020-03-25,31,0,0
-"MA","Dukes","Massachusetts","US","Dukes, MA",2020-03-25,2,0,0
-"MA","Essex","Massachusetts","US","Essex, MA",2020-03-25,118,0,0
-"MA","Franklin","Massachusetts","US","Franklin, MA",2020-03-25,5,0,0
-"MA","Hampden","Massachusetts","US","Hampden, MA",2020-03-25,24,0,0
-"MA","Hampshire","Massachusetts","US","Hampshire, MA",2020-03-25,8,0,0
-"MA","Middlesex","Massachusetts","US","Middlesex, MA",2020-03-25,304,1,0
+"Massachusetts","Aaall","Massachusetts","US","Massachusetts",2020-03-25,1838,0,0
+"MA","Barnstable","Massachusetts","US","Barnstable, MA",2020-03-25,51,0,0
+"MA","Berkshire","Massachusetts","US","Berkshire, MA",2020-03-25,71,0,0
+"MA","Bristol","Massachusetts","US","Bristol, MA",2020-03-25,67,0,0
+"MA","Dukes","Massachusetts","US","Dukes, MA",2020-03-25,3,0,0
+"MA","Essex","Massachusetts","US","Essex, MA",2020-03-25,177,0,0
+"MA","Franklin","Massachusetts","US","Franklin, MA",2020-03-25,14,0,0
+"MA","Hampden","Massachusetts","US","Hampden, MA",2020-03-25,45,0,0
+"MA","Hampshire","Massachusetts","US","Hampshire, MA",2020-03-25,11,0,0
+"MA","Middlesex","Massachusetts","US","Middlesex, MA",2020-03-25,446,1,0
 "MA","Nantucket","Massachusetts","US","Nantucket, MA",2020-03-25,0,0,0
-"MA","Norfolk","Massachusetts","US","Norfolk, MA",2020-03-25,129,0,0
-"MA","Plymouth","Massachusetts","US","Plymouth, MA",2020-03-25,64,0,0
-"MA","Suffolk","Massachusetts","US","Suffolk, MA",2020-03-25,234,1,0
-"MA","Worcester","Massachusetts","US","Worcester, MA",2020-03-25,73,0,0
-"Michigan","Aaall","Michigan","US","Michigan",2020-03-25,2295,24,0
+"MA","Norfolk","Massachusetts","US","Norfolk, MA",2020-03-25,222,0,0
+"MA","Plymouth","Massachusetts","US","Plymouth, MA",2020-03-25,101,0,0
+"MA","Suffolk","Massachusetts","US","Suffolk, MA",2020-03-25,342,1,0
+"MA","Worcester","Massachusetts","US","Worcester, MA",2020-03-25,129,0,0
+"Michigan","Aaall","Michigan","US","Michigan",2020-03-25,2295,43,0
 "MI","Alcona","Michigan","US","Alcona, MI",2020-03-25,0,0,0
 "MI","Alger","Michigan","US","Alger, MI",2020-03-25,0,0,0
 "MI","Allegan","Michigan","US","Allegan, MI",2020-03-25,1,0,0
@@ -1426,7 +1426,7 @@
 "MN","Winona","Minnesota","US","Winona, MN",2020-03-25,2,0,0
 "MN","Wright","Minnesota","US","Wright, MN",2020-03-25,3,0,0
 "MN","Yellow Medicine","Minnesota","US","Yellow Medicine, MN",2020-03-25,0,0,0
-"Mississippi","Aaall","Mississippi","US","Mississippi",2020-03-25,377,2,0
+"Mississippi","Aaall","Mississippi","US","Mississippi",2020-03-25,377,3,0
 "MS","Adams","Mississippi","US","Adams, MS",2020-03-25,2,0,0
 "MS","Alcorn","Mississippi","US","Alcorn, MS",2020-03-25,0,0,0
 "MS","Amite","Mississippi","US","Amite, MS",2020-03-25,1,0,0
@@ -1504,12 +1504,12 @@
 "MS","Warren","Mississippi","US","Warren, MS",2020-03-25,0,0,0
 "MS","Washington","Mississippi","US","Washington, MS",2020-03-25,5,0,0
 "MS","Wayne","Mississippi","US","Wayne, MS",2020-03-25,0,0,0
-"MS","Webster","Mississippi","US","Webster, MS",2020-03-25,2,0,0
+"MS","Webster","Mississippi","US","Webster, MS",2020-03-25,2,1,0
 "MS","Wilkinson","Mississippi","US","Wilkinson, MS",2020-03-25,5,0,0
 "MS","Winston","Mississippi","US","Winston, MS",2020-03-25,3,0,0
 "MS","Yalobusha","Mississippi","US","Yalobusha, MS",2020-03-25,0,0,0
 "MS","Yazoo","Mississippi","US","Yazoo, MS",2020-03-25,3,0,0
-"Missouri","Aaall","Missouri","US","Missouri",2020-03-25,255,5,0
+"Missouri","Aaall","Missouri","US","Missouri",2020-03-25,356,8,0
 "MO","Adair","Missouri","US","Adair, MO",2020-03-25,1,0,0
 "MO","Andrew","Missouri","US","Andrew, MO",2020-03-25,0,0,0
 "MO","Atchison","Missouri","US","Atchison, MO",2020-03-25,0,0,0
@@ -1525,18 +1525,18 @@
 "MO","Caldwell","Missouri","US","Caldwell, MO",2020-03-25,0,0,0
 "MO","Callaway","Missouri","US","Callaway, MO",2020-03-25,2,0,0
 "MO","Camden","Missouri","US","Camden, MO",2020-03-25,1,0,0
-"MO","Cape Girardeau","Missouri","US","Cape Girardeau, MO",2020-03-25,0,0,0
+"MO","Cape Girardeau","Missouri","US","Cape Girardeau, MO",2020-03-25,3,0,0
 "MO","Carroll","Missouri","US","Carroll, MO",2020-03-25,0,0,0
 "MO","Carter","Missouri","US","Carter, MO",2020-03-25,0,0,0
-"MO","Cass","Missouri","US","Cass, MO",2020-03-25,6,0,0
+"MO","Cass","Missouri","US","Cass, MO",2020-03-25,8,0,0
 "MO","Cedar","Missouri","US","Cedar, MO",2020-03-25,0,0,0
 "MO","Chariton","Missouri","US","Chariton, MO",2020-03-25,0,0,0
 "MO","Christian","Missouri","US","Christian, MO",2020-03-25,1,0,0
 "MO","Clark","Missouri","US","Clark, MO",2020-03-25,0,0,0
 "MO","Clay","Missouri","US","Clay, MO",2020-03-25,2,0,0
 "MO","Clinton","Missouri","US","Clinton, MO",2020-03-25,1,0,0
-"MO","Cole","Missouri","US","Cole, MO",2020-03-25,5,0,0
-"MO","Cooper","Missouri","US","Cooper, MO",2020-03-25,0,0,0
+"MO","Cole","Missouri","US","Cole, MO",2020-03-25,6,0,0
+"MO","Cooper","Missouri","US","Cooper, MO",2020-03-25,1,0,0
 "MO","Crawford","Missouri","US","Crawford, MO",2020-03-25,0,0,0
 "MO","Dade","Missouri","US","Dade, MO",2020-03-25,0,0,0
 "MO","Dallas","Missouri","US","Dallas, MO",2020-03-25,0,0,0
@@ -1545,10 +1545,10 @@
 "MO","Dent","Missouri","US","Dent, MO",2020-03-25,0,0,0
 "MO","Douglas","Missouri","US","Douglas, MO",2020-03-25,0,0,0
 "MO","Dunklin","Missouri","US","Dunklin, MO",2020-03-25,1,0,0
-"MO","Franklin","Missouri","US","Franklin, MO",2020-03-25,1,0,0
+"MO","Franklin","Missouri","US","Franklin, MO",2020-03-25,3,0,0
 "MO","Gasconade","Missouri","US","Gasconade, MO",2020-03-25,0,0,0
 "MO","Gentry","Missouri","US","Gentry, MO",2020-03-25,0,0,0
-"MO","Greene","Missouri","US","Greene, MO",2020-03-25,19,1,0
+"MO","Greene","Missouri","US","Greene, MO",2020-03-25,23,3,0
 "MO","Grundy","Missouri","US","Grundy, MO",2020-03-25,0,0,0
 "MO","Harrison","Missouri","US","Harrison, MO",2020-03-25,0,0,0
 "MO","Henry","Missouri","US","Henry, MO",2020-03-25,1,0,0
@@ -1557,13 +1557,13 @@
 "MO","Howard","Missouri","US","Howard, MO",2020-03-25,0,0,0
 "MO","Howell","Missouri","US","Howell, MO",2020-03-25,0,0,0
 "MO","Iron","Missouri","US","Iron, MO",2020-03-25,0,0,0
-"MO","Jackson","Missouri","US","Jackson, MO",2020-03-25,35,1,0
-"MO","Jasper","Missouri","US","Jasper, MO",2020-03-25,1,0,0
-"MO","Jefferson","Missouri","US","Jefferson, MO",2020-03-25,4,0,0
-"MO","Johnson","Missouri","US","Johnson, MO",2020-03-25,1,0,0
+"MO","Jackson","Missouri","US","Jackson, MO",2020-03-25,17,1,0
+"MO","Jasper","Missouri","US","Jasper, MO",2020-03-25,2,0,0
+"MO","Jefferson","Missouri","US","Jefferson, MO",2020-03-25,5,0,0
+"MO","Johnson","Missouri","US","Johnson, MO",2020-03-25,2,0,0
 "MO","Knox","Missouri","US","Knox, MO",2020-03-25,0,0,0
 "MO","Laclede","Missouri","US","Laclede, MO",2020-03-25,0,0,0
-"MO","Lafayette","Missouri","US","Lafayette, MO",2020-03-25,1,0,0
+"MO","Lafayette","Missouri","US","Lafayette, MO",2020-03-25,2,0,0
 "MO","Lawrence","Missouri","US","Lawrence, MO",2020-03-25,0,0,0
 "MO","Lewis","Missouri","US","Lewis, MO",2020-03-25,0,0,0
 "MO","Lincoln","Missouri","US","Lincoln, MO",2020-03-25,0,0,0
@@ -1573,16 +1573,16 @@
 "MO","Madison","Missouri","US","Madison, MO",2020-03-25,0,0,0
 "MO","Maries","Missouri","US","Maries, MO",2020-03-25,0,0,0
 "MO","Marion","Missouri","US","Marion, MO",2020-03-25,0,0,0
-"MO","McDonald","Missouri","US","McDonald, MO",2020-03-25,0,0,0
+"MO","McDonald","Missouri","US","McDonald, MO",2020-03-25,1,0,0
 "MO","Mercer","Missouri","US","Mercer, MO",2020-03-25,0,0,0
 "MO","Miller","Missouri","US","Miller, MO",2020-03-25,0,0,0
 "MO","Mississippi","Missouri","US","Mississippi, MO",2020-03-25,0,0,0
-"MO","Moniteau","Missouri","US","Moniteau, MO",2020-03-25,1,0,0
+"MO","Moniteau","Missouri","US","Moniteau, MO",2020-03-25,2,0,0
 "MO","Monroe","Missouri","US","Monroe, MO",2020-03-25,0,0,0
-"MO","Montgomery","Missouri","US","Montgomery, MO",2020-03-25,0,0,0
+"MO","Montgomery","Missouri","US","Montgomery, MO",2020-03-25,1,0,0
 "MO","Morgan","Missouri","US","Morgan, MO",2020-03-25,0,0,0
 "MO","New Madrid","Missouri","US","New Madrid, MO",2020-03-25,0,0,0
-"MO","Newton","Missouri","US","Newton, MO",2020-03-25,0,0,0
+"MO","Newton","Missouri","US","Newton, MO",2020-03-25,1,0,0
 "MO","Nodaway","Missouri","US","Nodaway, MO",2020-03-25,0,0,0
 "MO","Oregon","Missouri","US","Oregon, MO",2020-03-25,0,0,0
 "MO","Osage","Missouri","US","Osage, MO",2020-03-25,0,0,0
@@ -1592,12 +1592,12 @@
 "MO","Pettis","Missouri","US","Pettis, MO",2020-03-25,0,0,0
 "MO","Phelps","Missouri","US","Phelps, MO",2020-03-25,0,0,0
 "MO","Pike","Missouri","US","Pike, MO",2020-03-25,0,0,0
-"MO","Platte","Missouri","US","Platte, MO",2020-03-25,0,0,0
+"MO","Platte","Missouri","US","Platte, MO",2020-03-25,2,0,0
 "MO","Polk","Missouri","US","Polk, MO",2020-03-25,0,0,0
 "MO","Pulaski","Missouri","US","Pulaski, MO",2020-03-25,4,0,0
 "MO","Putnam","Missouri","US","Putnam, MO",2020-03-25,0,0,0
-"MO","Ralls","Missouri","US","Ralls, MO",2020-03-25,0,0,0
-"MO","Randolph","Missouri","US","Randolph, MO",2020-03-25,0,0,0
+"MO","Ralls","Missouri","US","Ralls, MO",2020-03-25,1,0,0
+"MO","Randolph","Missouri","US","Randolph, MO",2020-03-25,1,0,0
 "MO","Ray","Missouri","US","Ray, MO",2020-03-25,0,0,0
 "MO","Reynolds","Missouri","US","Reynolds, MO",2020-03-25,0,0,0
 "MO","Ripley","Missouri","US","Ripley, MO",2020-03-25,0,0,0
@@ -1606,12 +1606,12 @@
 "MO","Scotland","Missouri","US","Scotland, MO",2020-03-25,0,0,0
 "MO","Scott","Missouri","US","Scott, MO",2020-03-25,1,0,0
 "MO","Shannon","Missouri","US","Shannon, MO",2020-03-25,0,0,0
-"MO","Shelby","Missouri","US","Shelby, MO",2020-03-25,0,0,0
-"MO","St. Charles","Missouri","US","St. Charles, MO",2020-03-25,8,0,0
+"MO","Shelby","Missouri","US","Shelby, MO",2020-03-25,1,0,0
+"MO","St. Charles","Missouri","US","St. Charles, MO",2020-03-25,12,1,0
 "MO","St. Clair","Missouri","US","St. Clair, MO",2020-03-25,0,0,0
 "MO","St. Francois","Missouri","US","St. Francois, MO",2020-03-25,2,0,0
-"MO","St. Louis","Missouri","US","St. Louis, MO",2020-03-25,23,1,0
-"MO","St. Louis city","Missouri","US","St. Louis, MO county",2020-03-25,100,1,0
+"MO","St. Louis","Missouri","US","St. Louis, MO",2020-03-25,44,1,0
+"MO","St. Louis city","Missouri","US","St. Louis, MO county",2020-03-25,129,1,0
 "MO","Ste. Genevieve","Missouri","US","Ste. Genevieve, MO",2020-03-25,0,0,0
 "MO","Stoddard","Missouri","US","Stoddard, MO",2020-03-25,0,0,0
 "MO","Stone","Missouri","US","Stone, MO",2020-03-25,0,0,0
@@ -1794,15 +1794,15 @@
 "NV","Storey","Nevada","US","Storey, NV",2020-03-25,0,0,0
 "NV","Washoe","Nevada","US","Washoe, NV",2020-03-25,44,0,0
 "NV","White Pine","Nevada","US","White Pine, NV",2020-03-25,0,0,0
-"New Hampshire","Aaall","New Hampshire","US","New Hampshire",2020-03-25,108,0,0
-"NH","Belknap","New Hampshire","US","Belknap, NH",2020-03-25,7,0,0
+"New Hampshire","Aaall","New Hampshire","US","New Hampshire",2020-03-25,137,0,0
+"NH","Belknap","New Hampshire","US","Belknap, NH",2020-03-25,8,0,0
 "NH","Carroll","New Hampshire","US","Carroll, NH",2020-03-25,7,0,0
 "NH","Cheshire","New Hampshire","US","Cheshire, NH",2020-03-25,1,0,0
 "NH","Coos","New Hampshire","US","Coos, NH",2020-03-25,0,0,0
-"NH","Grafton","New Hampshire","US","Grafton, NH",2020-03-25,21,0,0
-"NH","Hillsborough","New Hampshire","US","Hillsborough, NH",2020-03-25,20,0,0
-"NH","Merrimack","New Hampshire","US","Merrimack, NH",2020-03-25,4,0,0
-"NH","Rockingham","New Hampshire","US","Rockingham, NH",2020-03-25,42,0,0
+"NH","Grafton","New Hampshire","US","Grafton, NH",2020-03-25,22,0,0
+"NH","Hillsborough","New Hampshire","US","Hillsborough, NH",2020-03-25,30,0,0
+"NH","Merrimack","New Hampshire","US","Merrimack, NH",2020-03-25,5,0,0
+"NH","Rockingham","New Hampshire","US","Rockingham, NH",2020-03-25,56,0,0
 "NH","Strafford","New Hampshire","US","Strafford, NH",2020-03-25,5,0,0
 "NH","Sullivan","New Hampshire","US","Sullivan, NH",2020-03-25,1,0,0
 "New Jersey","Aaall","New Jersey","US","New Jersey",2020-03-25,4402,62,0
@@ -1827,15 +1827,15 @@
 "NJ","Sussex","New Jersey","US","Sussex, NJ",2020-03-25,27,0,0
 "NJ","Union","New Jersey","US","Union, NJ",2020-03-25,262,0,0
 "NJ","Warren","New Jersey","US","Warren, NJ",2020-03-25,18,0,0
-"New Mexico","Aaall","New Mexico","US","New Mexico",2020-03-25,100,0,0
-"NM","Bernalillo","New Mexico","US","Bernalillo, NM",2020-03-25,43,0,0
+"New Mexico","Aaall","New Mexico","US","New Mexico",2020-03-25,112,1,0
+"NM","Bernalillo","New Mexico","US","Bernalillo, NM",2020-03-25,48,0,0
 "NM","Catron","New Mexico","US","Catron, NM",2020-03-25,0,0,0
 "NM","Chaves","New Mexico","US","Chaves, NM",2020-03-25,4,0,0
-"NM","Cibola","New Mexico","US","Cibola, NM",2020-03-25,0,0,0
+"NM","Cibola","New Mexico","US","Cibola, NM",2020-03-25,1,0,0
 "NM","Colfax","New Mexico","US","Colfax, NM",2020-03-25,0,0,0
-"NM","Curry","New Mexico","US","Curry, NM",2020-03-25,0,0,0
+"NM","Curry","New Mexico","US","Curry, NM",2020-03-25,1,0,0
 "NM","De Baca","New Mexico","US","De Baca, NM",2020-03-25,0,0,0
-"NM","Dona Ana","New Mexico","US","Dona Ana, NM",2020-03-25,10,0,0
+"NM","Dona Ana","New Mexico","US","Dona Ana, NM",2020-03-25,13,0,0
 "NM","Eddy","New Mexico","US","Eddy, NM",2020-03-25,0,0,0
 "NM","Grant","New Mexico","US","Grant, NM",2020-03-25,0,0,0
 "NM","Guadalupe","New Mexico","US","Guadalupe, NM",2020-03-25,0,0,0
@@ -1845,16 +1845,16 @@
 "NM","Lincoln","New Mexico","US","Lincoln, NM",2020-03-25,0,0,0
 "NM","Los Alamos","New Mexico","US","Los Alamos, NM",2020-03-25,0,0,0
 "NM","Luna","New Mexico","US","Luna, NM",2020-03-25,0,0,0
-"NM","McKinley","New Mexico","US","McKinley, NM",2020-03-25,2,0,0
+"NM","McKinley","New Mexico","US","McKinley, NM",2020-03-25,3,0,0
 "NM","Mora","New Mexico","US","Mora, NM",2020-03-25,0,0,0
 "NM","Otero","New Mexico","US","Otero, NM",2020-03-25,0,0,0
 "NM","Quay","New Mexico","US","Quay, NM",2020-03-25,0,0,0
-"NM","Rio Arriba","New Mexico","US","Rio Arriba, NM",2020-03-25,0,0,0
+"NM","Rio Arriba","New Mexico","US","Rio Arriba, NM",2020-03-25,2,0,0
 "NM","Roosevelt","New Mexico","US","Roosevelt, NM",2020-03-25,0,0,0
-"NM","San Juan","New Mexico","US","San Juan, NM",2020-03-25,3,0,0
+"NM","San Juan","New Mexico","US","San Juan, NM",2020-03-25,8,0,0
 "NM","San Miguel","New Mexico","US","San Miguel, NM",2020-03-25,1,0,0
-"NM","Sandoval","New Mexico","US","Sandoval, NM",2020-03-25,7,0,0
-"NM","Santa Fe","New Mexico","US","Santa Fe, NM",2020-03-25,12,0,0
+"NM","Sandoval","New Mexico","US","Sandoval, NM",2020-03-25,8,0,0
+"NM","Santa Fe","New Mexico","US","Santa Fe, NM",2020-03-25,14,0,0
 "NM","Sierra","New Mexico","US","Sierra, NM",2020-03-25,0,0,0
 "NM","Socorro","New Mexico","US","Socorro, NM",2020-03-25,2,0,0
 "NM","Taos","New Mexico","US","Taos, NM",2020-03-25,3,0,0
@@ -1924,87 +1924,87 @@
 "NY","Westchester","New York","US","Westchester, NY",2020-03-25,4691,0,0
 "NY","Wyoming","New York","US","Wyoming, NY",2020-03-25,4,0,0
 "NY","Yates","New York","US","Yates, NY",2020-03-25,0,0,0
-"North Carolina","Aaall","North Carolina","US","North Carolina",2020-03-25,398,0,0
-"NC","Alamance","North Carolina","US","Alamance, NC",2020-03-25,3,0,0
+"North Carolina","Aaall","North Carolina","US","North Carolina",2020-03-25,504,1,0
+"NC","Alamance","North Carolina","US","Alamance, NC",2020-03-25,2,0,0
 "NC","Alexander","North Carolina","US","Alexander, NC",2020-03-25,0,0,0
 "NC","Alleghany","North Carolina","US","Alleghany, NC",2020-03-25,0,0,0
 "NC","Anson","North Carolina","US","Anson, NC",2020-03-25,0,0,0
 "NC","Ashe","North Carolina","US","Ashe, NC",2020-03-25,0,0,0
 "NC","Avery","North Carolina","US","Avery, NC",2020-03-25,0,0,0
 "NC","Beaufort","North Carolina","US","Beaufort, NC",2020-03-25,0,0,0
-"NC","Bertie","North Carolina","US","Bertie, NC",2020-03-25,0,0,0
+"NC","Bertie","North Carolina","US","Bertie, NC",2020-03-25,2,0,0
 "NC","Bladen","North Carolina","US","Bladen, NC",2020-03-25,0,0,0
-"NC","Brunswick","North Carolina","US","Brunswick, NC",2020-03-25,8,0,0
-"NC","Buncombe","North Carolina","US","Buncombe, NC",2020-03-25,5,0,0
+"NC","Brunswick","North Carolina","US","Brunswick, NC",2020-03-25,10,0,0
+"NC","Buncombe","North Carolina","US","Buncombe, NC",2020-03-25,6,0,0
 "NC","Burke","North Carolina","US","Burke, NC",2020-03-25,0,0,0
-"NC","Cabarrus","North Carolina","US","Cabarrus, NC",2020-03-25,8,0,0
-"NC","Caldwell","North Carolina","US","Caldwell, NC",2020-03-25,0,0,0
+"NC","Cabarrus","North Carolina","US","Cabarrus, NC",2020-03-25,12,1,0
+"NC","Caldwell","North Carolina","US","Caldwell, NC",2020-03-25,1,0,0
 "NC","Camden","North Carolina","US","Camden, NC",2020-03-25,0,0,0
 "NC","Carteret","North Carolina","US","Carteret, NC",2020-03-25,4,0,0
 "NC","Caswell","North Carolina","US","Caswell, NC",2020-03-25,0,0,0
 "NC","Catawba","North Carolina","US","Catawba, NC",2020-03-25,4,0,0
-"NC","Chatham","North Carolina","US","Chatham, NC",2020-03-25,3,0,0
+"NC","Chatham","North Carolina","US","Chatham, NC",2020-03-25,6,0,0
 "NC","Cherokee","North Carolina","US","Cherokee, NC",2020-03-25,4,0,0
 "NC","Chowan","North Carolina","US","Chowan, NC",2020-03-25,0,0,0
 "NC","Clay","North Carolina","US","Clay, NC",2020-03-25,0,0,0
-"NC","Cleveland","North Carolina","US","Cleveland, NC",2020-03-25,0,0,0
+"NC","Cleveland","North Carolina","US","Cleveland, NC",2020-03-25,1,0,0
 "NC","Columbus","North Carolina","US","Columbus, NC",2020-03-25,0,0,0
-"NC","Craven","North Carolina","US","Craven, NC",2020-03-25,2,0,0
-"NC","Cumberland","North Carolina","US","Cumberland, NC",2020-03-25,2,0,0
+"NC","Craven","North Carolina","US","Craven, NC",2020-03-25,3,0,0
+"NC","Cumberland","North Carolina","US","Cumberland, NC",2020-03-25,3,0,0
 "NC","Currituck","North Carolina","US","Currituck, NC",2020-03-25,0,0,0
 "NC","Dare","North Carolina","US","Dare, NC",2020-03-25,0,0,0
 "NC","Davidson","North Carolina","US","Davidson, NC",2020-03-25,2,0,0
 "NC","Davie","North Carolina","US","Davie, NC",2020-03-25,1,0,0
 "NC","Duplin","North Carolina","US","Duplin, NC",2020-03-25,0,0,0
-"NC","Durham","North Carolina","US","Durham, NC",2020-03-25,63,0,0
-"NC","Edgecombe","North Carolina","US","Edgecombe, NC",2020-03-25,0,0,0
-"NC","Forsyth","North Carolina","US","Forsyth, NC",2020-03-25,12,0,0
+"NC","Durham","North Carolina","US","Durham, NC",2020-03-25,70,0,0
+"NC","Edgecombe","North Carolina","US","Edgecombe, NC",2020-03-25,70,0,0
+"NC","Forsyth","North Carolina","US","Forsyth, NC",2020-03-25,15,0,0
 "NC","Franklin","North Carolina","US","Franklin, NC",2020-03-25,5,0,0
 "NC","Gaston","North Carolina","US","Gaston, NC",2020-03-25,3,0,1
 "NC","Gates","North Carolina","US","Gates, NC",2020-03-25,0,0,0
 "NC","Graham","North Carolina","US","Graham, NC",2020-03-25,0,0,0
 "NC","Granville","North Carolina","US","Granville, NC",2020-03-25,1,0,0
 "NC","Greene","North Carolina","US","Greene, NC",2020-03-25,0,0,0
-"NC","Guilford","North Carolina","US","Guilford, NC",2020-03-25,16,0,0
+"NC","Guilford","North Carolina","US","Guilford, NC",2020-03-25,22,0,0
 "NC","Halifax","North Carolina","US","Halifax, NC",2020-03-25,0,0,0
-"NC","Harnett","North Carolina","US","Harnett, NC",2020-03-25,9,0,0
+"NC","Harnett","North Carolina","US","Harnett, NC",2020-03-25,10,0,0
 "NC","Haywood","North Carolina","US","Haywood, NC",2020-03-25,0,0,0
 "NC","Henderson","North Carolina","US","Henderson, NC",2020-03-25,2,0,0
-"NC","Hertford","North Carolina","US","Hertford, NC",2020-03-25,0,0,0
+"NC","Hertford","North Carolina","US","Hertford, NC",2020-03-25,1,0,0
 "NC","Hoke","North Carolina","US","Hoke, NC",2020-03-25,2,0,0
 "NC","Hyde","North Carolina","US","Hyde, NC",2020-03-25,0,0,0
-"NC","Iredell","North Carolina","US","Iredell, NC",2020-03-25,9,0,0
+"NC","Iredell","North Carolina","US","Iredell, NC",2020-03-25,11,0,0
 "NC","Jackson","North Carolina","US","Jackson, NC",2020-03-25,1,0,0
-"NC","Johnston","North Carolina","US","Johnston, NC",2020-03-25,4,0,0
+"NC","Johnston","North Carolina","US","Johnston, NC",2020-03-25,8,0,0
 "NC","Jones","North Carolina","US","Jones, NC",2020-03-25,0,0,0
 "NC","Lee","North Carolina","US","Lee, NC",2020-03-25,1,0,0
-"NC","Lenoir","North Carolina","US","Lenoir, NC",2020-03-25,0,0,0
+"NC","Lenoir","North Carolina","US","Lenoir, NC",2020-03-25,1,0,0
 "NC","Lincoln","North Carolina","US","Lincoln, NC",2020-03-25,1,0,0
 "NC","Macon","North Carolina","US","Macon, NC",2020-03-25,0,0,0
 "NC","Madison","North Carolina","US","Madison, NC",2020-03-25,0,0,0
 "NC","Martin","North Carolina","US","Martin, NC",2020-03-25,0,0,0
 "NC","McDowell","North Carolina","US","McDowell, NC",2020-03-25,0,0,0
-"NC","Mecklenburg","North Carolina","US","Mecklenburg, NC",2020-03-25,104,0,0
+"NC","Mecklenburg","North Carolina","US","Mecklenburg, NC",2020-03-25,142,0,0
 "NC","Mitchell","North Carolina","US","Mitchell, NC",2020-03-25,0,0,0
 "NC","Montgomery","North Carolina","US","Montgomery, NC",2020-03-25,1,0,0
 "NC","Moore","North Carolina","US","Moore, NC",2020-03-25,2,0,0
-"NC","Nash","North Carolina","US","Nash, NC",2020-03-25,1,0,0
-"NC","New Hanover","North Carolina","US","New Hanover, NC",2020-03-25,7,0,0
+"NC","Nash","North Carolina","US","Nash, NC",2020-03-25,2,0,0
+"NC","New Hanover","North Carolina","US","New Hanover, NC",2020-03-25,9,0,0
 "NC","Northampton","North Carolina","US","Northampton, NC",2020-03-25,0,0,0
 "NC","Onslow","North Carolina","US","Onslow, NC",2020-03-25,3,0,0
-"NC","Orange","North Carolina","US","Orange, NC",2020-03-25,11,0,1
+"NC","Orange","North Carolina","US","Orange, NC",2020-03-25,13,0,0
 "NC","Pamlico","North Carolina","US","Pamlico, NC",2020-03-25,0,0,0
 "NC","Pasquotank","North Carolina","US","Pasquotank, NC",2020-03-25,1,0,0
 "NC","Pender","North Carolina","US","Pender, NC",2020-03-25,0,0,0
 "NC","Perquimans","North Carolina","US","Perquimans, NC",2020-03-25,0,0,0
 "NC","Person","North Carolina","US","Person, NC",2020-03-25,0,0,0
-"NC","Pitt","North Carolina","US","Pitt, NC",2020-03-25,5,0,0
+"NC","Pitt","North Carolina","US","Pitt, NC",2020-03-25,6,0,0
 "NC","Polk","North Carolina","US","Polk, NC",2020-03-25,0,0,0
-"NC","Randolph","North Carolina","US","Randolph, NC",2020-03-25,2,0,0
+"NC","Randolph","North Carolina","US","Randolph, NC",2020-03-25,3,0,0
 "NC","Richmond","North Carolina","US","Richmond, NC",2020-03-25,0,0,0
-"NC","Robeson","North Carolina","US","Robeson, NC",2020-03-25,1,0,0
+"NC","Robeson","North Carolina","US","Robeson, NC",2020-03-25,2,0,0
 "NC","Rockingham","North Carolina","US","Rockingham, NC",2020-03-25,0,0,0
-"NC","Rowan","North Carolina","US","Rowan, NC",2020-03-25,5,0,0
+"NC","Rowan","North Carolina","US","Rowan, NC",2020-03-25,6,0,0
 "NC","Rutherford","North Carolina","US","Rutherford, NC",2020-03-25,0,0,0
 "NC","Sampson","North Carolina","US","Sampson, NC",2020-03-25,1,0,0
 "NC","Scotland","North Carolina","US","Scotland, NC",2020-03-25,1,0,0
@@ -2012,20 +2012,20 @@
 "NC","Stokes","North Carolina","US","Stokes, NC",2020-03-25,0,0,0
 "NC","Surry","North Carolina","US","Surry, NC",2020-03-25,0,0,0
 "NC","Swain","North Carolina","US","Swain, NC",2020-03-25,0,0,0
-"NC","Transylvania","North Carolina","US","Transylvania, NC",2020-03-25,1,0,0
+"NC","Transylvania","North Carolina","US","Transylvania, NC",2020-03-25,2,0,0
 "NC","Tyrrell","North Carolina","US","Tyrrell, NC",2020-03-25,0,0,0
-"NC","Union","North Carolina","US","Union, NC",2020-03-25,13,0,0
+"NC","Union","North Carolina","US","Union, NC",2020-03-25,16,0,0
 "NC","Vance","North Carolina","US","Vance, NC",2020-03-25,2,0,0
-"NC","Wake","North Carolina","US","Wake, NC",2020-03-25,54,0,0
+"NC","Wake","North Carolina","US","Wake, NC",2020-03-25,67,0,0
 "NC","Warren","North Carolina","US","Warren, NC",2020-03-25,0,0,0
 "NC","Washington","North Carolina","US","Washington, NC",2020-03-25,0,0,0
 "NC","Watauga","North Carolina","US","Watauga, NC",2020-03-25,2,0,0
 "NC","Wayne","North Carolina","US","Wayne, NC",2020-03-25,2,0,0
 "NC","Wilkes","North Carolina","US","Wilkes, NC",2020-03-25,0,0,0
-"NC","Wilson","North Carolina","US","Wilson, NC",2020-03-25,3,0,0
+"NC","Wilson","North Carolina","US","Wilson, NC",2020-03-25,5,0,0
 "NC","Yadkin","North Carolina","US","Yadkin, NC",2020-03-25,0,0,0
 "NC","Yancey","North Carolina","US","Yancey, NC",2020-03-25,0,0,0
-"North Dakota","Aaall","North Dakota","US","North Dakota",2020-03-25,34,0,0
+"North Dakota","Aaall","North Dakota","US","North Dakota",2020-03-25,39,0,0
 "ND","Adams","North Dakota","US","Adams, ND",2020-03-25,0,0,0
 "ND","Barnes","North Dakota","US","Barnes, ND",2020-03-25,0,0,0
 "ND","Benson","North Dakota","US","Benson, ND",2020-03-25,0,0,0
@@ -2034,14 +2034,14 @@
 "ND","Bowman","North Dakota","US","Bowman, ND",2020-03-25,0,0,0
 "ND","Burke","North Dakota","US","Burke, ND",2020-03-25,0,0,0
 "ND","Burleigh","North Dakota","US","Burleigh, ND",2020-03-25,18,0,0
-"ND","Cass","North Dakota","US","Cass, ND",2020-03-25,1,0,0
+"ND","Cass","North Dakota","US","Cass, ND",2020-03-25,3,0,0
 "ND","Cavalier","North Dakota","US","Cavalier, ND",2020-03-25,0,0,0
 "ND","Dickey","North Dakota","US","Dickey, ND",2020-03-25,0,0,0
 "ND","Divide","North Dakota","US","Divide, ND",2020-03-25,0,0,0
 "ND","Dunn","North Dakota","US","Dunn, ND",2020-03-25,1,0,0
 "ND","Eddy","North Dakota","US","Eddy, ND",2020-03-25,0,0,0
 "ND","Emmons","North Dakota","US","Emmons, ND",2020-03-25,0,0,0
-"ND","Foster","North Dakota","US","Foster, ND",2020-03-25,0,0,0
+"ND","Foster","North Dakota","US","Foster, ND",2020-03-25,1,0,0
 "ND","Golden Valley","North Dakota","US","Golden Valley, ND",2020-03-25,0,0,0
 "ND","Grand Forks","North Dakota","US","Grand Forks, ND",2020-03-25,0,0,0
 "ND","Grant","North Dakota","US","Grant, ND",2020-03-25,0,0,0
@@ -2055,13 +2055,13 @@
 "ND","McKenzie","North Dakota","US","McKenzie, ND",2020-03-25,0,0,0
 "ND","McLean","North Dakota","US","McLean, ND",2020-03-25,0,0,0
 "ND","Mercer","North Dakota","US","Mercer, ND",2020-03-25,0,0,0
-"ND","Morton","North Dakota","US","Morton, ND",2020-03-25,7,0,0
+"ND","Morton","North Dakota","US","Morton, ND",2020-03-25,8,0,0
 "ND","Mountrail","North Dakota","US","Mountrail, ND",2020-03-25,0,0,0
 "ND","Nelson","North Dakota","US","Nelson, ND",2020-03-25,0,0,0
 "ND","Oliver","North Dakota","US","Oliver, ND",2020-03-25,0,0,0
 "ND","Pembina","North Dakota","US","Pembina, ND",2020-03-25,0,0,0
 "ND","Pierce","North Dakota","US","Pierce, ND",2020-03-25,2,0,0
-"ND","Ramsey","North Dakota","US","Ramsey, ND",2020-03-25,1,0,0
+"ND","Ramsey","North Dakota","US","Ramsey, ND",2020-03-25,2,0,0
 "ND","Ransom","North Dakota","US","Ransom, ND",2020-03-25,0,0,0
 "ND","Renville","North Dakota","US","Renville, ND",2020-03-25,0,0,0
 "ND","Richland","North Dakota","US","Richland, ND",2020-03-25,0,0,0
@@ -2079,38 +2079,38 @@
 "ND","Ward","North Dakota","US","Ward, ND",2020-03-25,3,0,0
 "ND","Wells","North Dakota","US","Wells, ND",2020-03-25,0,0,0
 "ND","Williams","North Dakota","US","Williams, ND",2020-03-25,0,0,0
-"Ohio","Aaall","Ohio","US","Ohio",2020-03-25,564,8,0
+"Ohio","Aaall","Ohio","US","Ohio",2020-03-25,704,10,0
 "OH","Adams","Ohio","US","Adams, OH",2020-03-25,0,0,0
 "OH","Allen","Ohio","US","Allen, OH",2020-03-25,0,0,0
 "OH","Ashland","Ohio","US","Ashland, OH",2020-03-25,1,0,0
 "OH","Ashtabula","Ohio","US","Ashtabula, OH",2020-03-25,3,0,0
 "OH","Athens","Ohio","US","Athens, OH",2020-03-25,0,0,0
 "OH","Auglaize","Ohio","US","Auglaize, OH",2020-03-25,0,0,0
-"OH","Belmont","Ohio","US","Belmont, OH",2020-03-25,2,0,0
+"OH","Belmont","Ohio","US","Belmont, OH",2020-03-25,3,0,0
 "OH","Brown","Ohio","US","Brown, OH",2020-03-25,0,0,0
 "OH","Butler","Ohio","US","Butler, OH",2020-03-25,18,0,0
 "OH","Carroll","Ohio","US","Carroll, OH",2020-03-25,3,0,0
 "OH","Champaign","Ohio","US","Champaign, OH",2020-03-25,1,0,0
 "OH","Clark","Ohio","US","Clark, OH",2020-03-25,2,0,0
 "OH","Clermont","Ohio","US","Clermont, OH",2020-03-25,5,0,0
-"OH","Clinton","Ohio","US","Clinton, OH",2020-03-25,1,0,0
-"OH","Columbiana","Ohio","US","Columbiana, OH",2020-03-25,3,0,0
-"OH","Coshocton","Ohio","US","Coshocton, OH",2020-03-25,3,0,0
+"OH","Clinton","Ohio","US","Clinton, OH",2020-03-25,2,0,0
+"OH","Columbiana","Ohio","US","Columbiana, OH",2020-03-25,4,0,0
+"OH","Coshocton","Ohio","US","Coshocton, OH",2020-03-25,4,0,0
 "OH","Crawford","Ohio","US","Crawford, OH",2020-03-25,1,0,0
-"OH","Cuyahoga","Ohio","US","Cuyahoga, OH",2020-03-25,167,2,0
+"OH","Cuyahoga","Ohio","US","Cuyahoga, OH",2020-03-25,206,2,0
 "OH","Darke","Ohio","US","Darke, OH",2020-03-25,1,0,0
 "OH","Defiance","Ohio","US","Defiance, OH",2020-03-25,2,0,0
-"OH","Delaware","Ohio","US","Delaware, OH",2020-03-25,11,0,0
-"OH","Erie","Ohio","US","Erie, OH",2020-03-25,1,1,0
-"OH","Fairfield","Ohio","US","Fairfield, OH",2020-03-25,2,0,0
-"OH","Fayette","Ohio","US","Fayette, OH",2020-03-25,0,0,0
-"OH","Franklin","Ohio","US","Franklin, OH",2020-03-25,75,2,0
+"OH","Delaware","Ohio","US","Delaware, OH",2020-03-25,12,0,0
+"OH","Erie","Ohio","US","Erie, OH",2020-03-25,2,1,0
+"OH","Fairfield","Ohio","US","Fairfield, OH",2020-03-25,5,0,0
+"OH","Fayette","Ohio","US","Fayette, OH",2020-03-25,1,0,0
+"OH","Franklin","Ohio","US","Franklin, OH",2020-03-25,88,2,0
 "OH","Fulton","Ohio","US","Fulton, OH",2020-03-25,0,0,0
 "OH","Gallia","Ohio","US","Gallia, OH",2020-03-25,1,1,0
-"OH","Geauga","Ohio","US","Geauga, OH",2020-03-25,5,0,0
+"OH","Geauga","Ohio","US","Geauga, OH",2020-03-25,4,0,0
 "OH","Greene","Ohio","US","Greene, OH",2020-03-25,3,0,0
 "OH","Guernsey","Ohio","US","Guernsey, OH",2020-03-25,0,0,0
-"OH","Hamilton","Ohio","US","Hamilton, OH",2020-03-25,38,0,0
+"OH","Hamilton","Ohio","US","Hamilton, OH",2020-03-25,48,0,0
 "OH","Hancock","Ohio","US","Hancock, OH",2020-03-25,1,0,0
 "OH","Hardin","Ohio","US","Hardin, OH",2020-03-25,0,0,0
 "OH","Harrison","Ohio","US","Harrison, OH",2020-03-25,0,0,0
@@ -2121,22 +2121,22 @@
 "OH","Huron","Ohio","US","Huron, OH",2020-03-25,2,0,0
 "OH","Jackson","Ohio","US","Jackson, OH",2020-03-25,0,0,0
 "OH","Jefferson","Ohio","US","Jefferson, OH",2020-03-25,0,0,0
-"OH","Knox","Ohio","US","Knox, OH",2020-03-25,1,0,0
-"OH","Lake","Ohio","US","Lake, OH",2020-03-25,11,0,0
-"OH","Lawrence","Ohio","US","Lawrence, OH",2020-03-25,0,0,0
-"OH","Licking","Ohio","US","Licking, OH",2020-03-25,2,0,0
+"OH","Knox","Ohio","US","Knox, OH",2020-03-25,2,0,0
+"OH","Lake","Ohio","US","Lake, OH",2020-03-25,14,0,0
+"OH","Lawrence","Ohio","US","Lawrence, OH",2020-03-25,1,0,0
+"OH","Licking","Ohio","US","Licking, OH",2020-03-25,3,0,0
 "OH","Logan","Ohio","US","Logan, OH",2020-03-25,2,0,0
-"OH","Lorain","Ohio","US","Lorain, OH",2020-03-25,30,0,0
-"OH","Lucas","Ohio","US","Lucas, OH",2020-03-25,11,1,0
-"OH","Madison","Ohio","US","Madison, OH",2020-03-25,1,0,0
-"OH","Mahoning","Ohio","US","Mahoning, OH",2020-03-25,28,0,0
+"OH","Lorain","Ohio","US","Lorain, OH",2020-03-25,37,0,0
+"OH","Lucas","Ohio","US","Lucas, OH",2020-03-25,23,1,0
+"OH","Madison","Ohio","US","Madison, OH",2020-03-25,2,0,0
+"OH","Mahoning","Ohio","US","Mahoning, OH",2020-03-25,42,0,0
 "OH","Marion","Ohio","US","Marion, OH",2020-03-25,4,0,0
-"OH","Medina","Ohio","US","Medina, OH",2020-03-25,15,0,0
+"OH","Medina","Ohio","US","Medina, OH",2020-03-25,22,0,0
 "OH","Meigs","Ohio","US","Meigs, OH",2020-03-25,0,0,0
-"OH","Mercer","Ohio","US","Mercer, OH",2020-03-25,0,0,0
-"OH","Miami","Ohio","US","Miami, OH",2020-03-25,19,0,0
+"OH","Mercer","Ohio","US","Mercer, OH",2020-03-25,1,0,0
+"OH","Miami","Ohio","US","Miami, OH",2020-03-25,19,1,0
 "OH","Monroe","Ohio","US","Monroe, OH",2020-03-25,0,0,0
-"OH","Montgomery","Ohio","US","Montgomery, OH",2020-03-25,10,0,0
+"OH","Montgomery","Ohio","US","Montgomery, OH",2020-03-25,14,0,0
 "OH","Morgan","Ohio","US","Morgan, OH",2020-03-25,0,0,0
 "OH","Morrow","Ohio","US","Morrow, OH",2020-03-25,0,0,0
 "OH","Muskingum","Ohio","US","Muskingum, OH",2020-03-25,0,0,0
@@ -2144,7 +2144,7 @@
 "OH","Ottawa","Ohio","US","Ottawa, OH",2020-03-25,0,0,0
 "OH","Paulding","Ohio","US","Paulding, OH",2020-03-25,0,0,0
 "OH","Perry","Ohio","US","Perry, OH",2020-03-25,0,0,0
-"OH","Pickaway","Ohio","US","Pickaway, OH",2020-03-25,0,0,0
+"OH","Pickaway","Ohio","US","Pickaway, OH",2020-03-25,1,0,0
 "OH","Pike","Ohio","US","Pike, OH",2020-03-25,0,0,0
 "OH","Portage","Ohio","US","Portage, OH",2020-03-25,4,0,0
 "OH","Preble","Ohio","US","Preble, OH",2020-03-25,0,0,0
@@ -2153,43 +2153,43 @@
 "OH","Ross","Ohio","US","Ross, OH",2020-03-25,0,0,0
 "OH","Sandusky","Ohio","US","Sandusky, OH",2020-03-25,1,0,0
 "OH","Scioto","Ohio","US","Scioto, OH",2020-03-25,0,0,0
-"OH","Seneca","Ohio","US","Seneca, OH",2020-03-25,0,0,0
+"OH","Seneca","Ohio","US","Seneca, OH",2020-03-25,1,0,0
 "OH","Shelby","Ohio","US","Shelby, OH",2020-03-25,0,0,0
-"OH","Stark","Ohio","US","Stark, OH",2020-03-25,13,1,0
-"OH","Summit","Ohio","US","Summit, OH",2020-03-25,36,0,0
-"OH","Trumbull","Ohio","US","Trumbull, OH",2020-03-25,4,0,0
+"OH","Stark","Ohio","US","Stark, OH",2020-03-25,12,2,0
+"OH","Summit","Ohio","US","Summit, OH",2020-03-25,43,0,0
+"OH","Trumbull","Ohio","US","Trumbull, OH",2020-03-25,9,0,0
 "OH","Tuscarawas","Ohio","US","Tuscarawas, OH",2020-03-25,3,0,0
-"OH","Union","Ohio","US","Union, OH",2020-03-25,2,0,0
+"OH","Union","Ohio","US","Union, OH",2020-03-25,3,0,0
 "OH","Van Wert","Ohio","US","Van Wert, OH",2020-03-25,0,0,0
 "OH","Vinton","Ohio","US","Vinton, OH",2020-03-25,0,0,0
-"OH","Warren","Ohio","US","Warren, OH",2020-03-25,7,0,0
+"OH","Warren","Ohio","US","Warren, OH",2020-03-25,8,0,0
 "OH","Washington","Ohio","US","Washington, OH",2020-03-25,1,0,0
-"OH","Wayne","Ohio","US","Wayne, OH",2020-03-25,0,0,0
+"OH","Wayne","Ohio","US","Wayne, OH",2020-03-25,1,0,0
 "OH","Williams","Ohio","US","Williams, OH",2020-03-25,0,0,0
-"OH","Wood","Ohio","US","Wood, OH",2020-03-25,2,0,0
+"OH","Wood","Ohio","US","Wood, OH",2020-03-25,3,0,0
 "OH","Wyandot","Ohio","US","Wyandot, OH",2020-03-25,0,0,0
-"Oklahoma","Aaall","Oklahoma","US","Oklahoma",2020-03-25,106,3,0
-"OK","Adair","Oklahoma","US","Adair, OK",2020-03-25,0,0,0
+"Oklahoma","Aaall","Oklahoma","US","Oklahoma",2020-03-25,164,5,0
+"OK","Adair","Oklahoma","US","Adair, OK",2020-03-25,2,0,0
 "OK","Alfalfa","Oklahoma","US","Alfalfa, OK",2020-03-25,0,0,0
 "OK","Atoka","Oklahoma","US","Atoka, OK",2020-03-25,0,0,0
 "OK","Beaver","Oklahoma","US","Beaver, OK",2020-03-25,0,0,0
 "OK","Beckham","Oklahoma","US","Beckham, OK",2020-03-25,0,0,0
 "OK","Blaine","Oklahoma","US","Blaine, OK",2020-03-25,0,0,0
-"OK","Bryan","Oklahoma","US","Bryan, OK",2020-03-25,0,0,0
+"OK","Bryan","Oklahoma","US","Bryan, OK",2020-03-25,1,0,0
 "OK","Caddo","Oklahoma","US","Caddo, OK",2020-03-25,0,0,0
-"OK","Canadian","Oklahoma","US","Canadian, OK",2020-03-25,4,0,0
-"OK","Carter","Oklahoma","US","Carter, OK",2020-03-25,0,0,0
+"OK","Canadian","Oklahoma","US","Canadian, OK",2020-03-25,5,0,0
+"OK","Carter","Oklahoma","US","Carter, OK",2020-03-25,1,0,0
 "OK","Cherokee","Oklahoma","US","Cherokee, OK",2020-03-25,0,0,0
 "OK","Choctaw","Oklahoma","US","Choctaw, OK",2020-03-25,0,0,0
 "OK","Cimarron","Oklahoma","US","Cimarron, OK",2020-03-25,0,0,0
-"OK","Cleveland","Oklahoma","US","Cleveland, OK",2020-03-25,22,1,0
+"OK","Cleveland","Oklahoma","US","Cleveland, OK",2020-03-25,27,1,0
 "OK","Coal","Oklahoma","US","Coal, OK",2020-03-25,0,0,0
 "OK","Comanche","Oklahoma","US","Comanche, OK",2020-03-25,0,0,0
 "OK","Cotton","Oklahoma","US","Cotton, OK",2020-03-25,0,0,0
 "OK","Craig","Oklahoma","US","Craig, OK",2020-03-25,0,0,0
-"OK","Creek","Oklahoma","US","Creek, OK",2020-03-25,0,0,0
-"OK","Custer","Oklahoma","US","Custer, OK",2020-03-25,1,0,0
-"OK","Delaware","Oklahoma","US","Delaware, OK",2020-03-25,0,0,0
+"OK","Creek","Oklahoma","US","Creek, OK",2020-03-25,5,0,0
+"OK","Custer","Oklahoma","US","Custer, OK",2020-03-25,3,0,0
+"OK","Delaware","Oklahoma","US","Delaware, OK",2020-03-25,1,0,0
 "OK","Dewey","Oklahoma","US","Dewey, OK",2020-03-25,0,0,0
 "OK","Ellis","Oklahoma","US","Ellis, OK",2020-03-25,0,0,0
 "OK","Garfield","Oklahoma","US","Garfield, OK",2020-03-25,0,0,0
@@ -2210,7 +2210,7 @@
 "OK","Latimer","Oklahoma","US","Latimer, OK",2020-03-25,0,0,0
 "OK","Le Flore","Oklahoma","US","Le Flore, OK",2020-03-25,0,0,0
 "OK","Lincoln","Oklahoma","US","Lincoln, OK",2020-03-25,0,0,0
-"OK","Logan","Oklahoma","US","Logan, OK",2020-03-25,1,0,0
+"OK","Logan","Oklahoma","US","Logan, OK",2020-03-25,3,0,0
 "OK","Love","Oklahoma","US","Love, OK",2020-03-25,0,0,0
 "OK","Major","Oklahoma","US","Major, OK",2020-03-25,0,0,0
 "OK","Marshall","Oklahoma","US","Marshall, OK",2020-03-25,0,0,0
@@ -2223,26 +2223,26 @@
 "OK","Noble","Oklahoma","US","Noble, OK",2020-03-25,2,0,0
 "OK","Nowata","Oklahoma","US","Nowata, OK",2020-03-25,0,0,0
 "OK","Okfuskee","Oklahoma","US","Okfuskee, OK",2020-03-25,0,0,0
-"OK","Oklahoma","Oklahoma","US","Oklahoma, OK",2020-03-25,41,0,0
+"OK","Oklahoma","Oklahoma","US","Oklahoma, OK",2020-03-25,55,2,0
 "OK","Okmulgee","Oklahoma","US","Okmulgee, OK",2020-03-25,0,0,0
-"OK","Osage","Oklahoma","US","Osage, OK",2020-03-25,0,0,0
+"OK","Osage","Oklahoma","US","Osage, OK",2020-03-25,1,0,0
 "OK","Ottawa","Oklahoma","US","Ottawa, OK",2020-03-25,0,0,0
-"OK","Pawnee","Oklahoma","US","Pawnee, OK",2020-03-25,4,1,0
+"OK","Pawnee","Oklahoma","US","Pawnee, OK",2020-03-25,7,1,0
 "OK","Payne","Oklahoma","US","Payne, OK",2020-03-25,3,0,0
 "OK","Pittsburg","Oklahoma","US","Pittsburg, OK",2020-03-25,0,0,0
 "OK","Pontotoc","Oklahoma","US","Pontotoc, OK",2020-03-25,1,0,0
-"OK","Pottawatomie","Oklahoma","US","Pottawatomie, OK",2020-03-25,0,0,0
+"OK","Pottawatomie","Oklahoma","US","Pottawatomie, OK",2020-03-25,1,0,0
 "OK","Pushmataha","Oklahoma","US","Pushmataha, OK",2020-03-25,0,0,0
 "OK","Roger Mills","Oklahoma","US","Roger Mills, OK",2020-03-25,0,0,0
 "OK","Rogers","Oklahoma","US","Rogers, OK",2020-03-25,0,0,0
 "OK","Seminole","Oklahoma","US","Seminole, OK",2020-03-25,0,0,0
 "OK","Sequoyah","Oklahoma","US","Sequoyah, OK",2020-03-25,0,0,0
-"OK","Stephens","Oklahoma","US","Stephens, OK",2020-03-25,0,0,0
+"OK","Stephens","Oklahoma","US","Stephens, OK",2020-03-25,1,0,0
 "OK","Texas","Oklahoma","US","Texas, OK",2020-03-25,0,0,0
 "OK","Tillman","Oklahoma","US","Tillman, OK",2020-03-25,0,0,0
-"OK","Tulsa","Oklahoma","US","Tulsa, OK",2020-03-25,12,1,0
-"OK","Wagoner","Oklahoma","US","Wagoner, OK",2020-03-25,1,0,0
-"OK","Washington","Oklahoma","US","Washington, OK",2020-03-25,2,0,0
+"OK","Tulsa","Oklahoma","US","Tulsa, OK",2020-03-25,27,1,0
+"OK","Wagoner","Oklahoma","US","Wagoner, OK",2020-03-25,3,0,0
+"OK","Washington","Oklahoma","US","Washington, OK",2020-03-25,3,0,0
 "OK","Washita","Oklahoma","US","Washita, OK",2020-03-25,0,0,0
 "OK","Woods","Oklahoma","US","Woods, OK",2020-03-25,0,0,0
 "OK","Woodward","Oklahoma","US","Woodward, OK",2020-03-25,0,0,0
@@ -2250,7 +2250,7 @@
 "OR","Baker","Oregon","US","Baker, OR",2020-03-25,0,0,0
 "OR","Benton","Oregon","US","Benton, OR",2020-03-25,4,0,0
 "OR","Clackamas","Oregon","US","Clackamas, OR",2020-03-25,17,1,0
-"OR","Clatsop","Oregon","US","Clatsop, OR",2020-03-25,0,0,0
+"OR","Clatsop","Oregon","US","Clatsop, OR",2020-03-25,1,0,0
 "OR","Columbia","Oregon","US","Columbia, OR",2020-03-25,0,0,0
 "OR","Coos","Oregon","US","Coos, OR",2020-03-25,0,0,0
 "OR","Crook","Oregon","US","Crook, OR",2020-03-25,0,0,0
@@ -2265,7 +2265,7 @@
 "OR","Jefferson","Oregon","US","Jefferson, OR",2020-03-25,0,0,0
 "OR","Josephine","Oregon","US","Josephine, OR",2020-03-25,1,0,0
 "OR","Klamath","Oregon","US","Klamath, OR",2020-03-25,1,0,0
-"OR","Lake","Oregon","US","Lake, OR",2020-03-25,0,0,0
+"OR","Lake","Oregon","US","Lake, OR",2020-03-25,NA,0,0
 "OR","Lane","Oregon","US","Lane, OR",2020-03-25,4,1,0
 "OR","Lincoln","Oregon","US","Lincoln, OR",2020-03-25,0,0,0
 "OR","Linn","Oregon","US","Linn, OR",2020-03-25,20,1,0
@@ -2283,135 +2283,135 @@
 "OR","Washington","Oregon","US","Washington, OR",2020-03-25,76,2,0
 "OR","Wheeler","Oregon","US","Wheeler, OR",2020-03-25,0,0,0
 "OR","Yamhill","Oregon","US","Yamhill, OR",2020-03-25,6,0,0
-"Pennsylvania","Aaall","Pennsylvania","US","Pennsylvania",2020-03-25,851,7,0
+"Pennsylvania","Aaall","Pennsylvania","US","Pennsylvania",2020-03-25,1127,11,0
 "PA","Adams","Pennsylvania","US","Adams, PA",2020-03-25,6,0,0
-"PA","Allegheny","Pennsylvania","US","Allegheny, PA",2020-03-25,58,2,0
+"PA","Allegheny","Pennsylvania","US","Allegheny, PA",2020-03-25,88,2,0
 "PA","Armstrong","Pennsylvania","US","Armstrong, PA",2020-03-25,1,0,0
-"PA","Beaver","Pennsylvania","US","Beaver, PA",2020-03-25,3,0,0
+"PA","Beaver","Pennsylvania","US","Beaver, PA",2020-03-25,7,0,0
 "PA","Bedford","Pennsylvania","US","Bedford, PA",2020-03-25,0,0,0
-"PA","Berks","Pennsylvania","US","Berks, PA",2020-03-25,16,0,0
+"PA","Berks","Pennsylvania","US","Berks, PA",2020-03-25,20,0,0
 "PA","Blair","Pennsylvania","US","Blair, PA",2020-03-25,0,0,0
 "PA","Bradford","Pennsylvania","US","Bradford, PA",2020-03-25,1,0,0
-"PA","Bucks","Pennsylvania","US","Bucks, PA",2020-03-25,65,0,0
-"PA","Butler","Pennsylvania","US","Butler, PA",2020-03-25,6,0,0
+"PA","Bucks","Pennsylvania","US","Bucks, PA",2020-03-25,86,0,0
+"PA","Butler","Pennsylvania","US","Butler, PA",2020-03-25,12,0,0
 "PA","Cambria","Pennsylvania","US","Cambria, PA",2020-03-25,1,0,0
 "PA","Cameron","Pennsylvania","US","Cameron, PA",2020-03-25,0,0,0
 "PA","Carbon","Pennsylvania","US","Carbon, PA",2020-03-25,1,0,0
-"PA","Centre","Pennsylvania","US","Centre, PA",2020-03-25,7,0,0
-"PA","Chester","Pennsylvania","US","Chester, PA",2020-03-25,40,0,0
+"PA","Centre","Pennsylvania","US","Centre, PA",2020-03-25,8,0,0
+"PA","Chester","Pennsylvania","US","Chester, PA",2020-03-25,54,0,0
 "PA","Clarion","Pennsylvania","US","Clarion, PA",2020-03-25,0,0,0
-"PA","Clearfield","Pennsylvania","US","Clearfield, PA",2020-03-25,1,0,0
+"PA","Clearfield","Pennsylvania","US","Clearfield, PA",2020-03-25,2,0,0
 "PA","Clinton","Pennsylvania","US","Clinton, PA",2020-03-25,0,0,0
 "PA","Columbia","Pennsylvania","US","Columbia, PA",2020-03-25,1,0,0
 "PA","Crawford","Pennsylvania","US","Crawford, PA",2020-03-25,0,0,0
 "PA","Cumberland","Pennsylvania","US","Cumberland, PA",2020-03-25,13,0,0
-"PA","Dauphin","Pennsylvania","US","Dauphin, PA",2020-03-25,9,0,0
-"PA","Delaware","Pennsylvania","US","Delaware, PA",2020-03-25,84,0,0
+"PA","Dauphin","Pennsylvania","US","Dauphin, PA",2020-03-25,10,0,0
+"PA","Delaware","Pennsylvania","US","Delaware, PA",2020-03-25,101,0,0
 "PA","Elk","Pennsylvania","US","Elk, PA",2020-03-25,0,0,0
 "PA","Erie","Pennsylvania","US","Erie, PA",2020-03-25,4,0,0
-"PA","Fayette","Pennsylvania","US","Fayette, PA",2020-03-25,2,0,0
+"PA","Fayette","Pennsylvania","US","Fayette, PA",2020-03-25,4,0,0
 "PA","Forest","Pennsylvania","US","Forest, PA",2020-03-25,0,0,0
-"PA","Franklin","Pennsylvania","US","Franklin, PA",2020-03-25,3,0,0
+"PA","Franklin","Pennsylvania","US","Franklin, PA",2020-03-25,5,0,0
 "PA","Fulton","Pennsylvania","US","Fulton, PA",2020-03-25,0,0,0
-"PA","Greene","Pennsylvania","US","Greene, PA",2020-03-25,0,0,0
+"PA","Greene","Pennsylvania","US","Greene, PA",2020-03-25,2,0,0
 "PA","Huntingdon","Pennsylvania","US","Huntingdon, PA",2020-03-25,0,0,0
 "PA","Indiana","Pennsylvania","US","Indiana, PA",2020-03-25,0,0,0
 "PA","Jefferson","Pennsylvania","US","Jefferson, PA",2020-03-25,0,0,0
 "PA","Juniata","Pennsylvania","US","Juniata, PA",2020-03-25,1,0,0
-"PA","Lackawanna","Pennsylvania","US","Lackawanna, PA",2020-03-25,15,1,0
-"PA","Lancaster","Pennsylvania","US","Lancaster, PA",2020-03-25,10,0,0
-"PA","Lawrence","Pennsylvania","US","Lawrence, PA",2020-03-25,0,0,0
+"PA","Lackawanna","Pennsylvania","US","Lackawanna, PA",2020-03-25,18,2,0
+"PA","Lancaster","Pennsylvania","US","Lancaster, PA",2020-03-25,12,0,0
+"PA","Lawrence","Pennsylvania","US","Lawrence, PA",2020-03-25,1,0,0
 "PA","Lebanon","Pennsylvania","US","Lebanon, PA",2020-03-25,3,0,0
-"PA","Lehigh","Pennsylvania","US","Lehigh, PA",2020-03-25,27,0,0
-"PA","Luzerne","Pennsylvania","US","Luzerne, PA",2020-03-25,21,0,0
-"PA","Lycoming","Pennsylvania","US","Lycoming, PA",2020-03-25,0,0,0
+"PA","Lehigh","Pennsylvania","US","Lehigh, PA",2020-03-25,38,0,0
+"PA","Luzerne","Pennsylvania","US","Luzerne, PA",2020-03-25,27,0,0
+"PA","Lycoming","Pennsylvania","US","Lycoming, PA",2020-03-25,1,0,0
 "PA","McKean","Pennsylvania","US","McKean, PA",2020-03-25,0,0,0
 "PA","Mercer","Pennsylvania","US","Mercer, PA",2020-03-25,2,0,0
 "PA","Mifflin","Pennsylvania","US","Mifflin, PA",2020-03-25,0,0,0
-"PA","Monroe","Pennsylvania","US","Monroe, PA",2020-03-25,45,1,0
-"PA","Montgomery","Pennsylvania","US","Montgomery, PA",2020-03-25,144,1,0
-"PA","Montour","Pennsylvania","US","Montour, PA",2020-03-25,3,0,0
-"PA","Northampton","Pennsylvania","US","Northampton, PA",2020-03-25,33,2,0
+"PA","Monroe","Pennsylvania","US","Monroe, PA",2020-03-25,51,1,0
+"PA","Montgomery","Pennsylvania","US","Montgomery, PA",2020-03-25,172,1,0
+"PA","Montour","Pennsylvania","US","Montour, PA",2020-03-25,4,0,0
+"PA","Northampton","Pennsylvania","US","Northampton, PA",2020-03-25,44,2,0
 "PA","Northumberland","Pennsylvania","US","Northumberland, PA",2020-03-25,0,0,0
 "PA","Perry","Pennsylvania","US","Perry, PA",2020-03-25,0,0,0
-"PA","Philadelphia","Pennsylvania","US","Philadelphia, PA",2020-03-25,177,0,0
-"PA","Pike","Pennsylvania","US","Pike, PA",2020-03-25,4,0,0
+"PA","Philadelphia","Pennsylvania","US","Philadelphia, PA",2020-03-25,257,1,0
+"PA","Pike","Pennsylvania","US","Pike, PA",2020-03-25,9,0,0
 "PA","Potter","Pennsylvania","US","Potter, PA",2020-03-25,1,0,0
-"PA","Schuylkill","Pennsylvania","US","Schuylkill, PA",2020-03-25,5,0,0
+"PA","Schuylkill","Pennsylvania","US","Schuylkill, PA",2020-03-25,6,0,0
 "PA","Snyder","Pennsylvania","US","Snyder, PA",2020-03-25,0,0,0
-"PA","Somerset","Pennsylvania","US","Somerset, PA",2020-03-25,1,0,0
+"PA","Somerset","Pennsylvania","US","Somerset, PA",2020-03-25,2,0,0
 "PA","Sullivan","Pennsylvania","US","Sullivan, PA",2020-03-25,0,0,0
 "PA","Susquehanna","Pennsylvania","US","Susquehanna, PA",2020-03-25,0,0,0
 "PA","Tioga","Pennsylvania","US","Tioga, PA",2020-03-25,0,0,0
 "PA","Union","Pennsylvania","US","Union, PA",2020-03-25,0,0,0
 "PA","Venango","Pennsylvania","US","Venango, PA",2020-03-25,0,0,0
-"PA","Warren","Pennsylvania","US","Warren, PA",2020-03-25,0,0,0
-"PA","Washington","Pennsylvania","US","Washington, PA",2020-03-25,9,0,0
+"PA","Warren","Pennsylvania","US","Warren, PA",2020-03-25,1,0,0
+"PA","Washington","Pennsylvania","US","Washington, PA",2020-03-25,10,0,0
 "PA","Wayne","Pennsylvania","US","Wayne, PA",2020-03-25,4,0,0
-"PA","Westmoreland","Pennsylvania","US","Westmoreland, PA",2020-03-25,11,0,0
+"PA","Westmoreland","Pennsylvania","US","Westmoreland, PA",2020-03-25,16,0,0
 "PA","Wyoming","Pennsylvania","US","Wyoming, PA",2020-03-25,0,0,0
-"PA","York","Pennsylvania","US","York, PA",2020-03-25,18,0,0
+"PA","York","Pennsylvania","US","York, PA",2020-03-25,20,0,0
 "Puerto Rico","Aaall","Puerto Rico","US","Puerto Rico",2020-03-25,39,2,0
-"Rhode Island","Aaall","Rhode Island","US","Rhode Island",2020-03-25,106,0,0
+"Rhode Island","Aaall","Rhode Island","US","Rhode Island",2020-03-25,124,0,0
 "RI","Bristol","Rhode Island","US","Bristol, RI",2020-03-25,NA,NA,NA
 "RI","Kent","Rhode Island","US","Kent, RI",2020-03-25,NA,NA,NA
 "RI","Newport","Rhode Island","US","Newport, RI",2020-03-25,NA,NA,NA
 "RI","Providence","Rhode Island","US","Providence, RI",2020-03-25,NA,NA,NA
 "RI","Washington","Rhode Island","US","Washington, RI",2020-03-25,NA,NA,NA
-"South Carolina","Aaall","South Carolina","US","South Carolina",2020-03-25,342,5,0
-"SC","Abbeville","South Carolina","US","Abbeville, SC",2020-03-25,1,0,0
+"South Carolina","Aaall","South Carolina","US","South Carolina",2020-03-25,424,7,0
+"SC","Abbeville","South Carolina","US","Abbeville, SC",2020-03-25,3,0,0
 "SC","Aiken","South Carolina","US","Aiken, SC",2020-03-25,2,0,0
 "SC","Allendale","South Carolina","US","Allendale, SC",2020-03-25,0,0,0
-"SC","Anderson","South Carolina","US","Anderson, SC",2020-03-25,16,0,0
+"SC","Anderson","South Carolina","US","Anderson, SC",2020-03-25,19,0,0
 "SC","Bamberg","South Carolina","US","Bamberg, SC",2020-03-25,0,0,0
 "SC","Barnwell","South Carolina","US","Barnwell, SC",2020-03-25,0,0,0
-"SC","Beaufort","South Carolina","US","Beaufort, SC",2020-03-25,22,0,0
-"SC","Berkeley","South Carolina","US","Berkeley, SC",2020-03-25,4,0,0
+"SC","Beaufort","South Carolina","US","Beaufort, SC",2020-03-25,26,0,0
+"SC","Berkeley","South Carolina","US","Berkeley, SC",2020-03-25,5,0,0
 "SC","Calhoun","South Carolina","US","Calhoun, SC",2020-03-25,1,0,0
-"SC","Charleston","South Carolina","US","Charleston, SC",2020-03-25,36,1,0
+"SC","Charleston","South Carolina","US","Charleston, SC",2020-03-25,52,1,0
 "SC","Cherokee","South Carolina","US","Cherokee, SC",2020-03-25,0,0,0
 "SC","Chester","South Carolina","US","Chester, SC",2020-03-25,1,0,0
-"SC","Chesterfield","South Carolina","US","Chesterfield, SC",2020-03-25,1,0,0
+"SC","Chesterfield","South Carolina","US","Chesterfield, SC",2020-03-25,3,0,0
 "SC","Clarendon","South Carolina","US","Clarendon, SC",2020-03-25,5,1,0
 "SC","Colleton","South Carolina","US","Colleton, SC",2020-03-25,1,0,0
 "SC","Darlington","South Carolina","US","Darlington, SC",2020-03-25,8,0,0
 "SC","Dillon","South Carolina","US","Dillon, SC",2020-03-25,1,0,0
-"SC","Dorchester","South Carolina","US","Dorchester, SC",2020-03-25,3,0,0
+"SC","Dorchester","South Carolina","US","Dorchester, SC",2020-03-25,4,0,0
 "SC","Edgefield","South Carolina","US","Edgefield, SC",2020-03-25,1,0,0
 "SC","Fairfield","South Carolina","US","Fairfield, SC",2020-03-25,2,0,0
-"SC","Florence","South Carolina","US","Florence, SC",2020-03-25,5,1,0
+"SC","Florence","South Carolina","US","Florence, SC",2020-03-25,5,2,0
 "SC","Georgetown","South Carolina","US","Georgetown, SC",2020-03-25,2,0,0
-"SC","Greenville","South Carolina","US","Greenville, SC",2020-03-25,39,0,0
+"SC","Greenville","South Carolina","US","Greenville, SC",2020-03-25,50,0,0
 "SC","Greenwood","South Carolina","US","Greenwood, SC",2020-03-25,2,0,0
 "SC","Hampton","South Carolina","US","Hampton, SC",2020-03-25,0,0,0
-"SC","Horry","South Carolina","US","Horry, SC",2020-03-25,19,0,0
+"SC","Horry","South Carolina","US","Horry, SC",2020-03-25,20,1,0
 "SC","Jasper","South Carolina","US","Jasper, SC",2020-03-25,2,0,0
-"SC","Kershaw","South Carolina","US","Kershaw, SC",2020-03-25,58,1,0
-"SC","Lancaster","South Carolina","US","Lancaster, SC",2020-03-25,7,0,0
+"SC","Kershaw","South Carolina","US","Kershaw, SC",2020-03-25,63,0,0
+"SC","Lancaster","South Carolina","US","Lancaster, SC",2020-03-25,6,0,0
 "SC","Laurens","South Carolina","US","Laurens, SC",2020-03-25,0,0,0
 "SC","Lee","South Carolina","US","Lee, SC",2020-03-25,2,0,0
-"SC","Lexington","South Carolina","US","Lexington, SC",2020-03-25,19,1,0
-"SC","Marion","South Carolina","US","Marion, SC",2020-03-25,0,0,0
+"SC","Lexington","South Carolina","US","Lexington, SC",2020-03-25,18,1,0
+"SC","Marion","South Carolina","US","Marion, SC",2020-03-25,11,0,0
 "SC","Marlboro","South Carolina","US","Marlboro, SC",2020-03-25,1,0,0
 "SC","McCormick","South Carolina","US","McCormick, SC",2020-03-25,0,0,0
 "SC","Newberry","South Carolina","US","Newberry, SC",2020-03-25,1,0,0
 "SC","Oconee","South Carolina","US","Oconee, SC",2020-03-25,2,0,0
-"SC","Orangeburg","South Carolina","US","Orangeburg, SC",2020-03-25,8,0,0
-"SC","Pickens","South Carolina","US","Pickens, SC",2020-03-25,1,0,0
-"SC","Richland","South Carolina","US","Richland, SC",2020-03-25,45,0,0
+"SC","Orangeburg","South Carolina","US","Orangeburg, SC",2020-03-25,9,0,0
+"SC","Pickens","South Carolina","US","Pickens, SC",2020-03-25,6,0,0
+"SC","Richland","South Carolina","US","Richland, SC",2020-03-25,59,0,0
 "SC","Saluda","South Carolina","US","Saluda, SC",2020-03-25,1,0,0
-"SC","Spartanburg","South Carolina","US","Spartanburg, SC",2020-03-25,4,0,0
-"SC","Sumter","South Carolina","US","Sumter, SC",2020-03-25,8,0,0
-"SC","Union","South Carolina","US","Union, SC",2020-03-25,0,0,0
-"SC","Williamsburg","South Carolina","US","Williamsburg, SC",2020-03-25,0,0,0
-"SC","York","South Carolina","US","York, SC",2020-03-25,11,0,0
-"South Dakota","Aaall","South Dakota","US","South Dakota",2020-03-25,30,1,6
+"SC","Spartanburg","South Carolina","US","Spartanburg, SC",2020-03-25,9,0,0
+"SC","Sumter","South Carolina","US","Sumter, SC",2020-03-25,10,1,0
+"SC","Union","South Carolina","US","Union, SC",2020-03-25,1,0,0
+"SC","Williamsburg","South Carolina","US","Williamsburg, SC",2020-03-25,1,0,0
+"SC","York","South Carolina","US","York, SC",2020-03-25,18,0,0
+"South Dakota","Aaall","South Dakota","US","South Dakota",2020-03-25,41,1,13
 "SD","Aurora","South Dakota","US","Aurora, SD",2020-03-25,0,0,0
 "SD","Beadle","South Dakota","US","Beadle, SD",2020-03-25,13,0,0
 "SD","Bennett","South Dakota","US","Bennett, SD",2020-03-25,0,0,0
 "SD","Bon Homme","South Dakota","US","Bon Homme, SD",2020-03-25,1,0,0
 "SD","Brookings","South Dakota","US","Brookings, SD",2020-03-25,1,0,0
-"SD","Brown","South Dakota","US","Brown, SD",2020-03-25,1,0,0
+"SD","Brown","South Dakota","US","Brown, SD",2020-03-25,2,0,0
 "SD","Brule","South Dakota","US","Brule, SD",2020-03-25,0,0,0
 "SD","Buffalo","South Dakota","US","Buffalo, SD",2020-03-25,0,0,0
 "SD","Butte","South Dakota","US","Butte, SD",2020-03-25,0,0,0
@@ -2446,15 +2446,15 @@
 "SD","Kingsbury","South Dakota","US","Kingsbury, SD",2020-03-25,0,0,0
 "SD","Lake","South Dakota","US","Lake, SD",2020-03-25,0,0,0
 "SD","Lawrence","South Dakota","US","Lawrence, SD",2020-03-25,0,0,0
-"SD","Lincoln","South Dakota","US","Lincoln, SD",2020-03-25,0,0,0
+"SD","Lincoln","South Dakota","US","Lincoln, SD",2020-03-25,1,0,0
 "SD","Lyman","South Dakota","US","Lyman, SD",2020-03-25,1,0,0
 "SD","Marshall","South Dakota","US","Marshall, SD",2020-03-25,0,0,0
 "SD","McCook","South Dakota","US","McCook, SD",2020-03-25,2,0,0
 "SD","McPherson","South Dakota","US","McPherson, SD",2020-03-25,0,0,0
-"SD","Meade","South Dakota","US","Meade, SD",2020-03-25,0,0,0
+"SD","Meade","South Dakota","US","Meade, SD",2020-03-25,1,0,0
 "SD","Mellette","South Dakota","US","Mellette, SD",2020-03-25,0,0,0
 "SD","Miner","South Dakota","US","Miner, SD",2020-03-25,0,0,0
-"SD","Minnehaha","South Dakota","US","Minnehaha, SD",2020-03-25,5,0,0
+"SD","Minnehaha","South Dakota","US","Minnehaha, SD",2020-03-25,13,0,0
 "SD","Moody","South Dakota","US","Moody, SD",2020-03-25,0,0,0
 "SD","Oglala Lakota","South Dakota","US","Oglala Lakota, SD",2020-03-25,0,0,0
 "SD","Pennington","South Dakota","US","Pennington, SD",2020-03-25,1,1,0
@@ -2472,18 +2472,18 @@
 "SD","Walworth","South Dakota","US","Walworth, SD",2020-03-25,0,0,0
 "SD","Yankton","South Dakota","US","Yankton, SD",2020-03-25,0,0,0
 "SD","Ziebach","South Dakota","US","Ziebach, SD",2020-03-25,0,0,0
-"Tennessee","Aaall","Tennessee","US","Tennessee",2020-03-25,667,2,0
-"TN","Anderson","Tennessee","US","Anderson, TN",2020-03-25,1,0,0
-"TN","Bedford","Tennessee","US","Bedford, TN",2020-03-25,0,0,0
+"Tennessee","Aaall","Tennessee","US","Tennessee",2020-03-25,784,3,0
+"TN","Anderson","Tennessee","US","Anderson, TN",2020-03-25,3,0,0
+"TN","Bedford","Tennessee","US","Bedford, TN",2020-03-25,1,0,0
 "TN","Benton","Tennessee","US","Benton, TN",2020-03-25,0,0,0
 "TN","Bledsoe","Tennessee","US","Bledsoe, TN",2020-03-25,0,0,0
 "TN","Blount","Tennessee","US","Blount, TN",2020-03-25,3,0,0
-"TN","Bradley","Tennessee","US","Bradley, TN",2020-03-25,2,0,0
+"TN","Bradley","Tennessee","US","Bradley, TN",2020-03-25,3,0,0
 "TN","Campbell","Tennessee","US","Campbell, TN",2020-03-25,2,0,0
 "TN","Cannon","Tennessee","US","Cannon, TN",2020-03-25,0,0,0
 "TN","Carroll","Tennessee","US","Carroll, TN",2020-03-25,3,0,0
 "TN","Carter","Tennessee","US","Carter, TN",2020-03-25,0,0,0
-"TN","Cheatham","Tennessee","US","Cheatham, TN",2020-03-25,5,0,0
+"TN","Cheatham","Tennessee","US","Cheatham, TN",2020-03-25,7,0,0
 "TN","Chester","Tennessee","US","Chester, TN",2020-03-25,1,0,0
 "TN","Claiborne","Tennessee","US","Claiborne, TN",2020-03-25,1,0,0
 "TN","Clay","Tennessee","US","Clay, TN",2020-03-25,0,0,0
@@ -2491,46 +2491,46 @@
 "TN","Coffee","Tennessee","US","Coffee, TN",2020-03-25,0,0,0
 "TN","Crockett","Tennessee","US","Crockett, TN",2020-03-25,0,0,0
 "TN","Cumberland","Tennessee","US","Cumberland, TN",2020-03-25,3,0,0
-"TN","Davidson","Tennessee","US","Davidson, TN",2020-03-25,183,1,0
+"TN","Davidson","Tennessee","US","Davidson, TN",2020-03-25,188,1,0
 "TN","Decatur","Tennessee","US","Decatur, TN",2020-03-25,0,0,0
 "TN","DeKalb","Tennessee","US","DeKalb, TN",2020-03-25,1,0,0
 "TN","Dickson","Tennessee","US","Dickson, TN",2020-03-25,5,0,0
 "TN","Dyer","Tennessee","US","Dyer, TN",2020-03-25,2,0,0
-"TN","Fayette","Tennessee","US","Fayette, TN",2020-03-25,2,0,0
+"TN","Fayette","Tennessee","US","Fayette, TN",2020-03-25,3,0,0
 "TN","Fentress","Tennessee","US","Fentress, TN",2020-03-25,0,0,0
 "TN","Franklin","Tennessee","US","Franklin, TN",2020-03-25,1,0,0
 "TN","Gibson","Tennessee","US","Gibson, TN",2020-03-25,2,0,0
 "TN","Giles","Tennessee","US","Giles, TN",2020-03-25,0,0,0
 "TN","Grainger","Tennessee","US","Grainger, TN",2020-03-25,0,0,0
-"TN","Greene","Tennessee","US","Greene, TN",2020-03-25,5,0,0
+"TN","Greene","Tennessee","US","Greene, TN",2020-03-25,7,0,0
 "TN","Grundy","Tennessee","US","Grundy, TN",2020-03-25,1,0,0
 "TN","Hamblen","Tennessee","US","Hamblen, TN",2020-03-25,2,0,0
-"TN","Hamilton","Tennessee","US","Hamilton, TN",2020-03-25,8,0,0
+"TN","Hamilton","Tennessee","US","Hamilton, TN",2020-03-25,15,0,0
 "TN","Hancock","Tennessee","US","Hancock, TN",2020-03-25,0,0,0
 "TN","Hardeman","Tennessee","US","Hardeman, TN",2020-03-25,0,0,0
 "TN","Hardin","Tennessee","US","Hardin, TN",2020-03-25,1,0,0
-"TN","Hawkins","Tennessee","US","Hawkins, TN",2020-03-25,0,0,0
+"TN","Hawkins","Tennessee","US","Hawkins, TN",2020-03-25,1,0,0
 "TN","Haywood","Tennessee","US","Haywood, TN",2020-03-25,0,0,0
 "TN","Henderson","Tennessee","US","Henderson, TN",2020-03-25,0,0,0
 "TN","Henry","Tennessee","US","Henry, TN",2020-03-25,0,0,0
 "TN","Hickman","Tennessee","US","Hickman, TN",2020-03-25,0,0,0
-"TN","Houston","Tennessee","US","Houston, TN",2020-03-25,1,0,0
+"TN","Houston","Tennessee","US","Houston, TN",2020-03-25,3,0,0
 "TN","Humphreys","Tennessee","US","Humphreys, TN",2020-03-25,0,0,0
 "TN","Jackson","Tennessee","US","Jackson, TN",2020-03-25,0,0,0
 "TN","Jefferson","Tennessee","US","Jefferson, TN",2020-03-25,4,0,0
 "TN","Johnson","Tennessee","US","Johnson, TN",2020-03-25,0,0,0
-"TN","Knox","Tennessee","US","Knox, TN",2020-03-25,15,0,0
+"TN","Knox","Tennessee","US","Knox, TN",2020-03-25,20,0,0
 "TN","Lake","Tennessee","US","Lake, TN",2020-03-25,0,0,0
 "TN","Lauderdale","Tennessee","US","Lauderdale, TN",2020-03-25,0,0,0
 "TN","Lawrence","Tennessee","US","Lawrence, TN",2020-03-25,0,0,0
-"TN","Lewis","Tennessee","US","Lewis, TN",2020-03-25,0,0,0
+"TN","Lewis","Tennessee","US","Lewis, TN",2020-03-25,1,0,0
 "TN","Lincoln","Tennessee","US","Lincoln, TN",2020-03-25,1,0,0
-"TN","Loudon","Tennessee","US","Loudon, TN",2020-03-25,2,0,0
+"TN","Loudon","Tennessee","US","Loudon, TN",2020-03-25,3,0,0
 "TN","Macon","Tennessee","US","Macon, TN",2020-03-25,0,0,0
-"TN","Madison","Tennessee","US","Madison, TN",2020-03-25,1,0,0
+"TN","Madison","Tennessee","US","Madison, TN",2020-03-25,2,0,0
 "TN","Marion","Tennessee","US","Marion, TN",2020-03-25,1,0,0
 "TN","Marshall","Tennessee","US","Marshall, TN",2020-03-25,0,0,0
-"TN","Maury","Tennessee","US","Maury, TN",2020-03-25,6,0,0
+"TN","Maury","Tennessee","US","Maury, TN",2020-03-25,7,0,0
 "TN","McMinn","Tennessee","US","McMinn, TN",2020-03-25,2,0,0
 "TN","McNairy","Tennessee","US","McNairy, TN",2020-03-25,0,0,0
 "TN","Meigs","Tennessee","US","Meigs, TN",2020-03-25,0,0,0
@@ -2543,19 +2543,19 @@
 "TN","Perry","Tennessee","US","Perry, TN",2020-03-25,1,0,0
 "TN","Pickett","Tennessee","US","Pickett, TN",2020-03-25,0,0,0
 "TN","Polk","Tennessee","US","Polk, TN",2020-03-25,0,0,0
-"TN","Putnam","Tennessee","US","Putnam, TN",2020-03-25,8,0,0
+"TN","Putnam","Tennessee","US","Putnam, TN",2020-03-25,9,0,0
 "TN","Rhea","Tennessee","US","Rhea, TN",2020-03-25,0,0,0
 "TN","Roane","Tennessee","US","Roane, TN",2020-03-25,1,0,0
-"TN","Robertson","Tennessee","US","Robertson, TN",2020-03-25,12,0,0
-"TN","Rutherford","Tennessee","US","Rutherford, TN",2020-03-25,13,0,0
+"TN","Robertson","Tennessee","US","Robertson, TN",2020-03-25,15,0,0
+"TN","Rutherford","Tennessee","US","Rutherford, TN",2020-03-25,19,0,0
 "TN","Scott","Tennessee","US","Scott, TN",2020-03-25,1,0,0
 "TN","Sequatchie","Tennessee","US","Sequatchie, TN",2020-03-25,0,0,0
 "TN","Sevier","Tennessee","US","Sevier, TN",2020-03-25,2,0,0
-"TN","Shelby","Tennessee","US","Shelby, TN",2020-03-25,99,0,0
+"TN","Shelby","Tennessee","US","Shelby, TN",2020-03-25,117,0,0
 "TN","Smith","Tennessee","US","Smith, TN",2020-03-25,0,0,0
 "TN","Stewart","Tennessee","US","Stewart, TN",2020-03-25,0,0,0
 "TN","Sullivan","Tennessee","US","Sullivan, TN",2020-03-25,2,0,0
-"TN","Sumner","Tennessee","US","Sumner, TN",2020-03-25,34,0,0
+"TN","Sumner","Tennessee","US","Sumner, TN",2020-03-25,36,0,0
 "TN","Tipton","Tennessee","US","Tipton, TN",2020-03-25,6,0,0
 "TN","Trousdale","Tennessee","US","Trousdale, TN",2020-03-25,0,0,0
 "TN","Unicoi","Tennessee","US","Unicoi, TN",2020-03-25,0,0,0
@@ -2565,9 +2565,9 @@
 "TN","Washington","Tennessee","US","Washington, TN",2020-03-25,7,0,0
 "TN","Wayne","Tennessee","US","Wayne, TN",2020-03-25,0,0,0
 "TN","Weakley","Tennessee","US","Weakley, TN",2020-03-25,1,0,0
-"TN","White","Tennessee","US","White, TN",2020-03-25,0,0,0
-"TN","Williamson","Tennessee","US","Williamson, TN",2020-03-25,64,0,0
-"TN","Wilson","Tennessee","US","Wilson, TN",2020-03-25,7,0,0
+"TN","White","Tennessee","US","White, TN",2020-03-25,1,0,0
+"TN","Williamson","Tennessee","US","Williamson, TN",2020-03-25,66,0,0
+"TN","Wilson","Tennessee","US","Wilson, TN",2020-03-25,10,0,0
 "Texas","Aaall","Texas","US","Texas",2020-03-25,974,12,0
 "TX","Anderson","Texas","US","Anderson, TX",2020-03-25,0,0,0
 "TX","Andrews","Texas","US","Andrews, TX",2020-03-25,0,0,0
@@ -2823,13 +2823,13 @@
 "TX","Young","Texas","US","Young, TX",2020-03-25,0,0,0
 "TX","Zapata","Texas","US","Zapata, TX",2020-03-25,0,0,0
 "TX","Zavala","Texas","US","Zavala, TX",2020-03-25,0,0,0
-"Utah","Aaall","Utah","US","Utah",2020-03-25,285,1,0
+"Utah","Aaall","Utah","US","Utah",2020-03-25,346,1,0
 "UT","Beaver","Utah","US","Beaver, UT",2020-03-25,0,0,0
-"UT","Box Elder","Utah","US","Box Elder, UT",2020-03-25,4,0,0
+"UT","Box Elder","Utah","US","Box Elder, UT",2020-03-25,6,0,0
 "UT","Cache","Utah","US","Cache, UT",2020-03-25,3,0,0
 "UT","Carbon","Utah","US","Carbon, UT",2020-03-25,0,0,0
 "UT","Daggett","Utah","US","Daggett, UT",2020-03-25,0,0,0
-"UT","Davis","Utah","US","Davis, UT",2020-03-25,31,1,0
+"UT","Davis","Utah","US","Davis, UT",2020-03-25,35,1,0
 "UT","Duchesne","Utah","US","Duchesne, UT",2020-03-25,0,0,0
 "UT","Emery","Utah","US","Emery, UT",2020-03-25,0,0,0
 "UT","Garfield","Utah","US","Garfield, UT",2020-03-25,0,0,0
@@ -2841,46 +2841,46 @@
 "UT","Morgan","Utah","US","Morgan, UT",2020-03-25,0,0,0
 "UT","Piute","Utah","US","Piute, UT",2020-03-25,0,0,0
 "UT","Rich","Utah","US","Rich, UT",2020-03-25,0,0,0
-"UT","Salt Lake","Utah","US","Salt Lake, UT",2020-03-25,127,0,0
+"UT","Salt Lake","Utah","US","Salt Lake, UT",2020-03-25,151,0,0
 "UT","San Juan","Utah","US","San Juan, UT",2020-03-25,0,0,0
 "UT","Sanpete","Utah","US","Sanpete, UT",2020-03-25,0,0,0
 "UT","Sevier","Utah","US","Sevier, UT",2020-03-25,0,0,0
-"UT","Summit","Utah","US","Summit, UT",2020-03-25,90,0,0
-"UT","Tooele","Utah","US","Tooele, UT",2020-03-25,2,0,0
+"UT","Summit","Utah","US","Summit, UT",2020-03-25,89,0,0
+"UT","Tooele","Utah","US","Tooele, UT",2020-03-25,3,0,0
 "UT","Uintah","Utah","US","Uintah, UT",2020-03-25,0,0,0
-"UT","Utah","Utah","US","Utah, UT",2020-03-25,14,0,0
-"UT","Wasatch","Utah","US","Wasatch, UT",2020-03-25,16,0,0
+"UT","Utah","Utah","US","Utah, UT",2020-03-25,18,0,0
+"UT","Wasatch","Utah","US","Wasatch, UT",2020-03-25,15,0,0
 "UT","Washington","Utah","US","Washington, UT",2020-03-25,5,0,0
 "UT","Wayne","Utah","US","Wayne, UT",2020-03-25,0,0,0
-"UT","Weber","Utah","US","Weber, UT",2020-03-25,9,0,0
-"Vermont","Aaall","Vermont","US","Vermont",2020-03-25,95,7,0
-"VT","Addison","Vermont","US","Addison, VT",2020-03-25,8,0,0
-"VT","Bennington","Vermont","US","Bennington, VT",2020-03-25,9,0,0
+"UT","Weber","Utah","US","Weber, UT",2020-03-25,10,0,0
+"Vermont","Aaall","Vermont","US","Vermont",2020-03-25,123,8,0
+"VT","Addison","Vermont","US","Addison, VT",2020-03-25,9,0,0
+"VT","Bennington","Vermont","US","Bennington, VT",2020-03-25,11,0,0
 "VT","Caledonia","Vermont","US","Caledonia, VT",2020-03-25,1,0,0
-"VT","Chittenden","Vermont","US","Chittenden, VT",2020-03-25,40,2,0
+"VT","Chittenden","Vermont","US","Chittenden, VT",2020-03-25,55,2,0
 "VT","Essex","Vermont","US","Essex, VT",2020-03-25,0,0,0
-"VT","Franklin","Vermont","US","Franklin, VT",2020-03-25,2,0,0
+"VT","Franklin","Vermont","US","Franklin, VT",2020-03-25,3,0,0
 "VT","Grand Isle","Vermont","US","Grand Isle, VT",2020-03-25,0,0,0
-"VT","Lamoille","Vermont","US","Lamoille, VT",2020-03-25,2,0,0
+"VT","Lamoille","Vermont","US","Lamoille, VT",2020-03-25,4,0,0
 "VT","Orange","Vermont","US","Orange, VT",2020-03-25,3,0,0
-"VT","Orleans","Vermont","US","Orleans, VT",2020-03-25,2,0,0
+"VT","Orleans","Vermont","US","Orleans, VT",2020-03-25,3,0,0
 "VT","Rutland","Vermont","US","Rutland, VT",2020-03-25,5,0,0
-"VT","Washington","Vermont","US","Washington, VT",2020-03-25,3,0,0
-"VT","Windham","Vermont","US","Windham, VT",2020-03-25,5,0,0
-"VT","Windsor","Vermont","US","Windsor, VT",2020-03-25,15,1,0
+"VT","Washington","Vermont","US","Washington, VT",2020-03-25,5,0,0
+"VT","Windham","Vermont","US","Windham, VT",2020-03-25,7,0,0
+"VT","Windsor","Vermont","US","Windsor, VT",2020-03-25,17,1,0
 "Virgin Islands","Aaall","Virgin Islands","US","Virgin Islands",2020-03-25,0,0,0
-"Virginia","Aaall","Virginia","US","Virginia",2020-03-25,290,7,0
+"Virginia","Aaall","Virginia","US","Virginia",2020-03-25,391,9,0
 "VA","Accomack","Virginia","US","Accomack, VA",2020-03-25,1,0,0
-"VA","Albemarle","Virginia","US","Albemarle, VA",2020-03-25,2,0,0
-"VA","Alexandria","Virginia","US","Alexandria, VA",2020-03-25,8,0,0
+"VA","Albemarle","Virginia","US","Albemarle, VA",2020-03-25,4,0,0
+"VA","Alexandria","Virginia","US","Alexandria, VA",2020-03-25,9,0,0
 "VA","Alleghany","Virginia","US","Alleghany, VA",2020-03-25,0,0,0
 "VA","Amelia","Virginia","US","Amelia, VA",2020-03-25,0,0,0
 "VA","Amherst","Virginia","US","Amherst, VA",2020-03-25,1,0,0
 "VA","Appomattox","Virginia","US","Appomattox, VA",2020-03-25,0,0,0
-"VA","Arlington","Virginia","US","Arlington, VA",2020-03-25,36,0,0
+"VA","Arlington","Virginia","US","Arlington, VA",2020-03-25,46,0,0
 "VA","Augusta","Virginia","US","Augusta, VA",2020-03-25,0,0,0
 "VA","Bath","Virginia","US","Bath, VA",2020-03-25,0,0,0
-"VA","Bedford","Virginia","US","Bedford, VA",2020-03-25,1,0,0
+"VA","Bedford","Virginia","US","Bedford, VA",2020-03-25,2,0,0
 "VA","Bland","Virginia","US","Bland, VA",2020-03-25,0,0,0
 "VA","Botetourt","Virginia","US","Botetourt, VA",2020-03-25,1,0,0
 "VA","Bristol","Virginia","US","Bristol, VA",2020-03-25,0,0,0
@@ -2893,30 +2893,30 @@
 "VA","Carroll","Virginia","US","Carroll, VA",2020-03-25,0,0,0
 "VA","Charles City","Virginia","US","Charles City, VA",2020-03-25,1,0,0
 "VA","Charlotte","Virginia","US","Charlotte, VA",2020-03-25,0,0,0
-"VA","Charlottesville","Virginia","US","Charlottesville, VA",2020-03-25,5,0,0
-"VA","Chesapeake","Virginia","US","Chesapeake, VA",2020-03-25,1,0,0
-"VA","Chesterfield","Virginia","US","Chesterfield, VA",2020-03-25,10,0,0
+"VA","Charlottesville","Virginia","US","Charlottesville, VA",2020-03-25,6,0,0
+"VA","Chesapeake","Virginia","US","Chesapeake, VA",2020-03-25,3,0,0
+"VA","Chesterfield","Virginia","US","Chesterfield, VA",2020-03-25,11,0,0
 "VA","Clarke","Virginia","US","Clarke, VA",2020-03-25,0,0,0
 "VA","Colonial Heights","Virginia","US","Colonial Heights, VA",2020-03-25,0,0,0
 "VA","Covington","Virginia","US","Covington, VA",2020-03-25,0,0,0
 "VA","Craig","Virginia","US","Craig, VA",2020-03-25,0,0,0
 "VA","Culpeper","Virginia","US","Culpeper, VA",2020-03-25,2,0,0
 "VA","Cumberland","Virginia","US","Cumberland, VA",2020-03-25,0,0,0
-"VA","Danville","Virginia","US","Danville, VA",2020-03-25,1,0,0
+"VA","Danville","Virginia","US","Danville, VA",2020-03-25,2,0,0
 "VA","Dickenson","Virginia","US","Dickenson, VA",2020-03-25,0,0,0
 "VA","Dinwiddie","Virginia","US","Dinwiddie, VA",2020-03-25,0,0,0
 "VA","Emporia","Virginia","US","Emporia, VA",2020-03-25,0,0,0
 "VA","Essex","Virginia","US","Essex, VA",2020-03-25,0,0,0
-"VA","Fairfax","Virginia","US","Fairfax, VA",2020-03-25,46,3,0
-"VA","Fairfax","Virginia","US","Fairfax, VA",2020-03-25,0,0,0
+"VA","Fairfax","Virginia","US","Fairfax, VA",2020-03-25,77,3,0
+"VA","Fairfax","Virginia","US","Fairfax, VA",2020-03-25,NA,0,0
 "VA","Falls Church","Virginia","US","Falls Church, VA",2020-03-25,0,0,0
 "VA","Fauquier","Virginia","US","Fauquier, VA",2020-03-25,0,0,0
 "VA","Floyd","Virginia","US","Floyd, VA",2020-03-25,0,0,0
 "VA","Fluvanna","Virginia","US","Fluvanna, VA",2020-03-25,1,0,0
 "VA","Franklin","Virginia","US","Franklin, VA",2020-03-25,1,0,0
 "VA","Franklin","Virginia","US","Franklin, VA",2020-03-25,0,0,0
-"VA","Frederick","Virginia","US","Frederick, VA",2020-03-25,0,0,0
-"VA","Fredericksburg","Virginia","US","Fredericksburg, VA",2020-03-25,0,0,0
+"VA","Frederick","Virginia","US","Frederick, VA",2020-03-25,2,0,0
+"VA","Fredericksburg","Virginia","US","Fredericksburg, VA",2020-03-25,1,0,0
 "VA","Galax","Virginia","US","Galax, VA",2020-03-25,0,0,0
 "VA","Giles","Virginia","US","Giles, VA",2020-03-25,0,0,0
 "VA","Gloucester","Virginia","US","Gloucester, VA",2020-03-25,2,0,0
@@ -2926,41 +2926,41 @@
 "VA","Greensville","Virginia","US","Greensville, VA",2020-03-25,0,0,0
 "VA","Halifax","Virginia","US","Halifax, VA",2020-03-25,1,0,0
 "VA","Hampton","Virginia","US","Hampton, VA",2020-03-25,0,0,0
-"VA","Hanover","Virginia","US","Hanover, VA",2020-03-25,1,0,1
-"VA","Harrisonburg","Virginia","US","Harrisonburg, VA",2020-03-25,1,0,0
-"VA","Henrico","Virginia","US","Henrico, VA",2020-03-25,14,0,0
+"VA","Hanover","Virginia","US","Hanover, VA",2020-03-25,2,0,1
+"VA","Harrisonburg","Virginia","US","Harrisonburg, VA",2020-03-25,2,0,0
+"VA","Henrico","Virginia","US","Henrico, VA",2020-03-25,20,2,0
 "VA","Henry","Virginia","US","Henry, VA",2020-03-25,0,0,0
 "VA","Highland","Virginia","US","Highland, VA",2020-03-25,0,0,0
 "VA","Hopewell","Virginia","US","Hopewell, VA",2020-03-25,0,0,0
-"VA","Isle of Wight","Virginia","US","Isle of Wight, VA",2020-03-25,1,0,0
-"VA","James City","Virginia","US","James City, VA",2020-03-25,37,1,0
+"VA","Isle of Wight","Virginia","US","Isle of Wight, VA",2020-03-25,2,0,0
+"VA","James City","Virginia","US","James City, VA",2020-03-25,41,1,0
 "VA","King and Queen","Virginia","US","King and Queen, VA",2020-03-25,0,0,0
 "VA","King George","Virginia","US","King George, VA",2020-03-25,0,0,0
 "VA","King William","Virginia","US","King William, VA",2020-03-25,0,0,0
 "VA","Lancaster","Virginia","US","Lancaster, VA",2020-03-25,0,0,0
 "VA","Lee","Virginia","US","Lee, VA",2020-03-25,2,0,0
 "VA","Lexington","Virginia","US","Lexington, VA",2020-03-25,0,0,0
-"VA","Loudoun","Virginia","US","Loudoun, VA",2020-03-25,18,0,0
-"VA","Louisa","Virginia","US","Louisa, VA",2020-03-25,2,0,0
+"VA","Loudoun","Virginia","US","Loudoun, VA",2020-03-25,20,0,0
+"VA","Louisa","Virginia","US","Louisa, VA",2020-03-25,3,0,0
 "VA","Lunenburg","Virginia","US","Lunenburg, VA",2020-03-25,0,0,0
 "VA","Lynchburg","Virginia","US","Lynchburg, VA",2020-03-25,0,0,0
-"VA","Madison","Virginia","US","Madison, VA",2020-03-25,0,0,0
-"VA","Manassas","Virginia","US","Manassas, VA",2020-03-25,0,0,0
+"VA","Madison","Virginia","US","Madison, VA",2020-03-25,1,0,0
+"VA","Manassas","Virginia","US","Manassas, VA",2020-03-25,2,0,0
 "VA","Manassas Park","Virginia","US","Manassas Park, VA",2020-03-25,0,0,0
 "VA","Martinsville","Virginia","US","Martinsville, VA",2020-03-25,0,0,0
-"VA","Mathews","Virginia","US","Mathews, VA",2020-03-25,0,0,0
-"VA","Mecklenburg","Virginia","US","Mecklenburg, VA",2020-03-25,2,0,0
+"VA","Mathews","Virginia","US","Mathews, VA",2020-03-25,1,0,0
+"VA","Mecklenburg","Virginia","US","Mecklenburg, VA",2020-03-25,3,0,0
 "VA","Middlesex","Virginia","US","Middlesex, VA",2020-03-25,0,0,0
 "VA","Montgomery","Virginia","US","Montgomery, VA",2020-03-25,0,0,0
-"VA","Nelson","Virginia","US","Nelson, VA",2020-03-25,0,0,0
+"VA","Nelson","Virginia","US","Nelson, VA",2020-03-25,1,0,0
 "VA","New Kent","Virginia","US","New Kent, VA",2020-03-25,0,0,0
-"VA","Newport News","Virginia","US","Newport News, VA",2020-03-25,3,1,0
+"VA","Newport News","Virginia","US","Newport News, VA",2020-03-25,4,1,0
 "VA","Norfolk","Virginia","US","Norfolk, VA",2020-03-25,5,0,0
 "VA","Northampton","Virginia","US","Northampton, VA",2020-03-25,0,0,0
 "VA","Northumberland","Virginia","US","Northumberland, VA",2020-03-25,0,0,0
 "VA","Norton","Virginia","US","Norton, VA",2020-03-25,0,0,0
-"VA","Nottoway","Virginia","US","Nottoway, VA",2020-03-25,0,0,0
-"VA","Orange","Virginia","US","Orange, VA",2020-03-25,0,0,0
+"VA","Nottoway","Virginia","US","Nottoway, VA",2020-03-25,1,0,0
+"VA","Orange","Virginia","US","Orange, VA",2020-03-25,1,0,0
 "VA","Page","Virginia","US","Page, VA",2020-03-25,0,0,0
 "VA","Patrick","Virginia","US","Patrick, VA",2020-03-25,0,0,0
 "VA","Petersburg","Virginia","US","Petersburg, VA",2020-03-25,0,0,0
@@ -2968,32 +2968,32 @@
 "VA","Poquoson","Virginia","US","Poquoson, VA",2020-03-25,0,0,0
 "VA","Portsmouth","Virginia","US","Portsmouth, VA",2020-03-25,3,0,0
 "VA","Powhatan","Virginia","US","Powhatan, VA",2020-03-25,0,0,0
-"VA","Prince Edward","Virginia","US","Prince Edward, VA",2020-03-25,1,0,0
+"VA","Prince Edward","Virginia","US","Prince Edward, VA",2020-03-25,2,0,0
 "VA","Prince George","Virginia","US","Prince George, VA",2020-03-25,0,0,0
-"VA","Prince William","Virginia","US","Prince William, VA",2020-03-25,23,0,0
+"VA","Prince William","Virginia","US","Prince William, VA",2020-03-25,32,0,0
 "VA","Pulaski","Virginia","US","Pulaski, VA",2020-03-25,0,0,0
 "VA","Radford","Virginia","US","Radford, VA",2020-03-25,0,0,0
 "VA","Rappahannock","Virginia","US","Rappahannock, VA",2020-03-25,0,0,0
 "VA","Richmond","Virginia","US","Richmond, VA",2020-03-25,0,0,0
-"VA","Richmond","Virginia","US","Richmond, VA",2020-03-25,11,0,0
+"VA","Richmond","Virginia","US","Richmond, VA",2020-03-25,13,0,0
 "VA","Roanoke","Virginia","US","Roanoke, VA",2020-03-25,0,0,0
-"VA","Roanoke","Virginia","US","Roanoke, VA",2020-03-25,0,0,0
+"VA","Roanoke","Virginia","US","Roanoke, VA",2020-03-25,1,0,0
 "VA","Rockbridge","Virginia","US","Rockbridge, VA",2020-03-25,1,0,0
 "VA","Rockingham","Virginia","US","Rockingham, VA",2020-03-25,3,0,0
 "VA","Russell","Virginia","US","Russell, VA",2020-03-25,0,0,0
 "VA","Salem","Virginia","US","Salem, VA",2020-03-25,0,0,0
 "VA","Scott","Virginia","US","Scott, VA",2020-03-25,0,0,0
-"VA","Shenandoah","Virginia","US","Shenandoah, VA",2020-03-25,0,0,0
+"VA","Shenandoah","Virginia","US","Shenandoah, VA",2020-03-25,3,0,0
 "VA","Smyth","Virginia","US","Smyth, VA",2020-03-25,0,0,0
 "VA","Southampton","Virginia","US","Southampton, VA",2020-03-25,0,0,0
-"VA","Spotsylvania","Virginia","US","Spotsylvania, VA",2020-03-25,2,0,0
+"VA","Spotsylvania","Virginia","US","Spotsylvania, VA",2020-03-25,3,0,0
 "VA","Stafford","Virginia","US","Stafford, VA",2020-03-25,6,0,0
 "VA","Staunton","Virginia","US","Staunton, VA",2020-03-25,0,0,0
 "VA","Suffolk","Virginia","US","Suffolk, VA",2020-03-25,1,0,0
 "VA","Surry","Virginia","US","Surry, VA",2020-03-25,0,0,0
 "VA","Sussex","Virginia","US","Sussex, VA",2020-03-25,0,0,0
 "VA","Tazewell","Virginia","US","Tazewell, VA",2020-03-25,0,0,0
-"VA","Virginia Beach","Virginia","US","Virginia Beach, VA",2020-03-25,17,1,0
+"VA","Virginia Beach","Virginia","US","Virginia Beach, VA",2020-03-25,23,1,0
 "VA","Warren","Virginia","US","Warren, VA",2020-03-25,0,0,0
 "VA","Washington","Virginia","US","Washington, VA",2020-03-25,0,0,0
 "VA","Waynesboro","Virginia","US","Waynesboro, VA",2020-03-25,0,0,0
@@ -3002,7 +3002,7 @@
 "VA","Winchester","Virginia","US","Winchester, VA",2020-03-25,0,0,0
 "VA","Wise","Virginia","US","Wise, VA",2020-03-25,0,0,0
 "VA","Wythe","Virginia","US","Wythe, VA",2020-03-25,0,0,0
-"VA","York","Virginia","US","York, VA",2020-03-25,6,0,0
+"VA","York","Virginia","US","York, VA",2020-03-25,8,0,0
 "Washington","Aaall","Washington","US","Washington",2020-03-25,2469,123,0
 "WA","Adams","Washington","US","Adams, WA",2020-03-25,1,0,0
 "WA","Asotin","Washington","US","Asotin, WA",2020-03-25,0,0,0
@@ -3099,7 +3099,7 @@
 "WV","Wirt","West Virginia","US","Wirt, WV",2020-03-25,0,0,0
 "WV","Wood","West Virginia","US","Wood, WV",2020-03-25,1,0,0
 "WV","Wyoming","West Virginia","US","Wyoming, WV",2020-03-25,0,0,0
-"Wisconsin","Aaall","Wisconsin","US","Wisconsin",2020-03-25,457,5,0
+"Wisconsin","Aaall","Wisconsin","US","Wisconsin",2020-03-25,585,6,0
 "WI","Adams","Wisconsin","US","Adams, WI",2020-03-25,0,0,0
 "WI","Ashland","Wisconsin","US","Ashland, WI",2020-03-25,0,0,0
 "WI","Barron","Wisconsin","US","Barron, WI",2020-03-25,0,0,0
@@ -3112,26 +3112,26 @@
 "WI","Clark","Wisconsin","US","Clark, WI",2020-03-25,0,0,0
 "WI","Columbia","Wisconsin","US","Columbia, WI",2020-03-25,5,0,0
 "WI","Crawford","Wisconsin","US","Crawford, WI",2020-03-25,0,0,0
-"WI","Dane","Wisconsin","US","Dane, WI",2020-03-25,72,0,0
-"WI","Dodge","Wisconsin","US","Dodge, WI",2020-03-25,2,0,0
+"WI","Dane","Wisconsin","US","Dane, WI",2020-03-25,88,1,0
+"WI","Dodge","Wisconsin","US","Dodge, WI",2020-03-25,3,0,0
 "WI","Door","Wisconsin","US","Door, WI",2020-03-25,0,0,0
 "WI","Douglas","Wisconsin","US","Douglas, WI",2020-03-25,4,0,0
 "WI","Dunn","Wisconsin","US","Dunn, WI",2020-03-25,1,0,0
-"WI","Eau Claire","Wisconsin","US","Eau Claire, WI",2020-03-25,4,0,0
+"WI","Eau Claire","Wisconsin","US","Eau Claire, WI",2020-03-25,5,0,0
 "WI","Florence","Wisconsin","US","Florence, WI",2020-03-25,0,0,0
 "WI","Fond du Lac","Wisconsin","US","Fond du Lac, WI",2020-03-25,18,1,0
 "WI","Forest","Wisconsin","US","Forest, WI",2020-03-25,0,0,0
-"WI","Grant","Wisconsin","US","Grant, WI",2020-03-25,0,0,0
+"WI","Grant","Wisconsin","US","Grant, WI",2020-03-25,1,0,0
 "WI","Green","Wisconsin","US","Green, WI",2020-03-25,1,0,0
 "WI","Green Lake","Wisconsin","US","Green Lake, WI",2020-03-25,0,0,0
-"WI","Iowa","Wisconsin","US","Iowa, WI",2020-03-25,0,0,0
+"WI","Iowa","Wisconsin","US","Iowa, WI",2020-03-25,3,0,0
 "WI","Iron","Wisconsin","US","Iron, WI",2020-03-25,0,0,0
 "WI","Jackson","Wisconsin","US","Jackson, WI",2020-03-25,0,0,0
-"WI","Jefferson","Wisconsin","US","Jefferson, WI",2020-03-25,4,0,0
+"WI","Jefferson","Wisconsin","US","Jefferson, WI",2020-03-25,5,0,0
 "WI","Juneau","Wisconsin","US","Juneau, WI",2020-03-25,0,0,0
-"WI","Kenosha","Wisconsin","US","Kenosha, WI",2020-03-25,13,0,0
+"WI","Kenosha","Wisconsin","US","Kenosha, WI",2020-03-25,14,0,0
 "WI","Kewaunee","Wisconsin","US","Kewaunee, WI",2020-03-25,0,0,0
-"WI","La Crosse","Wisconsin","US","La Crosse, WI",2020-03-25,5,0,0
+"WI","La Crosse","Wisconsin","US","La Crosse, WI",2020-03-25,10,0,0
 "WI","Lafayette","Wisconsin","US","Lafayette, WI",2020-03-25,0,0,0
 "WI","Langlade","Wisconsin","US","Langlade, WI",2020-03-25,0,0,0
 "WI","Lincoln","Wisconsin","US","Lincoln, WI",2020-03-25,0,0,0
@@ -3140,59 +3140,59 @@
 "WI","Marinette","Wisconsin","US","Marinette, WI",2020-03-25,0,0,0
 "WI","Marquette","Wisconsin","US","Marquette, WI",2020-03-25,0,0,0
 "WI","Menominee","Wisconsin","US","Menominee, WI",2020-03-25,0,0,0
-"WI","Milwaukee","Wisconsin","US","Milwaukee, WI",2020-03-25,219,3,0
-"WI","Monroe","Wisconsin","US","Monroe, WI",2020-03-25,0,0,0
+"WI","Milwaukee","Wisconsin","US","Milwaukee, WI",2020-03-25,290,3,0
+"WI","Monroe","Wisconsin","US","Monroe, WI",2020-03-25,1,0,0
 "WI","Oconto","Wisconsin","US","Oconto, WI",2020-03-25,0,0,0
 "WI","Oneida","Wisconsin","US","Oneida, WI",2020-03-25,0,0,0
-"WI","Outagamie","Wisconsin","US","Outagamie, WI",2020-03-25,2,0,0
-"WI","Ozaukee","Wisconsin","US","Ozaukee, WI",2020-03-25,16,1,0
+"WI","Outagamie","Wisconsin","US","Outagamie, WI",2020-03-25,4,0,0
+"WI","Ozaukee","Wisconsin","US","Ozaukee, WI",2020-03-25,20,1,0
 "WI","Pepin","Wisconsin","US","Pepin, WI",2020-03-25,0,0,0
 "WI","Pierce","Wisconsin","US","Pierce, WI",2020-03-25,3,0,0
 "WI","Polk","Wisconsin","US","Polk, WI",2020-03-25,0,0,0
 "WI","Portage","Wisconsin","US","Portage, WI",2020-03-25,0,0,0
 "WI","Price","Wisconsin","US","Price, WI",2020-03-25,0,0,0
-"WI","Racine","Wisconsin","US","Racine, WI",2020-03-25,5,0,0
+"WI","Racine","Wisconsin","US","Racine, WI",2020-03-25,7,0,0
 "WI","Richland","Wisconsin","US","Richland, WI",2020-03-25,0,0,0
-"WI","Rock","Wisconsin","US","Rock, WI",2020-03-25,3,0,0
+"WI","Rock","Wisconsin","US","Rock, WI",2020-03-25,4,0,0
 "WI","Rusk","Wisconsin","US","Rusk, WI",2020-03-25,0,0,0
-"WI","Sauk","Wisconsin","US","Sauk, WI",2020-03-25,4,0,0
+"WI","Sauk","Wisconsin","US","Sauk, WI",2020-03-25,6,0,0
 "WI","Sawyer","Wisconsin","US","Sawyer, WI",2020-03-25,0,0,0
 "WI","Shawano","Wisconsin","US","Shawano, WI",2020-03-25,0,0,0
-"WI","Sheboygan","Wisconsin","US","Sheboygan, WI",2020-03-25,6,0,0
+"WI","Sheboygan","Wisconsin","US","Sheboygan, WI",2020-03-25,7,0,0
 "WI","St. Croix","Wisconsin","US","St. Croix, WI",2020-03-25,4,0,0
 "WI","Taylor","Wisconsin","US","Taylor, WI",2020-03-25,0,0,0
 "WI","Trempealeau","Wisconsin","US","Trempealeau, WI",2020-03-25,0,0,0
 "WI","Vernon","Wisconsin","US","Vernon, WI",2020-03-25,0,0,0
 "WI","Vilas","Wisconsin","US","Vilas, WI",2020-03-25,0,0,0
-"WI","Walworth","Wisconsin","US","Walworth, WI",2020-03-25,4,0,0
+"WI","Walworth","Wisconsin","US","Walworth, WI",2020-03-25,5,0,0
 "WI","Washburn","Wisconsin","US","Washburn, WI",2020-03-25,0,0,0
-"WI","Washington","Wisconsin","US","Washington, WI",2020-03-25,17,0,0
-"WI","Waukesha","Wisconsin","US","Waukesha, WI",2020-03-25,31,0,0
+"WI","Washington","Wisconsin","US","Washington, WI",2020-03-25,21,0,0
+"WI","Waukesha","Wisconsin","US","Waukesha, WI",2020-03-25,42,0,0
 "WI","Waupaca","Wisconsin","US","Waupaca, WI",2020-03-25,0,0,0
 "WI","Waushara","Wisconsin","US","Waushara, WI",2020-03-25,0,0,0
 "WI","Winnebago","Wisconsin","US","Winnebago, WI",2020-03-25,5,0,0
 "WI","Wood","Wisconsin","US","Wood, WI",2020-03-25,1,0,0
-"Wyoming","Aaall","Wyoming","US","Wyoming",2020-03-25,31,0,0
-"WY","Albany","Wyoming","US","Albany, WY",2020-03-25,0,0,0
+"Wyoming","Aaall","Wyoming","US","Wyoming",2020-03-25,44,0,0
+"WY","Albany","Wyoming","US","Albany, WY",2020-03-25,1,0,0
 "WY","Big Horn","Wyoming","US","Big Horn, WY",2020-03-25,0,0,0
 "WY","Campbell","Wyoming","US","Campbell, WY",2020-03-25,1,0,0
-"WY","Carbon","Wyoming","US","Carbon, WY",2020-03-25,2,0,0
+"WY","Carbon","Wyoming","US","Carbon, WY",2020-03-25,3,0,0
 "WY","Converse","Wyoming","US","Converse, WY",2020-03-25,0,0,0
 "WY","Crook","Wyoming","US","Crook, WY",2020-03-25,0,0,0
-"WY","Fremont","Wyoming","US","Fremont, WY",2020-03-25,11,0,0
+"WY","Fremont","Wyoming","US","Fremont, WY",2020-03-25,13,0,0
 "WY","Goshen","Wyoming","US","Goshen, WY",2020-03-25,0,0,0
 "WY","Hot Springs","Wyoming","US","Hot Springs, WY",2020-03-25,0,0,0
 "WY","Johnson","Wyoming","US","Johnson, WY",2020-03-25,0,0,0
-"WY","Laramie","Wyoming","US","Laramie, WY",2020-03-25,8,0,0
+"WY","Laramie","Wyoming","US","Laramie, WY",2020-03-25,11,0,0
 "WY","Lincoln","Wyoming","US","Lincoln, WY",2020-03-25,0,0,0
-"WY","Natrona","Wyoming","US","Natrona, WY",2020-03-25,2,0,0
+"WY","Natrona","Wyoming","US","Natrona, WY",2020-03-25,4,0,0
 "WY","Niobrara","Wyoming","US","Niobrara, WY",2020-03-25,0,0,0
 "WY","Park","Wyoming","US","Park, WY",2020-03-25,1,0,0
 "WY","Platte","Wyoming","US","Platte, WY",2020-03-25,0,0,0
 "WY","Sheridan","Wyoming","US","Sheridan, WY",2020-03-25,4,0,0
 "WY","Sublette","Wyoming","US","Sublette, WY",2020-03-25,0,0,0
-"WY","Sweetwater","Wyoming","US","Sweetwater, WY",2020-03-25,0,0,0
-"WY","Teton","Wyoming","US","Teton, WY",2020-03-25,2,0,0
+"WY","Sweetwater","Wyoming","US","Sweetwater, WY",2020-03-25,1,0,0
+"WY","Teton","Wyoming","US","Teton, WY",2020-03-25,5,0,0
 "WY","Uinta","Wyoming","US","Uinta, WY",2020-03-25,0,0,0
 "WY","Washakie","Wyoming","US","Washakie, WY",2020-03-25,0,0,0
 "WY","Weston","Wyoming","US","Weston, WY",2020-03-25,0,0,0
