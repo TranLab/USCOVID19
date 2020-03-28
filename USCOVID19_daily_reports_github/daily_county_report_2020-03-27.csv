@@ -189,7 +189,7 @@
 "AR","White","Arkansas","US","White, AR",2020-03-27,6,0,0
 "AR","Woodruff","Arkansas","US","Woodruff, AR",2020-03-27,1,0,0
 "AR","Yell","Arkansas","US","Yell, AR",2020-03-27,0,0,0
-"California","Aaall","California","US","California",2020-03-27,3006,65,3
+"California","Aaall","California","US","California",2020-03-27,3801,78,3
 "CA","Alameda","California","US","Alameda, CA",2020-03-27,204,4,0
 "CA","Alpine","California","US","Alpine, CA",2020-03-27,0,0,0
 "CA","Amador","California","US","Amador, CA",2020-03-27,2,0,0
@@ -563,21 +563,21 @@
 "HI","Kalawao","Hawaii","US","Kalawao, HI",2020-03-27,0,0,0
 "HI","Kauai","Hawaii","US","Kauai, HI",2020-03-27,5,0,0
 "HI","Maui","Hawaii","US","Maui, HI",2020-03-27,14,0,0
-"Idaho","Aaall","Idaho","US","Idaho",2020-03-27,185,3,0
-"ID","Ada","Idaho","US","Ada, ID",2020-03-27,53,0,0
+"Idaho","Aaall","Idaho","US","Idaho",2020-03-27,230,4,0
+"ID","Ada","Idaho","US","Ada, ID",2020-03-27,75,0,0
 "ID","Adams","Idaho","US","Adams, ID",2020-03-27,0,0,0
-"ID","Bannock","Idaho","US","Bannock, ID",2020-03-27,2,0,0
+"ID","Bannock","Idaho","US","Bannock, ID",2020-03-27,3,0,0
 "ID","Bear Lake","Idaho","US","Bear Lake, ID",2020-03-27,0,0,0
 "ID","Benewah","Idaho","US","Benewah, ID",2020-03-27,0,0,0
 "ID","Bingham","Idaho","US","Bingham, ID",2020-03-27,1,0,0
-"ID","Blaine","Idaho","US","Blaine, ID",2020-03-27,82,2,0
+"ID","Blaine","Idaho","US","Blaine, ID",2020-03-27,99,2,0
 "ID","Boise","Idaho","US","Boise, ID",2020-03-27,0,0,0
 "ID","Bonner","Idaho","US","Bonner, ID",2020-03-27,0,0,0
 "ID","Bonneville","Idaho","US","Bonneville, ID",2020-03-27,0,0,0
 "ID","Boundary","Idaho","US","Boundary, ID",2020-03-27,0,0,0
 "ID","Butte","Idaho","US","Butte, ID",2020-03-27,0,0,0
 "ID","Camas","Idaho","US","Camas, ID",2020-03-27,0,0,0
-"ID","Canyon","Idaho","US","Canyon, ID",2020-03-27,21,1,0
+"ID","Canyon","Idaho","US","Canyon, ID",2020-03-27,23,1,0
 "ID","Caribou","Idaho","US","Caribou, ID",2020-03-27,0,0,0
 "ID","Cassia","Idaho","US","Cassia, ID",2020-03-27,1,0,0
 "ID","Clark","Idaho","US","Clark, ID",2020-03-27,0,0,0
@@ -591,7 +591,7 @@
 "ID","Idaho","Idaho","US","Idaho, ID",2020-03-27,1,0,0
 "ID","Jefferson","Idaho","US","Jefferson, ID",2020-03-27,2,0,0
 "ID","Jerome","Idaho","US","Jerome, ID",2020-03-27,0,0,0
-"ID","Kootenai","Idaho","US","Kootenai, ID",2020-03-27,9,0,0
+"ID","Kootenai","Idaho","US","Kootenai, ID",2020-03-27,11,0,0
 "ID","Latah","Idaho","US","Latah, ID",2020-03-27,0,0,0
 "ID","Lemhi","Idaho","US","Lemhi, ID",2020-03-27,0,0,0
 "ID","Lewis","Idaho","US","Lewis, ID",2020-03-27,0,0,0
@@ -605,7 +605,7 @@
 "ID","Power","Idaho","US","Power, ID",2020-03-27,0,0,0
 "ID","Shoshone","Idaho","US","Shoshone, ID",2020-03-27,0,0,0
 "ID","Teton","Idaho","US","Teton, ID",2020-03-27,2,0,0
-"ID","Twin Falls","Idaho","US","Twin Falls, ID",2020-03-27,1,0,0
+"ID","Twin Falls","Idaho","US","Twin Falls, ID",2020-03-27,2,0,0
 "ID","Valley","Idaho","US","Valley, ID",2020-03-27,1,0,0
 "ID","Washington","Idaho","US","Washington, ID",2020-03-27,0,0,0
 "Illinois","Aaall","Illinois","US","Illinois",2020-03-27,3026,34,2
@@ -1682,7 +1682,7 @@
 "MT","Wheatland","Montana","US","Wheatland, MT",2020-03-27,0,0,0
 "MT","Wibaux","Montana","US","Wibaux, MT",2020-03-27,0,0,0
 "MT","Yellowstone","Montana","US","Yellowstone, MT",2020-03-27,20,0,0
-"Nebraska","Aaall","Nebraska","US","Nebraska",2020-03-27,85,0,0
+"Nebraska","Aaall","Nebraska","US","Nebraska",2020-03-27,89,0,0
 "NE","Adams","Nebraska","US","Adams, NE",2020-03-27,2,0,0
 "NE","Antelope","Nebraska","US","Antelope, NE",2020-03-27,0,0,0
 "NE","Arthur","Nebraska","US","Arthur, NE",2020-03-27,0,0,0
@@ -1710,7 +1710,7 @@
 "NE","Deuel","Nebraska","US","Deuel, NE",2020-03-27,0,0,0
 "NE","Dixon","Nebraska","US","Dixon, NE",2020-03-27,0,0,0
 "NE","Dodge","Nebraska","US","Dodge, NE",2020-03-27,1,0,0
-"NE","Douglas","Nebraska","US","Douglas, NE",2020-03-27,46,0,0
+"NE","Douglas","Nebraska","US","Douglas, NE",2020-03-27,49,0,0
 "NE","Dundy","Nebraska","US","Dundy, NE",2020-03-27,0,0,0
 "NE","Fillmore","Nebraska","US","Fillmore, NE",2020-03-27,0,0,0
 "NE","Franklin","Nebraska","US","Franklin, NE",2020-03-27,0,0,0
@@ -1759,7 +1759,7 @@
 "NE","Richardson","Nebraska","US","Richardson, NE",2020-03-27,0,0,0
 "NE","Rock","Nebraska","US","Rock, NE",2020-03-27,0,0,0
 "NE","Saline","Nebraska","US","Saline, NE",2020-03-27,0,0,0
-"NE","Sarpy","Nebraska","US","Sarpy, NE",2020-03-27,9,0,0
+"NE","Sarpy","Nebraska","US","Sarpy, NE",2020-03-27,11,0,0
 "NE","Saunders","Nebraska","US","Saunders, NE",2020-03-27,2,0,0
 "NE","Scotts Bluff","Nebraska","US","Scotts Bluff, NE",2020-03-27,0,0,0
 "NE","Seward","Nebraska","US","Seward, NE",2020-03-27,0,0,0
